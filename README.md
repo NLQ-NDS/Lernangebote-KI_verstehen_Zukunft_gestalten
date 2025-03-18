@@ -27,7 +27,7 @@ Derzeitige Beteiligte:
 -  Niedersächsischen Landesinstituts für schulische Qualitätsentwicklung (NLQ Hildesheim)
     - Christian Haake (NLQ)
     - Jörg Steinemann (NLQ)
-- „Agentur J&K – Jöran und Konsorten
+- „Agentur J&K – Jöran und Konsorten"
 
 
 ## Lizenz
