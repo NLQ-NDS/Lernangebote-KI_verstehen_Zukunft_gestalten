@@ -1,8 +1,14 @@
 # MODULARISIERUNG DER KI QUALIFIZIERUNG FÜR DAS PERSONAL IM BILDUNGSSEKTOR
 
+// was ist das - Prosa
+
 ## Strukturübersicht
 
 // Übersichtsgrafik
+
+## Zielgruppe
+
+
 
 ## Grundlegende Dokumente
 
