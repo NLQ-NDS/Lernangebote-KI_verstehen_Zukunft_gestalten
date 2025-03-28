@@ -34,7 +34,7 @@ Unterscheidung personenbeziehbaren Daten und Daten von Personen öffentlichen In
 - 
 
 
-## Contibution
+## Contribution
 
 - Verantwortlich seitens des NLQ: Christian Haake und Jörg Steinemann 
 - Konzeption, Redaktion: Jöran Muuß-Merholz, Blanche Fabri, Nicole Hagen, Frank Homp der Agentur J&K – Jöran und Konsorten
