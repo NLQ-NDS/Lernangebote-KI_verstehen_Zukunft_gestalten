@@ -1,4 +1,4 @@
-# Einführung: KI in Schule und Unterricht
+# Einführung: Einführung: KI in Schule und Verwaltung – Funktionsweise, Chancen und Herausforderungen
 Angebotskennung: M1.1-1
 
 ## Inhaltiche Gestaltung
