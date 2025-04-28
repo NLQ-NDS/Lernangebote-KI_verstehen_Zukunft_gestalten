@@ -12,8 +12,7 @@
 
 ## Grundlegende Dokumente
 
-- [Grundlegende Systematisierung](Entwurf_Public-KI Angebote/latest_KI-Fortbildungssystematisierung.docx)
-- [Grundlegende Systematisierung](Entwurf_Public-KI Angebote/latest_KI-Fortbildungssystematisierung.pdf)
+- [Systematisierung](https://github.com/NLQ-NDS/Lernangebote-zu-KI-verstehen.-Zukunft-gestalten./releases/tag/V5.1)
 
 ## Beipackzettel
 
