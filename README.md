@@ -8,11 +8,11 @@
 
 ## Zielgruppe
 
-•	Mitarbeitende der Behörden im Geschäftsbereich des Kultusministeriums 
-•	Lehrkräfte
-•	Schulisches Leitungspersonal: Schulleitungen, stellvertretende Schulleitungen, didaktische Leitungen, …
-•	Leitungsunterstützendes Personal
-•	Bildungsadministratorinnen und -administratoren
+- Mitarbeitende der Behörden im Geschäftsbereich des Kultusministeriums 
+- Lehrkräfte
+- Schulisches Leitungspersonal: Schulleitungen, stellvertretende Schulleitungen, didaktische Leitungen, …
+- Leitungsunterstützendes Personal
+- Bildungsadministratorinnen und -administratoren
 
 ## Grundlegende Dokumente
 
