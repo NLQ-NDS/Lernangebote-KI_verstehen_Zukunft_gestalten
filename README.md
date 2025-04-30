@@ -23,7 +23,7 @@ Dieses Repository dient als zentrale Anlaufstelle für alle Materialien. Wir lad
 
 ## Grundlegende Dokumente
 
-- [Systematisierung](https://github.com/NLQ-NDS/Lernangebote-zu-KI-verstehen.-Zukunft-gestalten./releases/tag/V5.1)
+- [Handreichung zur Fortbildungssystematisierung](https://github.com/NLQ-NDS/Lernangebote-zu-KI-verstehen.-Zukunft-gestalten./releases/tag/V5.2)
 
 ## Beipackzettel
 
