@@ -48,7 +48,7 @@ Diese Arbeit unterliegt den Bestimmungen einer
 
 Diese Angebote sind frei lizenziert und im Sinne von Open Educational Resources (OER) offen zur weiteren Verwendung, Veränderung, Weitergabe etc. Als Gesamtwerk steht er unter der Lizenz CC BY 4.0. Details zu dieser Lizenz finden Sie hier in Kurzform und hier ausführlich. 
 
-// Zu jedem Angebot stehen die Details zur Namensnennung unter dem Punkt Lizenz
+Zu jedem Angebot stehen die Details zur Namensnennung unter dem Punkt Lizenz.
 
 *Beispiel für das NLQ*
 
