@@ -1,6 +1,13 @@
 # MODULARISIERUNG DER KI QUALIFIZIERUNG FÜR DAS PERSONAL IM BILDUNGSSEKTOR
 
-// was ist das - Prosa
+Willkommen bei den Lernangeboten "KI VERSTEHEN. ZUKUNFT GESTALTEN." In diesem GitHub-Repository finden Sie alle Lernangebote zur Kompetenzentwicklung im Bereich Künstliche Intelligenz (KI) für Lehrkräfte und Bildungspersonal, zentral gesammelt und strukturiert. Unser Ziel ist es, ein vielseitiges und flexibles Fortbildungssystem anzubieten, das Sie dabei unterstützt, Ihre Kompetenzen im Umgang mit KI gezielt zu erweitern und nachhaltig zu vertiefen. Die Angebote sind nach einem modularen Kompetenzraster aufgebaut, das sich an drei Perspektiven orientiert: 
+- Wie funktioniert KI? (Grundlagen), 
+- Wie nutze ich KI? (Anwendung) und 
+- Wie wirkt KI? (gesellschaftliche & ethische Aspekte). 
+
+Drei Kompetenzstufen ermöglichen dabei einen schrittweisen Aufbau von Wissen – vom Einstieg bis zur Spezialisierung. Wir bieten eine breite Auswahl an Lernformaten – von Präsenzveranstaltungen über synchrone und asynchrone Online-Kurse bis hin zu Selbstlernmodulen –, damit Sie flexibel und passend zu Ihren Bedürfnissen lernen können. Der Fokus liegt auf der praktischen Anwendung von KI im Bildungsbereich, dem Verständnis technologischer und gesellschaftlicher Aspekte sowie der Integration ethischer und datenschutzrechtlicher Überlegungen. 
+
+Dieses Repository dient als zentrale Anlaufstelle für alle Materialien. Wir laden Sie ein, die Angebote zu entdecken, Ihren individuellen Lernpfad zu gestalten und sich gerne auch an der Weiterentwicklung zu beteiligen.   
 
 ## Strukturübersicht
 
@@ -11,9 +18,6 @@
 
 
 ## Grundlegende Dokumente
-
-- [Grundlegende Systematisierung](Entwurf_Public-KI Angebote/latest_KI-Fortbildungssystematisierung.docx)
-- [Grundlegende Systematisierung](Entwurf_Public-KI Angebote/latest_KI-Fortbildungssystematisierung.pdf)
 
 ## Beipackzettel
 
