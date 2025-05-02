@@ -42,7 +42,7 @@ Beteiligte:
 -	Kolleginnen und Kollegen der Medienberatung Niedersachsen
 -	Kolleginnen und Kollegen, die sich an einer Umfrage beteiligt haben.
 
-Einmalige Beteiligungen (z.B.: Gestaltung eines Lernangebotes) werden im Changelog ausgewiesen.
+Einmalige Beteiligungen (z.B.: Gestaltung eines Lernangebotes) werden im Changelog der Handreichung ausgewiesen.
 
 ### Umsetzung der Lernangebote 
 
