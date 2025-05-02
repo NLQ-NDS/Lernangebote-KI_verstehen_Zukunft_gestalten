@@ -11,7 +11,7 @@ Dieses Repository dient als zentrale Anlaufstelle für alle Materialien. Wir lad
 
 ## Strukturübersicht
 
-![Modularisierungsansatz](Media/2024-12-27_Modularisierungsansatz.png)
+![Modularisierungsansatz](Assets/2024-12-27_Modularisierungsansatz.png)
 
 ## Zielgruppe
 
