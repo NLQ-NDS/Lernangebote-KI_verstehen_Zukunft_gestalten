@@ -35,7 +35,7 @@ Für Fortbildende
 
 Dieses Dokument ist im Rahmen der Arbeitsgruppe KI entstanden:
 
-Entwicklung:	Christian Haake (NLQ)
+Entwicklung: Christian Haake (NLQ)
 
 Beteiligte:
 -	Maßgebliche Beteiligung am Reviewprozess im Rahmen der LKM durch Christian Mayr (ALP Bayern), Torsten Becker (Bildungscampus Saarland) 
