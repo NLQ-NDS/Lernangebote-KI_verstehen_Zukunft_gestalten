@@ -31,6 +31,20 @@ Für Fortbildende
 
 ## Contribution
 
+### Handreichung zur Fortbildungssystematisierung
+
+Dieses Dokument ist im Rahmen der Arbeitsgruppe KI entstanden:
+
+Entwicklung:	Christian Haake (NLQ)
+Beteiligte:
+-	Maßgebliche Beteiligung am Reviewprozess im Rahmen der LKM durch Christian Mayr (ALP Bayern), Torsten Becker (Bildungscampus Saarland) 
+-	Kolleginnen und Kollegen der Medienberatung Niedersachsen
+-	Kolleginnen und Kollegen, die sich an einer Umfrage beteiligt haben.
+
+Einmalige Beteiligungen (z.B.: Gestaltung eines Lernangebotes) werden im Changelog ausgewiesen.
+
+### Umsetzung der Lernangebote 
+
 Die jeweilige Contribution eines Angebots wird in der *Readme* explizit dargestellt. 
 
 Derzeitige Beteiligte:
@@ -38,7 +52,6 @@ Derzeitige Beteiligte:
     - Christian Haake (NLQ)
     - Jörg Steinemann (NLQ)
 - „Agentur J&K – Jöran und Konsorten"
-
 
 ## Lizenz
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
