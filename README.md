@@ -25,9 +25,11 @@ Dieses Repository dient als zentrale Anlaufstelle für alle Materialien. Wir lad
 
 - [Handreichung zur Fortbildungssystematisierung](https://github.com/NLQ-NDS/Lernangebote-zu-KI-verstehen.-Zukunft-gestalten./releases/tag/V5.2)
 
-## Beipackzettel
+## Angebote für Multiplizierende (Fortbildende)
 
-Für Fortbildende
+In diesem Bereich finden Sie spezielle Ressourcen und Materialien, die Sie als Multiplizierende bei der Nutzung und Anpassung der Lernangebote „KI verstehen. Zukunft gestalten.“ unterstützen und Informationen zur Qualifizierungsreihe. Nutzen Sie diese Angebote, um KI-Themen flexibel und passgenau in Ihrer eigenen Bildungsarbeit zu vermitteln.
+
+[Weg zu den Angeboten für Multiplizierende (Fortbildende) ](Multiplizierende/Readme.md)
 
 ## Contribution
 

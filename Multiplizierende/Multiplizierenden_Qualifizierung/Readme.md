@@ -1,0 +1,1 @@
+# Qualifizierungsreihe für Multiplizierenden
