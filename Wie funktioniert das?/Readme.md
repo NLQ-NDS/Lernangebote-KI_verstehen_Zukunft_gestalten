@@ -9,7 +9,7 @@ In diesem Repository finden Sie die definierten Lernangebote. Erstellte Lernange
 -  [M1.1-1 Künstliche Intelligenz in Schule und Unterricht: Funktionsweise, Chancen und Herausforderungen](<Stufe 1/M1-1-1 Einführung: KI in Schule und Verwaltung – Funktionsweise, Chancen und Herausforderungen>)
    -  Zielsetzung: Vermittlung der Grundlagen von KI und Sensibilisierung für Datenschutz und Urheberrecht.
 
-- [M1.1-2 Grundsätzliches Verständnis der Funktionsweise von KI](Wie funktioniert das?/Stufe 1/M1-1-2 Grundsätzliches Verständnis der Funktionsweise von KI)
+- [M1.1-2 Grundsätzliches Verständnis der Funktionsweise von KI](<Wie funktioniert das?/Stufe 1/M1-1-2 Grundsätzliches Verständnis der Funktionsweise von KI>)
   - Zielsetzung: Vermittlung eines grundlegenden Verständnisses darüber, was KI ist und wie sie funktioniert.
 
 - M1.1-3 Kenntnisse verschiedener Arten von Chatbots und KI-Anwendungen im Bildungswesen
