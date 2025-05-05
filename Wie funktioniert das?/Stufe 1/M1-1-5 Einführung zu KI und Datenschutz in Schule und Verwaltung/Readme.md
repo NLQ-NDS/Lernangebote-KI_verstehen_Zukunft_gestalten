@@ -1,4 +1,4 @@
-# Einführung: Datenschutz
+# Einführung zu KI und Datenschutz in Schule und Verwaltung
 Angebotskennung: M1-1-5 
 
 ## Inhaltiche Gestaltung
