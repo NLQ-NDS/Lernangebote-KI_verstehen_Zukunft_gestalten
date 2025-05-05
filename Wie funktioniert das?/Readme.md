@@ -9,21 +9,21 @@ In diesem Repository finden Sie die definierten Lernangebote. Erstellte Lernange
 -  [M1.1-1 Künstliche Intelligenz in Schule und Unterricht: Funktionsweise, Chancen und Herausforderungen](<Stufe 1/M1-1-1 Einführung: KI in Schule und Verwaltung – Funktionsweise, Chancen und Herausforderungen>)
    -  Zielsetzung: Vermittlung der Grundlagen von KI und Sensibilisierung für Datenschutz und Urheberrecht.
 
-- [M1.1-2 Grundsätzliches Verständnis der Funktionsweise von KI](<Wie funktioniert das?/Stufe 1/M1-1-2 Grundsätzliches Verständnis der Funktionsweise von KI>)
+- [M1.1-2 Grundsätzliches Verständnis der Funktionsweise von KI](<Stufe 1/M1-1-2 Grundsätzliches Verständnis der Funktionsweise von KI>)
   - Zielsetzung: Vermittlung eines grundlegenden Verständnisses darüber, was KI ist und wie sie funktioniert.
 
 - M1.1-3 Kenntnisse verschiedener Arten von Chatbots und KI-Anwendungen im Bildungswesen
   - Zielsetzung: Aufzeigen der Bandbreite an KI-Anwendungen und spezifischen Chatbots im Bildungskontext.
 
-- [M1.1-4 Grundlagen der KI in der Verwaltung](<Wie funktioniert das?/Stufe 1/M1-1-4V Grundlagen der KI in der Verwaltung>)
+- [M1.1-4 Grundlagen der KI in der Verwaltung](<Stufe 1/M1-1-4V Grundlagen der KI in der Verwaltung>)
   - Zielsetzung:  Die Teilnehmenden verstehen grundlegende Konzepte der KI und deren Relevanz in Verwaltungsprozessen.
 
-- [M1.1-5 Einführung zu KI und Datenschutz in Schule und Verwaltung](<Wie funktioniert das?/Stufe 1/M1-1-5 Einführung zu KI und Datenschutz in Schule und Verwaltung>)
+- [M1.1-5 Einführung zu KI und Datenschutz in Schule und Verwaltung](<Stufe 1/M1-1-5 Einführung zu KI und Datenschutz in Schule und Verwaltung>)
   - Zielsetzung: 
     - Die Teilnehmenden können datenschutzrechtliche Risiken beim Einsatz von KI-Systemen erkennen, verstehen die Anforderungen von DSGVO und AI Act und wissen, wie sie KI verantwortungsvoll und datenschutzkonform einsetzen.
     - Sie entwickeln ein Bewusstsein für die relevanten Rahmenbedingungen und erweitern ihre Medienkompetenz im Hinblick auf Persönlichkeitsrechte und sichere digitale Prozesse.
 
-- [M1.1-6 Urheberrecht](<M1-1-6 Einführung-Urheberrecht>)
+- [M1.1-6 Urheberrecht](<Stufe 1/M1-1-6 Einführung-Urheberrecht>)
   - Zielsetzung: Die Teilnehmenden erwerben die Kompetenz, zentrale urheberrechtliche Aspekte beim Einsatz von KI in Schule und Verwaltung zu beurteilen und anzuwenden.
 
 ## Kompetenzstufe 2:
