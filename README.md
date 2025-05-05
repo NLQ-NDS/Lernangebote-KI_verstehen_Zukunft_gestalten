@@ -29,7 +29,7 @@ Dieses Repository dient als zentrale Anlaufstelle für alle Materialien. Wir lad
 
 In diesem Bereich finden Sie spezielle Ressourcen und Materialien, die Sie als Multiplizierende bei der Nutzung und Anpassung der Lernangebote „KI verstehen. Zukunft gestalten.“ unterstützen und Informationen zur Qualifizierungsreihe. Nutzen Sie diese Angebote, um KI-Themen flexibel und passgenau in Ihrer eigenen Bildungsarbeit zu vermitteln.
 
-[Weg zu den Angeboten für Multiplizierende (Fortbildende) ](Multiplizierende/Readme.md)
+[Zu den Angeboten für Multiplizierende (Fortbildende) ](Multiplizierende/Readme.md)
 
 ## Contribution
 

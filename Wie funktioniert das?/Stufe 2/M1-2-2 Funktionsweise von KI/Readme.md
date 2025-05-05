@@ -1,5 +1,5 @@
-# Tiel
-Angebotskennung: 
+# Funktionsweise von KI
+Angebotskennung: M1-2-2
 
 ## Inhaltiche Gestaltung
 

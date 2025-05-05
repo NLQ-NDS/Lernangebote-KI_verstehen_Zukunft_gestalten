@@ -1,5 +1,5 @@
-# Tiel
-Angebotskennung: 
+# Grundlagen der KI in der Verwaltung
+Angebotskennung: M1-1-4
 
 ## Inhaltiche Gestaltung
 

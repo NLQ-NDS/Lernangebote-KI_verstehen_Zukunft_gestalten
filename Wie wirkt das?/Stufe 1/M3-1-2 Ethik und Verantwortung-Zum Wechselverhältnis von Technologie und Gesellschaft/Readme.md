@@ -1,5 +1,5 @@
-# Tiel
-Angebotskennung: 
+#  Ethik und Verantwortung-Zum Wechselverhältnis von Technologie und Gesellschaft
+Angebotskennung: M3-1-2
 
 ## Inhaltiche Gestaltung
 

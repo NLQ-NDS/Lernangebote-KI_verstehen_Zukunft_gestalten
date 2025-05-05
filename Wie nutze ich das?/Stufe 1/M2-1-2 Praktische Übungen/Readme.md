@@ -1,5 +1,5 @@
-# Tiel
-Angebotskennung: 
+# Praktische Übungen
+Angebotskennung: M2-1-2 
 
 ## Inhaltiche Gestaltung
 

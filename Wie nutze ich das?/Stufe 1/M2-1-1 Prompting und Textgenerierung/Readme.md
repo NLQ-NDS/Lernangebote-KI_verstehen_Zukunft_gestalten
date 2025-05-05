@@ -1,5 +1,5 @@
-# Tiel
-Angebotskennung: 
+# Prompting und Textgenerierung
+Angebotskennung: M2-1-1 
 
 ## Inhaltiche Gestaltung
 

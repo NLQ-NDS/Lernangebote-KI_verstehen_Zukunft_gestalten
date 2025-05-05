@@ -1,5 +1,5 @@
-# Tiel
-Angebotskennung: 
+# Ethik und Verantwortung-Individuum und Gesellschaft
+Angebotskennung: M3-1-1
 
 ## Inhaltiche Gestaltung
 

@@ -1,5 +1,5 @@
-# Tiel
-Angebotskennung: 
+# Grundlegendes Verständnis von LLM und Maschinellem Lernen
+Angebotskennung: M1-2-1 
 
 ## Inhaltiche Gestaltung
 

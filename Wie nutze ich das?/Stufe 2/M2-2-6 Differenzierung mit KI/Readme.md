@@ -1,5 +1,5 @@
-# Tiel
-Angebotskennung: 
+# Differenzierung mit KI
+Angebotskennung: M2-2-6 
 
 ## Inhaltiche Gestaltung
 
