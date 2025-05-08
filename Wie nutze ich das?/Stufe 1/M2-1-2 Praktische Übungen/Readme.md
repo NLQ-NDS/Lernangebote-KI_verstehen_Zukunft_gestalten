@@ -1,11 +1,44 @@
-# Praktische Übungen
+# Anwendung des Gelernten durch praktische Übungen
 Angebotskennung: M2-1-2 
 
 ## Inhaltiche Gestaltung
 
-Zielsetzung: 
+**Kurzbeschreibung**
 
-Inhalte:
+Dieses Online-Lernangebot ist das Modul "Prompting und Textgenerierung mit KI" (M2.1-1) innerhalb des Programms "KI verstehen. Zukunft gestalten". Als Selbstlernkurs ermöglicht es Teilnehmenden, sich eigenständig mit der effektiven Nutzung von textgenerierenden KI-Systemen auseinanderzusetzen und deren Potenziale sowie Herausforderungen für Bildung und Verwaltung zu erschließen. Ein Schwerpunkt liegt auf der Vermittlung von Kompetenzen im Bereich des effektiven "Promptings", der gezielten Formulierung von Eingaben für KI-Systeme, sowie der kritischen Reflexion der Ergebnisse unter Berücksichtigung rechtlicher und ethischer Aspekte. Teilnehmende werden nach der Anmeldung direkt eingeschrieben und können sofort mit der Bearbeitung beginnen.
+
+**Inhalte**
+
+Das Modul behandelt die folgenden Kerninhalte:
+
+Grundlagen des Promptings und der Funktionsweise KI-gestützter Textgenerierung.
+Vorstellung und Anwendung verschiedener Prompt-Strategien und "Frameworks" (z. B. Rolle-Aufgabe-Kriterien-Ziel-Format).
+Die Notwendigkeit der iterativen Anpassung von Prompts im Dialog mit der KI.
+Kritische Reflexion über Bias, ethische Aspekte und datenschutzrechtliche Fragestellungen im Kontext KI-generierter Texte, inklusive der Rolle von "Layern" oder "Schichten" über grundlegenden KI-Modellen.
+Praktische Hinweise zur Erstellung effektiver Eingaben und zur kritischen Bewertung der erzielten Ergebnisse.
+Das Prinzip des In-Context-Learnings zur Einbringung eigener Informationen in die KI-Konversation.
+
+**Format**
+
+Das Modul ist als Selbstlernkurs konzipiert. Nach der Anmeldung erhalten die Teilnehmenden umgehend Zugang zu den Inhalten und können direkt mit der Bearbeitung beginnen. Die geschätzte Bearbeitungszeit beträgt maximal ca. 60 Minuten.
+
+**Zielgruppe**
+
+Dieses Angebot richtet sich an alle Mitarbeitende im Geschäftsbereich des Kultusministeriums
+
+**Hinweise**
+
+Für die Teilnahme sind keine spezifischen technischen Vorkenntnisse erforderlich. Ein grundlegendes Interesse an digitaler Bildung und der Nutzung digitaler Werkzeuge für die Textarbeit ist von Vorteil. Ein pädagogischer oder verwaltungsbezogener Hintergrund kann den Transfer in die eigene Praxis erleichtern. 
+
+Vertiefende Grundlagen zu KI, Datenschutz und Ethik bieten die Module 
+
+M1.1 Einführung: Künstliche Intelligenz in Schule und Unterricht – Funktionsweise, Chancen und Herausforderungen,
+M1.1 Grundsätzliches Verständnis der Funktionsweise von KI, 
+M1.1 Einführung: Datenschutz,
+M3.1 KI und Ethik: Chancen und Risiken der KI-Nutzung und
+M3.1 Ethik und Verantwortung: Zum Wechselverhältnis von Technologie und Gesellschaft.
+
+Die Bereitschaft zur Auseinandersetzung mit neuen Technologien und zur Reflexion der eigenen Rolle im digitalen Wandel wird vorausgesetzt.
 
 
 ## Bestandteile des Angebots

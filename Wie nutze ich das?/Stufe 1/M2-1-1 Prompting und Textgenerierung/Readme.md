@@ -3,9 +3,33 @@ Angebotskennung: M2-1-1
 
 ## Inhaltiche Gestaltung
 
-Zielsetzung: 
+**Kurzbeschreibung**
 
-Inhalte:
+Dieses Lernangebot behandelt den zielgerichteten Umgang mit textgenerierenden KI-Systemen und analysiert die sich daraus ergebenden Potenziale und Herausforderungen für den Einsatz in schulischen und administrativen Kontexten. Im Fokus steht der Erwerb grundlegender Kompetenzen im Bereich des effektiven "Promptings", d.h. der präzisen Formulierung von Eingaben für KI-Systeme
+
+**Inhalte**
+
+Das Modul vermittelt Kenntnisse zu folgenden Themen:
+
+- Grundlagen des Promptings und der Textgenerierung durch KI.
+- Vorstellung verschiedener Prompt-Strategien und "Frameworks" (z.B. Rolle-Aufgabe-Kriterien-Ziel-Format).
+- Erfordernis der iterativen Nachschärfung von Prompts im Dialog mit dem System.
+- Diskussion von Bias und ethischen Aspekten im Kontext KI-generierter Texte.
+- Erläuterung von Filtermechanismen ("Layern") in KI-Systemen anhand von Beispielen (u.a. Microsoft, Google).
+- Praktische Hinweise zur Erstellung effektiver Prompts und zur kritischen Evaluation der generierten Ergebnisse.
+- Einführung in das Prinzip des "In-Context-Learnings" zur Einbindung nutzerspezifischer Informationen.
+
+**Format**
+
+Dies ist ein Online-Selbstlernkurs. Nach erfolgter Anmeldung steht das Angebot unmittelbar zur Bearbeitung bereit. Die geschätzte Bearbeitungszeit beträgt maximal ca. 60 Minuten.
+
+**Zielgruppe**
+
+Das Angebot richtet sich an alle Mitarbeitende im Geschäftsbereich des Kultusministeriums.
+
+**Voraussetzungen und Hinweise**
+
+Für die Teilnahme an diesem Modul sind keine spezifischen technischen Vorkenntnisse erforderlich. Ein grundlegendes Interesse an digitaler Bildung, neuen Formen der Textarbeit mit digitalen Werkzeugen sowie ein pädagogischer oder verwaltungsbezogener Hintergrund sind hilfreich. Verwandte Themen werden in anderen Modulen der Reihe behandelt, z.B. M1.1 (Einführung KI), M1.1 (Funktionsweise KI), M1.1 (Datenschutz), M3.1 (KI und Ethik), M3.1 (Ethik und Verantwortung), deren vorherige Bearbeitung zum tieferen Verständnis beitragen kann, jedoch keine Bedingung für die Teilnahme an diesem Modul ist. Die Bereitschaft zur Auseinandersetzung mit digitalen Technologien und zur Reflexion der eigenen Rolle im Kontext des digitalen Wandels wird vorausgesetzt.
 
 
 ## Bestandteile des Angebots

@@ -3,25 +3,40 @@ Angebotskennung: M1.1-1
 
 ## Inhaltiche Gestaltung
 
-Zielsetzung: Vermittlung der Grundlagen von KI für Schule und Unterricht. Erste Sensibilisierung für Datenschutz und Urheberrecht.
-Inhalte:
+Dieses Lernangebot ist Teil des Programms "KI verstehen. Zukunft gestalten" und als Selbstlernkurs konzipiert. Nach erfolgreicher Anmeldung erhalten Sie umgehend Zugang zu den Kursinhalten und können direkt mit der Bearbeitung beginnen.
 
-Einführung in die KI-Technologie: Definition und g (generative Text-KI: Erzeugung neuer Texte auf Basis von Wahrscheinlichkeiten zwischen Wörtern bzw. Silben aus einem Original-Text-Datensatz).
+**Kurzbeschreibung**
 
-Überblick über Datenschutz und Urheberrecht im Kontext von KI:
+Dieses Angebot vermittelt eine grundlegende Einführung in das Thema Künstliche Intelligenz (KI) mit besonderem Fokus auf die Relevanz für den Bildungsbereich und die Schulverwaltung. Es beleuchtet die Funktionsweise typischer KI-Anwendungen, deren Potenziale und Herausforderungen im Schulkontext sowie relevante rechtliche und ethische Rahmenbedingungen.
 
-Herausforderungen und Best Practices
-Wie kann ich als Lehrkraft eine KI in einer Schülerinnen- und Schüler Gruppe einsetzen? 
-Aspekt Datenschutz: Wie wird der Input verwendet, welche Daten werden verarbeitet? 
-Unterscheidung zwischen “Endkunden”-Produkten wie ChatGPT (indiv. Anmeldung mit  eigenen Daten) und kommerziellen KI-Anbietern (intern: beispiel fobizz). 
-Nutzung über API, kein Training von Daten. 
-Prüfung nötig, welches Angebot man nutzt.
+**Inhalte**
 
-Fallbeispiele zur Veranschaulichung von “Datenschutzkonzepten”.
+Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-Beispiel Szenarien für eine Belehrung / Sensibilisierung von Schülerinnen und Schüler.
+* Grundlegende Konzepte der KI-Technologie, einschließlich Definitionen und des Konzepts der generativen KI.
+* Überblick über typische KI-Anwendungen im Bildungskontext (z.B. generative Text- oder Bildtools, intelligente Tutorien, Learning Analytics) und in der Schulverwaltung.
+* Rechtliche und ethische Aspekte beim Einsatz von KI, insbesondere in Bezug auf Datenschutz und Urheberrecht.
+* Praktische Hinweise und Best Practices für den verantwortungsvollen Umgang mit KI-Tools im schulischen Umfeld.
+* Unterscheidung von Endkundenprodukten und kommerziellen KI-Anbietern im Hinblick auf Datenschutzfragen.
+* Einsatz von KI-Modellen und die relevanten Fragen des Urheberrechts bei Input und Output.
+* Fallbeispiele zur Veranschaulichung von Datenschutzkonzepten und zur Sensibilisierung von Schülerinnen und Schülern.
+* Ein Ausblick auf mögliche zukünftige Entwicklungen und Auswirkungen von KI auf den Schulalltag.
 
-Unterscheidung personenbeziehbaren Daten und Daten von Personen öffentlichen Interesses (z. B. historische Personen).
+**Lernziele**
+
+Nach der Bearbeitung dieses Lernangebots sind Sie in der Lage, grundlegende KI-Konzepte zu verstehen, KI-Systeme im Alltag zu erkennen und relevante Tools für Unterricht, Verwaltung und Schulorganisation zu benennen. Sie erhalten einen Überblick über die wesentlichen Datenschutz- und Urheberrechtsfragen im Kontext des KI-Einsatzes und können Ansätze für einen verantwortungsvollen Umgang identifizieren. Darüber hinaus entwickeln Sie ein reflektiertes Verständnis für den Einsatz von KI und können mögliche zukünftige Entwicklungen abschätzen.
+
+**Format und Bearbeitungszeit**
+
+Dieses Lernangebot ist als reiner Selbstlernkurs konzipiert. Die geschätzte Bearbeitungszeit beträgt maximal ca. 60 Minuten. Die Inhalte können zeitlich und räumlich flexibel bearbeitet werden.
+
+**Zielgruppe**
+
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums, insbesondere an Lehrkräfte aller Schultypen, schulisches Leitungspersonal, leitungsunterstützendes Personal sowie Bildungsadministratorinnen und -administratoren.
+
+**Voraussetzungen und Hinweise**
+
+Für die erfolgreiche Teilnahme sind grundlegende Computerkenntnisse sowie ein allgemeines Interesse an technologischen Entwicklungen erforderlich. Spezifische Vorkenntnisse im Bereich KI oder Programmierung sind nicht notwendig. Das Angebot vermittelt vor allem Grundlagen aus einer anwendungsbezogenen Perspektive.
 
 
 ## Bestandteile des Angebots

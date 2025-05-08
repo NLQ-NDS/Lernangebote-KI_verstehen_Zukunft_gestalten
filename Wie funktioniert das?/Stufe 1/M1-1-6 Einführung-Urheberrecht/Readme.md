@@ -1,12 +1,40 @@
-# Einführung-Urheberrecht
+# Ki und Urheberrecht
 Angebotskennung: M1-1-6
 
 ## Inhaltiche Gestaltung
 
-Zielsetzung: 
+Dieses Online-Lernangebot ist Teil des Gesamtprogramms "KI verstehen. Zukunft gestalten" und als Selbstlernkurs konzipiert. Die Einschreibung erfolgt nach Anmeldung umgehend, der Kurs kann direkt begonnen werden. Die voraussichtliche Bearbeitungszeit beträgt maximal ca. 60 Minuten.
 
-Inhalte:
+**Kurzbeschreibung**
 
+Das Lernangebot befasst sich mit den rechtlichen Aspekten des Einsatzes von Künstlicher Intelligenz (KI) in schulischen und verwaltungsbezogenen Kontexten, wobei ein besonderer Fokus auf das Urheberrecht gelegt wird. Es beleuchtet die Funktionsweise generativer KI-Tools und deren Einsatzmöglichkeiten für Schule und Verwaltung aus rechtlicher Perspektive.
+
+**Inhalte**
+
+Der Kurs behandelt insbesondere:
+
+Grundlagen generativer KI im Kontext des Urheberrechts.
+Die rechtliche Bewertung von KI-Inputs, einschließlich der Unterscheidung zwischen Trainingsdaten, eigenen und fremden Materialien (geschützt, offen lizenziert, gemeinfrei) im Prompt.
+Die rechtliche Bewertung von KI-Outputs, den urheberrechtlichen Status KI-generierter Inhalte, die Bedingungen für deren Nutzung sowie die Rolle menschlicher Nachbearbeitung.
+Einen Überblick über Datenschutz, Persönlichkeitsrechte und die Relevanz des EU AI Act für den Einsatz von KI im Bildungsbereich.
+
+**Lernziele**
+
+Nach Bearbeitung des Lernangebots sind die Teilnehmenden in der Lage, zentrale urheberrechtliche Fragestellungen im Zusammenhang mit dem Einsatz von KI in Schule und Verwaltung zu erkennen und fundiert einzuordnen. Sie können bewerten, welche Inhalte unbedenklich in KI-Systeme eingegeben werden dürfen, worauf bei den Ergebnissen zu achten ist und wie durch Nachbearbeitung rechtlich geschützte eigene Werke geschaffen werden können. Zudem werden die Teilnehmenden für den verantwortungsvollen Umgang mit personenbezogenen Daten im KI-Kontext sowie relevante gesetzliche Vorgaben sensibilisiert.
+
+**Format**
+
+Es handelt sich um einen asynchronen Selbstlernkurs. Die Lerninhalte werden in digitaler Form bereitgestellt. Eine flexible Zeiteinteilung durch die Teilnehmenden ist möglich.
+
+**Zielgruppe**
+
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums. Grundsätzlich profitieren alle Personen, die KI im Bildungsbereich verantwortungsvoll nutzen möchten, von den vermittelten Inhalten.
+
+**Hinweise und Voraussetzungen**
+
+Für die Teilnahme sind keine spezifischen juristischen Vorkenntnisse erforderlich. Hilfreich ist ein grundlegendes Verständnis für die Funktionsweise von KI-Anwendungen. 
+
+Die vorherige Bearbeitung der Einführungsmodule M1.1 Einführung: Künstliche Intelligenz in Schule und Unterricht – Funktionsweise, Chancen und Herausforderungen und M1.1 Grundsätzliches Verständnis der Funktionsweise von KI wird empfohlen. Erste Erfahrungen mit generativen KI-Tools wie ChatGPT oder bildgenerierenden Systemen sind von Vorteil, stellen jedoch keine zwingende Voraussetzung dar. Die Bereitschaft, sich mit rechtlichen Fragestellungen auseinanderzusetzen und die eigene Medienpraxis kritisch zu reflektieren, fördert den Lernerfolg.
 
 ## Bestandteile des Angebots
 

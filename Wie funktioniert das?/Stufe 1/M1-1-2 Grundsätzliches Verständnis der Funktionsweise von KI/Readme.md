@@ -3,10 +3,29 @@ Angebotskennung: M1-1-2
 
 ## Inhaltiche Gestaltung
 
-Zielsetzung: 
+**Kurzbeschreibung**
 
-Inhalte:
+Dieses Online-Lernangebot mit dem Titel "GRUNDSÄTZLICHES VERSTÄNDNIS DER FUNKTIONSWEISE VON KI" ist Teil des Gesamtprogramms "KI verstehen. Zukunft gestalten". Es handelt sich um einen Selbstlernkurs, der darauf abzielt, den Teilnehmenden ein grundlegendes Verständnis von Künstlicher Intelligenz und deren Funktionsweise zu vermitteln. Nach erfolgreicher Anmeldung erfolgt die sofortige Einschreibung, sodass mit der Bearbeitung umgehend begonnen werden kann. Die Bearbeitungszeit ist auf maximal ca. 60 Minuten ausgelegt.
 
+**Inhalte**
+
+Der Kurs behandelt die folgenden Themenbereiche:
+
+* Ein Überblick über die historische Entwicklung der KI.
+* Identifikation und Beispiele von KI-Systemen im alltäglichen Umfeld.
+* Systematik und Klassifikation verschiedener Arten von KI-Systemen, inklusive Generativer KI.
+* Grundlagen der Funktionsweise von Large Language Models (LLMs), einschließlich der Mechanismen des Lernens und der Generierung von Texten basierend auf Wahrscheinlichkeiten.
+* Erläuterung von Konzepten wie "Halluzinationen" bei LLMs.
+* Unterscheidung verschiedener KI-Modelle und ihrer spezifischen Anwendungsfelder.
+* Kriterien und Prinzipien für die Auswahl geeigneter KI-Systeme für spezifische Aufgabenstellungen.
+
+**Format**
+
+Das Angebot ist als reiner Online-Selbstlernkurs konzipiert. Die Teilnehmenden bestimmen das Lerntempo selbst. Die maximale Bearbeitungszeit beträgt etwa 60 Minuten. Zur Veranschaulichung und Vertiefung sind praktische Übungen unter Nutzung des KI-Systems soekiaGPT integriert.
+
+**Zielgruppe**
+
+Dieses Lernangebot richtet sich primär an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums. Die Zielgruppe umfasst insbesondere Lehrkräfte an Schulen aller Schultypen, schulisches Leitungspersonal, leitungsunterstützendes Personal sowie Bildungsadministratorinnen und -administratoren. Für die Teilnahme sind grundlegende Computerkenntnisse sowie ein allgemeines Interesse an technologischen Entwicklungen ausreichend. Spezifische Vorkenntnisse im Bereich Künstliche Intelligenz oder Programmierung werden nicht vorausgesetzt.
 
 ## Bestandteile des Angebots
 
