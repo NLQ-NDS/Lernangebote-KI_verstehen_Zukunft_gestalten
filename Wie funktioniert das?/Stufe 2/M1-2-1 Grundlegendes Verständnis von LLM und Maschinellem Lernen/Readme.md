@@ -3,10 +3,27 @@ Angebotskennung: M1-2-1
 
 ## Inhaltiche Gestaltung
 
-Zielsetzung: 
+**Kurzbeschreibung**
 
-Inhalte:
+Dieses Selbstlernangebot ist Teil des Gesamtprogramms "KI verstehen. Zukunft gestalten" und widmet sich den fundamentalen Konzepten von Large Language Models (LLMs) und maschinellem Lernen. Es bietet eine Einführung in die Funktionsweise dieser Systeme und leitet daraus grundlegende Prinzipien für eine effektive Interaktion, insbesondere durch Prompting, ab. Das Angebot ermöglicht ein Grundverständnis der zugrundeliegenden Technologien und ihrer Unterschiede zu traditionellen Programmieransätzen. Nach erfolgreicher Bearbeitung verfügen Sie über eine Basis für das Verständnis und die zielgerichtete Nutzung von Sprachmodellen.
 
+**Inhalte**
+
+Das Lernangebot umfasst folgende Themenbereiche:
+
+* Grundprinzipien des Maschinellen Lernens, erläutert anhand eines einfachen Beispiels (NIM-Spiel).
+* Übertragung der maschinellen Lernprinzipien auf die Funktionsweise von Sprachmodellen.
+* Ableitung und Verständnis von grundlegenden Promptingstrategien für die Interaktion mit LLMs.
+* Analyse der Unterschiede zwischen traditioneller Programmierung und KI-Systemen (basierend auf maschinellem Lernen).
+* Definition und grundlegende Funktionsweise von Large Language Models (LLMs).
+
+**Format**
+
+Es handelt sich um einen Online-Selbstlernkurs. Nach erfolgreicher Anmeldung und Einschreibung haben Teilnehmende direkten Zugriff auf die Lerninhalte und können unmittelbar mit der Bearbeitung beginnen. Die geschätzte Bearbeitungszeit für das gesamte Angebot beträgt maximal ca. 60 Minuten.
+
+**Zielgruppe**
+
+Dieses Lernangebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums, insbesondere an Personal an Schulen aller Schultypen sowie an Mitarbeitende der Verwaltung. Angesprochen sind Personen, die ein grundlegendes Verständnis für die Funktion und die Nutzung von Large Language Modellen (LLMs) erlangen möchten. Gemäß dem Frankfurt-Dreieck liegt der primäre Fokus dieses Angebots auf der Perspektive "Wie funktioniert KI?".
 
 ## Bestandteile des Angebots
 

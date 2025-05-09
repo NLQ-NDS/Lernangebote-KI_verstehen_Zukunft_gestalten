@@ -3,9 +3,44 @@ Angebotskennung: M3-1-2
 
 ## Inhaltiche Gestaltung
 
-Zielsetzung: 
+**Kurzbeschreibung**
 
-Inhalte:
+Dieses Lernangebot ist Teil des Gesamtprogramms "KI verstehen. Zukunft gestalten". Dieses Selbstlernangebot ermöglicht eine fokussierte Auseinandersetzung mit den ethischen und gesellschaftlichen Dimensionen Künstlicher Intelligenz (KI). Es beleuchtet das komplexe Wechselverhältnis zwischen technologischem Fortschritt und gesellschaftlichen Strukturen, insbesondere im Kontext von Bildung und öffentlicher Verwaltung. Teilnehmende erhalten Einblick in die relevanten Herausforderungen, Regulierungsansätze und Handlungsspielräume zur Gestaltung eines verantwortungsvollen Umgangs mit KI.
+
+**Inhalte**
+
+Das Lernangebot behandelt folgende Themen:
+
+Grundlagen der KI-Ethik: Definitionen und Kontextualisierung.
+KI als gesellschaftliche Kraft: Einfluss auf Wahrnehmung, Informationszugang, Rollenbilder und Machtverhältnisse.
+Identifizierung ethischer Herausforderungen im Umgang mit KI: Algorithmische Verzerrungen (Bias), Datenschutz, Transparenz, Verantwortlichkeit, gerechte Teilhabe.
+Anwendungsfelder von KI in Schule und Verwaltung, inklusive spezifischer Beispiele.
+Analyse der Auswirkungen von KI auf die Rollen von Lehrenden, Lernenden und Verwaltungspersonal.
+Betrachtung potenzieller Verstärkung oder Veränderung von Ungleichheiten durch KI im Bildungssystem.
+Übersicht über relevante Regulierungsansätze (u.a. EU AI Act) und institutionelle Leitlinien (u.a. KMK).
+Definition von Handlungsspielräumen und Verantwortlichkeiten verschiedener Akteure (Politik, Verwaltung, Schulen, Individuen).
+Erörterung der Potenziale einer ethisch verantwortungsvollen KI-Gestaltung.
+
+**Lernziel**
+
+Nach Bearbeitung des Angebots sind die Teilnehmenden in der Lage, die gesellschaftlichen und ethischen Auswirkungen von KI auf Bildung sowie Verwaltung zu analysieren und deren Einfluss auf das eigene Handeln sowie gesellschaftliche Prozesse zu reflektieren, um einen verantwortungsbewussten Umgang zu entwickeln.
+
+**Zielgruppe**
+
+Dieses Angebot richtet sich an Mitarbeitende der Behörden im Geschäftsbereich des Kultusministeriums.
+
+**Format und Dauer**
+
+Es handelt sich um ein reines Selbstlernangebot. Nach erfolgreicher Anmeldung stehen die Inhalte unmittelbar zur Verfügung und können zeitlich flexibel bearbeitet werden. Die geschätzte Bearbeitungszeit beträgt maximal ca. 60 Minuten.
+
+**Hinweise**
+
+Es sind keine spezifischen Vorkenntnisse im Bereich Informatik oder KI erforderlich. Grundlegende digitale Kompetenzen und die Bereitschaft zur kritischen Auseinandersetzung mit technischen, rechtlichen und gesellschaftlichen Fragestellungen sind hilfreich. Zur Vorbereitung oder Ergänzung werden die Lernangebote 
+
+- M1.1 Einführung: Künstliche Intelligenz in Schule und Unterricht – Funktionsweise, Chancen und Herausforderungen und 
+- M1.1 Einführung zu KI und Datenschutz in Schule und Verwaltung 
+
+empfohlen.
 
 
 ## Bestandteile des Angebots
