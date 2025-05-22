@@ -3,9 +3,27 @@ Angebotskennung: M1-2-2
 
 ## Inhaltiche Gestaltung
 
-Zielsetzung: 
+**Kurzbeschreibung**
 
-Inhalte:
+Dieses Lernangebot ist Teil des Gesamtprogramms "KI verstehen. Zukunft gestalten." Es dient der Einführung in die grundlegenden Konzepte von Large Language Models (LLMs) und des maschinellen Lernens. Ziel ist es, ein fundiertes Verständnis für die Funktionsweise moderner KI-Systeme zu schaffen.
+
+**Inhalte**
+
+Das Modul verfolgt die Zielsetzung, eine Einführung in die Konzepte von Large Language Models (LLMs) und des maschinellen Lernens zu geben. Die spezifischen Inhalte umfassen:
+
+* Definition und Funktionsweise von Large Language Models (LLMs).
+* Grundlagen des maschinellen Lernens und dessen Rolle in der Entwicklung von KI-Systemen.
+* Darstellung grundlegender Unterschiede und Zusammenhänge zwischen diesen Konzepten.
+
+**Format**
+
+Es handelt sich um einen Online-Selbstlernkurs. Nach erfolgreicher Anmeldung und Einschreibung haben Teilnehmende direkten Zugriff auf die Lerninhalte und können unmittelbar mit der Bearbeitung beginnen. Die geschätzte Bearbeitungszeit für das gesamte Angebot beträgt maximal ca. 60 Minuten.
+
+**Zielgruppe und Vorkenntnisse**
+
+Das Lernangebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums, darunter Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal sowie Bildungsadministratorinnen und -administratoren.
+
+Für diesen Kurs wird ein erstes Wissen über Künstliche Intelligenz und Large Language Models (LLM) vorausgesetzt. Gemäß des Frankfurt-Dreiecks konzentriert sich das Angebot im Kern auf die Perspektive: „Wie funktioniert KI?“.
 
 
 ## Bestandteile des Angebots
