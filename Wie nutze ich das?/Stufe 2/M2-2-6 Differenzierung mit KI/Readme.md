@@ -15,6 +15,10 @@ Das Lernangebot ist praxisorientiert gestaltet und gliedert sich in die folgende
 * Gestaltung multipler Lernzugänge: Kombination des Konzepts „Universal Design for Learning (UDL) diklusiv“ mit „Du kannst…“-Aufgaben, um mithilfe von KI vielfältige und selbstdifferenzierende Lernwege zu schaffen. 
 * Kritische Reflexion und Rahmenbedingungen: Auseinandersetzung mit Herausforderungen wie Datenschutz, technischen Voraussetzungen und der Notwendigkeit von Fortbildungen. 
 
+**Format**
+
+Das Modul ist als Selbstlernkurs konzipiert. Nach der Anmeldung erhalten die Teilnehmenden umgehend Zugang zu den Inhalten und können direkt mit der Bearbeitung beginnen. Die geschätzte Bearbeitungszeit beträgt maximal ca. 60 Minuten.
+
 **Zielgruppe**
 Das Lernangebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums. Dies umfasst insbesondere:
 

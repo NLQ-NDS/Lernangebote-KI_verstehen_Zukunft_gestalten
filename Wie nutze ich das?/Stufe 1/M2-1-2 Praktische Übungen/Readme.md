@@ -28,7 +28,7 @@ Dieses Angebot richtet sich an alle Mitarbeitende im Geschäftsbereich des Kultu
 
 **Hinweise**
 
-Für die Teilnahme sind keine spezifischen technischen Vorkenntnisse erforderlich. Ein grundlegendes Interesse an digitaler Bildung und der Nutzung digitaler Werkzeuge für die Textarbeit ist von Vorteil. Ein pädagogischer oder verwaltungsbezogener Hintergrund kann den Transfer in die eigene Praxis erleichtern. 
+Für die Teilnahme sind keine spezifischen technischen Vorkenntnisse erforderlich. Ein grundlegendes Interesse an digitaler Bildung und der Nutzung digitaler Werkzeuge für die Textarbeit ist von Vorteil. 
 
 Vertiefende Grundlagen zu KI, Datenschutz und Ethik bieten die Module 
 
