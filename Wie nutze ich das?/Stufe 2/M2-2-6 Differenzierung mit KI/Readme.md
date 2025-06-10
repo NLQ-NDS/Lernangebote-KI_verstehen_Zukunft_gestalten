@@ -3,10 +3,24 @@ Angebotskennung: M2-2-6
 
 ## Inhaltiche Gestaltung
 
-Zielsetzung: 
+**Kurzbeschreibung**
+Dieses Lernangebot ist Teil des Gesamtprogramms "KI verstehen. Zukunft gestalten." und befasst sich mit dem Einsatz von Künstlicher Intelligenz (KI) zur Förderung der Differenzierung im Unterricht.  Der Kurs vermittelt, wie KI-Werkzeuge genutzt werden können, um individualisierte Lernangebote zu gestalten, Lernbarrieren abzubauen und den vielfältigen Bedürfnissen von Schülerinnen und Schülern gerecht zu werden.  Neben praktischen Anwendungsbeispielen werden auch die damit verbundenen Chancen, Herausforderungen und ethischen Aspekte thematisiert. 
 
-Inhalte:
+**Inhalte**
+Das Lernangebot ist praxisorientiert gestaltet und gliedert sich in die folgenden thematischen Schwerpunkte:
 
+* Grundlagen der Differenzierung mit KI: Einführung in die Potenziale und Herausforderungen von KI im Kontext eines differenzierten und inklusiven Unterrichts. 
+* Abbau von Lernbarrieren bei Textarbeit: Einsatz von KI-Werkzeugen zur Vereinfachung und Anpassung von Lesetexten an unterschiedliche Niveaustufen. 
+* Individualisierung von Lernvideos: Methoden zur KI-gestützten Erstellung von interaktiven und differenzierten Begleitmaterialien für Lernvideos. 
+* Gestaltung multipler Lernzugänge: Kombination des Konzepts „Universal Design for Learning (UDL) diklusiv“ mit „Du kannst…“-Aufgaben, um mithilfe von KI vielfältige und selbstdifferenzierende Lernwege zu schaffen. 
+* Kritische Reflexion und Rahmenbedingungen: Auseinandersetzung mit Herausforderungen wie Datenschutz, technischen Voraussetzungen und der Notwendigkeit von Fortbildungen. 
+
+**Zielgruppe**
+Das Lernangebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums. Dies umfasst insbesondere:
+
+* Lehrkräfte aller Schulformen, vor allem im inklusiven Unterricht 
+* Schulisches Leitungspersonal
+* Leitungsunterstützendes Personal
 
 ## Bestandteile des Angebots
 
