@@ -1,0 +1,3217 @@
+WEBVTT
+
+1
+00:00:06.320 --> 00:00:09.080
+Einführung KI und Urheberrecht in
+
+2
+00:00:09.080 --> 00:00:11.960
+Schule und Schulverwaltung in
+
+3
+00:00:11.960 --> 00:00:13.480
+diesem Video geht es die
+
+4
+00:00:13.480 --> 00:00:14.480
+urheberrechtlichen
+
+5
+00:00:14.480 --> 00:00:16.400
+Herausforderungen bei der Nutzung
+
+6
+00:00:16.400 --> 00:00:18.800
+von generativer KI in Schule und
+
+7
+00:00:18.800 --> 00:00:21.320
+Schulverwaltung und wie sie KI
+
+8
+00:00:21.320 --> 00:00:23.200
+Tools rechtssicher nutzen können.
+
+9
+00:00:23.760 --> 00:00:28.210
+Vorab ein Der Einsatz von KI Systemen
+
+10
+00:00:28.210 --> 00:00:29.930
+kann rechtlich komplexe Fragen
+
+11
+00:00:29.930 --> 00:00:32.250
+aufwerfen, insbesondere im Hinblick
+
+12
+00:00:32.250 --> 00:00:34.010
+auf die Erstellung, Verwendung
+
+13
+00:00:34.010 --> 00:00:35.610
+und Verwertung von Inhalten.
+
+14
+00:00:36.330 --> 00:00:38.090
+Prüfen sie daher stets die
+
+15
+00:00:38.090 --> 00:00:39.690
+für sie geltenden rechtlichen
+
+16
+00:00:39.690 --> 00:00:41.450
+Vorgaben und holen sie im
+
+17
+00:00:41.450 --> 00:00:43.210
+Zweifel rechtlichen Rat ein.
+
+18
+00:00:44.490 --> 00:00:46.730
+Was ist generative
+
+19
+00:00:46.730 --> 00:00:48.410
+künstliche Intelligenz?
+
+20
+00:00:49.530 --> 00:00:52.010
+Künstliche Intelligenz, kurz KI,
+
+21
+00:00:52.530 --> 00:00:54.170
+bezeichnet Computersysteme,
+
+22
+00:00:54.170 --> 00:00:55.730
+die Aufgaben übernehmen,
+
+23
+00:00:55.730 --> 00:00:57.530
+für die normalerweise menschliche
+
+24
+00:00:57.530 --> 00:00:59.570
+Intelligenz nötig wäre.
+
+25
+00:00:59.570 --> 00:01:01.570
+Ein zentraler Mechanismus ist
+
+26
+00:01:01.570 --> 00:01:03.170
+das maschinelle lernen,
+
+27
+00:01:03.170 --> 00:01:05.010
+bei dem Programme aus Daten
+
+28
+00:01:05.010 --> 00:01:06.850
+lernen, Muster erkennen
+
+29
+00:01:06.850 --> 00:01:08.930
+und neue Inhalte erzeugen können.
+
+30
+00:01:09.650 --> 00:01:12.170
+Ein Beispiel sind generative KI
+
+31
+00:01:12.170 --> 00:01:15.250
+Systeme wie ChatGPT oder Lama
+
+32
+00:01:15.250 --> 00:01:18.310
+sowie Stable Diffusion oder Dalia,
+
+33
+00:01:18.310 --> 00:01:20.070
+die aus kurzen Aufforderungen,
+
+34
+00:01:20.070 --> 00:01:23.670
+den Prompts, eigenständig Texte bzw.
+
+35
+00:01:23.670 --> 00:01:25.750
+Bilder erzeugen können.
+
+36
+00:01:25.750 --> 00:01:27.350
+Diese Systeme sind wiederum
+
+37
+00:01:27.350 --> 00:01:29.350
+eingebunden in Bildungsplattformen
+
+38
+00:01:29.350 --> 00:01:32.630
+wie Fobizz, SchulKI oder Mebis.
+
+39
+00:01:34.150 --> 00:01:36.470
+Warum KI und Urheberrecht?
+
+40
+00:01:37.030 --> 00:01:39.590
+Das Urheberrecht schützt persönliches
+
+41
+00:01:39.590 --> 00:01:42.150
+geistiges Eigentum, also kreative
+
+42
+00:01:42.150 --> 00:01:45.550
+Werke wie Texte, Bilder oder Musik.
+
+43
+00:01:45.550 --> 00:01:47.870
+Da generative KI beim Training
+
+44
+00:01:47.870 --> 00:01:49.270
+und beim Erzeugen neuer
+
+45
+00:01:49.270 --> 00:01:51.510
+Inhalte oft auf diese geschützten
+
+46
+00:01:51.510 --> 00:01:53.470
+Werke zurückgreift, treffen
+
+47
+00:01:53.470 --> 00:01:55.750
+hier KI Einsatz und Urheberrecht
+
+48
+00:01:55.750 --> 00:01:57.070
+unmittelbar aufeinander.
+
+49
+00:01:57.950 --> 00:02:00.990
+Wir halten KI kann beeindruckende
+
+50
+00:02:00.990 --> 00:02:02.670
+Ergebnisse liefern, aber
+
+51
+00:02:02.670 --> 00:02:04.470
+wir müssen verstehen, wie wir
+
+52
+00:02:04.470 --> 00:02:06.670
+sie rechtssicher einsetzen.
+
+53
+00:02:06.670 --> 00:02:08.509
+Im nächsten Abschnitt schauen wir
+
+54
+00:02:08.509 --> 00:02:11.019
+uns an, warum das Thema für Schule
+
+55
+00:02:11.019 --> 00:02:13.179
+und Schulverwaltung so wichtig ist.
+
+56
+00:02:14.619 --> 00:02:16.219
+Warum sollten sich Schulen
+
+57
+00:02:16.219 --> 00:02:17.739
+und Schulverwaltung mit dem
+
+58
+00:02:17.739 --> 00:02:19.259
+Thema Urheberrecht im
+
+59
+00:02:19.259 --> 00:02:20.659
+Zusammenhang mit künstlicher
+
+60
+00:02:20.659 --> 00:02:21.899
+Intelligenz beschäftigen?
+
+61
+00:02:23.659 --> 00:02:25.899
+KI Tools sind bereits heute
+
+62
+00:02:25.899 --> 00:02:27.819
+Teil unseres Alltags.
+
+63
+00:02:27.819 --> 00:02:29.659
+Schulen und Schulverwaltung
+
+64
+00:02:29.659 --> 00:02:31.739
+hantieren täglich mit geschützten
+
+65
+00:02:31.739 --> 00:02:33.099
+Materialien wie
+
+66
+00:02:33.099 --> 00:02:35.779
+Lehrbüchern, Unterrichtsmaterialien
+
+67
+00:02:35.779 --> 00:02:37.280
+aus dem Internet oder
+
+68
+00:02:37.280 --> 00:02:39.800
+Beiträgen aus Fachzeitschriften.
+
+69
+00:02:39.800 --> 00:02:41.400
+Zugleich nutzen sie zunehmend
+
+70
+00:02:41.400 --> 00:02:43.640
+KI Systeme wie ChatGPT,
+
+71
+00:02:43.640 --> 00:02:47.160
+Gemini oder Lama für Texte bzw.
+
+72
+00:02:47.160 --> 00:02:49.880
+DALI oder Stable diffusion,
+
+73
+00:02:49.880 --> 00:02:51.840
+unter anderem auch eingebunden in
+
+74
+00:02:51.840 --> 00:02:53.880
+Bildungsplattformen wie Phobis,
+
+75
+00:02:53.880 --> 00:02:57.000
+Schul KI oder Telly, z.B.
+
+76
+00:02:57.000 --> 00:02:59.000
+Übungsaufgaben zu erstellen,
+
+77
+00:02:59.000 --> 00:03:01.120
+Berichte zusammenzufassen oder
+
+78
+00:03:01.120 --> 00:03:03.240
+Routinekorrespondenz zu erledigen.
+
+79
+00:03:04.230 --> 00:03:05.710
+Solche Anwendungen versprechen
+
+80
+00:03:05.710 --> 00:03:07.590
+Zeitersparnis und schaffen
+
+81
+00:03:07.590 --> 00:03:09.590
+Raum für kreative Aufgaben.
+
+82
+00:03:10.470 --> 00:03:12.150
+KI kann also im gesamten
+
+83
+00:03:12.150 --> 00:03:13.110
+Bildungsbereich
+
+84
+00:03:13.110 --> 00:03:14.950
+große Chancen bieten.
+
+85
+00:03:14.950 --> 00:03:16.430
+Aber ohne Kenntnisse des
+
+86
+00:03:16.430 --> 00:03:18.190
+Urheberrechts können gut
+
+87
+00:03:18.190 --> 00:03:20.350
+gemeinte KI Einsätze schnell
+
+88
+00:03:20.350 --> 00:03:22.230
+zu Verstößen führen.
+
+89
+00:03:22.230 --> 00:03:24.030
+Menschen in Schule und Verwaltung
+
+90
+00:03:24.030 --> 00:03:26.110
+müssen wissen, was sie an Material
+
+91
+00:03:26.110 --> 00:03:28.710
+in KI Systeme einspeisen dürfen
+
+92
+00:03:28.710 --> 00:03:30.790
+und was sie aus KI Systemen
+
+93
+00:03:30.790 --> 00:03:32.710
+rechtlich bedenkenlos nutzen können.
+
+94
+00:03:33.450 --> 00:03:34.570
+Für Schule und Verwaltung
+
+95
+00:03:34.570 --> 00:03:35.930
+ergeben sich also fragen
+
+96
+00:03:36.650 --> 00:03:38.850
+darf geschütztes Material verwendet
+
+97
+00:03:38.850 --> 00:03:40.810
+werden, eine KI zu füttern?
+
+98
+00:03:41.370 --> 00:03:42.810
+Wem gehören die von der
+
+99
+00:03:42.810 --> 00:03:45.050
+KI produzierten Inhalte?
+
+100
+00:03:45.050 --> 00:03:47.570
+Welche Regeln gelten beim KI Einsatz
+
+101
+00:03:47.570 --> 00:03:48.890
+in Unterricht und Verwaltung.
+
+102
+00:03:49.450 --> 00:03:50.810
+Daher ist es wichtig,
+
+103
+00:03:50.810 --> 00:03:52.650
+sich nun die relevanten Aspekte
+
+104
+00:03:52.650 --> 00:03:54.530
+genauer anzusehen, die beim
+
+105
+00:03:54.530 --> 00:03:56.130
+Zusammenspiel von KI und
+
+106
+00:03:56.130 --> 00:03:58.010
+Urheberrecht eine Rolle spielen.
+
+107
+00:03:59.300 --> 00:04:01.940
+Was schauen wir uns im Folgenden an?
+
+108
+00:04:01.940 --> 00:04:03.980
+Beim Zusammenhang von KI und dem
+
+109
+00:04:03.980 --> 00:04:05.900
+Urheberrecht geht es ganz
+
+110
+00:04:05.900 --> 00:04:08.860
+allgemein die was müssen wir bei
+
+111
+00:04:08.860 --> 00:04:10.460
+der Verwendung eigener oder
+
+112
+00:04:10.460 --> 00:04:12.940
+fremder Werke im Umgang mit KI
+
+113
+00:04:12.940 --> 00:04:14.420
+Systemen aus rechtlicher
+
+114
+00:04:14.420 --> 00:04:16.339
+Perspektive beachten?
+
+115
+00:04:16.339 --> 00:04:17.899
+Weitere Fragen, die sich daraus
+
+116
+00:04:17.899 --> 00:04:20.820
+ergeben, dürfen geschützte Werke als
+
+117
+00:04:20.820 --> 00:04:22.580
+Trainingsdaten verwendet werden?
+
+118
+00:04:23.220 --> 00:04:25.340
+Dürfen sie als Prompt in KI
+
+119
+00:04:25.340 --> 00:04:26.740
+Systeme hochgeladen werden?
+
+120
+00:04:27.680 --> 00:04:29.040
+Und wer hat die Rechte an
+
+121
+00:04:29.040 --> 00:04:30.640
+KI generierten Inhalten?
+
+122
+00:04:33.040 --> 00:04:34.400
+Wir können das Thema in
+
+123
+00:04:34.400 --> 00:04:36.560
+zwei Seiten unterteilen.
+
+124
+00:04:36.560 --> 00:04:38.880
+Die eine Seite ist der Input.
+
+125
+00:04:38.880 --> 00:04:40.960
+Hier geht es darum, was in
+
+126
+00:04:40.960 --> 00:04:43.440
+ein KI System hineingeht.
+
+127
+00:04:43.440 --> 00:04:46.920
+Kurz Trainingsdaten und Eingaben
+
+128
+00:04:46.920 --> 00:04:48.880
+durch Nutzerinnen und Nutzer.
+
+129
+00:04:48.880 --> 00:04:52.000
+Generative KI Systeme wie ChatGPT,
+
+130
+00:04:52.000 --> 00:04:55.650
+Gemini, Deepseek, DALL-E oder Stable
+
+131
+00:04:55.650 --> 00:04:57.610
+Diffusion werden mit großen
+
+132
+00:04:57.610 --> 00:04:59.570
+Datenmengen gefüttert und trainiert.
+
+133
+00:05:00.130 --> 00:05:02.010
+Unter diesen Daten sind oft
+
+134
+00:05:02.010 --> 00:05:03.530
+urheberrechtlich geschützte
+
+135
+00:05:03.530 --> 00:05:05.170
+Werke fremder Personen.
+
+136
+00:05:05.170 --> 00:05:06.610
+Hier kann es das erste
+
+137
+00:05:06.610 --> 00:05:07.810
+Mal kritisch werden.
+
+138
+00:05:07.810 --> 00:05:09.690
+Auch durch Nutzerinnen und Nutzer
+
+139
+00:05:09.690 --> 00:05:12.370
+gelangen Inhalte in KI Systeme,
+
+140
+00:05:12.370 --> 00:05:14.810
+beispielsweise durch eigene Prompts
+
+141
+00:05:14.810 --> 00:05:17.170
+oder das Hochladen eigener Texte,
+
+142
+00:05:17.170 --> 00:05:19.090
+Dokumente oder Abbildungen.
+
+143
+00:05:19.860 --> 00:05:21.020
+Urheberrechtlich ist
+
+144
+00:05:21.020 --> 00:05:22.580
+das meist unkritisch.
+
+145
+00:05:22.580 --> 00:05:24.660
+Eine dritte Möglichkeit ist das
+
+146
+00:05:24.660 --> 00:05:26.780
+Einfügen fremder Materialien
+
+147
+00:05:26.780 --> 00:05:28.980
+durch Nutzerinnen oder Nutzer.
+
+148
+00:05:28.980 --> 00:05:32.620
+Dabei unterscheiden wir klassisch
+
+149
+00:05:32.620 --> 00:05:35.459
+geschützten Werken spätestens hier
+
+150
+00:05:35.459 --> 00:05:37.700
+wird es kritisch, denn diese Nutzung
+
+151
+00:05:37.700 --> 00:05:41.180
+ist oft unzulässig und offen.
+
+152
+00:05:41.180 --> 00:05:43.940
+Lizenzierte oder gemeinfreie Werken.
+
+153
+00:05:43.940 --> 00:05:45.740
+Diese Nutzung ist erlaubt, wenn
+
+154
+00:05:45.740 --> 00:05:47.540
+Lizenzbedingungen beachtet werden.
+
+155
+00:05:48.420 --> 00:05:51.140
+Die andere Seite ist der Output,
+
+156
+00:05:51.140 --> 00:05:54.260
+also das, was KI Systeme ausgeben.
+
+157
+00:05:54.260 --> 00:05:55.820
+Hier stellt sich die Frage, was
+
+158
+00:05:55.820 --> 00:05:57.540
+mit den Inhalten, die die KI
+
+159
+00:05:57.540 --> 00:06:00.180
+generiert hat, gemacht werden darf.
+
+160
+00:06:00.180 --> 00:06:01.860
+Haben diese Inhalte selbst
+
+161
+00:06:01.860 --> 00:06:03.780
+urheberrechtlichen Schutz
+
+162
+00:06:03.780 --> 00:06:05.940
+und dürfen wir sie frei verwenden,
+
+163
+00:06:05.940 --> 00:06:08.660
+veröffentlichen oder bearbeiten?
+
+164
+00:06:08.660 --> 00:06:10.660
+Dieser Aspekt beleuchtet auch, ob
+
+165
+00:06:10.660 --> 00:06:12.820
+KI Ergebnisse als eigenes Werk
+
+166
+00:06:12.820 --> 00:06:15.000
+gelten oder oder ob darin Teile
+
+167
+00:06:15.000 --> 00:06:17.120
+fremder Werke erkennbar sind.
+
+168
+00:06:17.120 --> 00:06:19.000
+Quer zu diesen Aspekten liegen
+
+169
+00:06:19.000 --> 00:06:21.040
+gesetzliche Rahmenbedingungen.
+
+170
+00:06:21.040 --> 00:06:23.240
+Diese legen fest, wie KI
+
+171
+00:06:23.240 --> 00:06:24.720
+genutzt werden darf.
+
+172
+00:06:24.720 --> 00:06:26.640
+In Deutschland und der EU gibt
+
+173
+00:06:26.640 --> 00:06:28.400
+es spezifische Regelungen,
+
+174
+00:06:28.400 --> 00:06:30.200
+die sowohl den Input als
+
+175
+00:06:30.200 --> 00:06:31.920
+auch den Output betreffen.
+
+176
+00:06:33.360 --> 00:06:35.240
+Wie schon angesprochen, ist es
+
+177
+00:06:35.240 --> 00:06:37.320
+sinnvoll, zwischen der Eingabeseite
+
+178
+00:06:37.320 --> 00:06:38.960
+und der Ausgabeseite eines
+
+179
+00:06:38.960 --> 00:06:40.640
+KI systems zu unterscheiden.
+
+180
+00:06:41.320 --> 00:06:43.200
+Moderne KI Modelle werden oft mit
+
+181
+00:06:43.200 --> 00:06:45.240
+riesigen Datenmengen trainiert.
+
+182
+00:06:45.240 --> 00:06:47.000
+Darunter befinden sich vielfach
+
+183
+00:06:47.000 --> 00:06:49.480
+fremde Inhalte, etwa Online
+
+184
+00:06:49.480 --> 00:06:50.840
+Texte oder Bilder und
+
+185
+00:06:50.840 --> 00:06:52.040
+Videos aus dem Internet.
+
+186
+00:06:52.760 --> 00:06:54.440
+Dieser Prozess wird als Text
+
+187
+00:06:54.440 --> 00:06:57.080
+und Data Mining, kurz TDM,
+
+188
+00:06:57.080 --> 00:06:59.480
+bezeichnet, da große Mengen an Daten
+
+189
+00:06:59.480 --> 00:07:01.800
+analysiert und verarbeitet werden,
+
+190
+00:07:01.800 --> 00:07:03.400
+Muster zu erkennen.
+
+191
+00:07:03.400 --> 00:07:05.120
+Diese Daten werden kopiert und
+
+192
+00:07:05.120 --> 00:07:07.560
+analysiert, der KI beizubringen,
+
+193
+00:07:07.560 --> 00:07:09.480
+Muster oder Stile zu imitieren.
+
+194
+00:07:11.090 --> 00:07:14.290
+Ein Text KI System wie GPT 4 wurde
+
+195
+00:07:14.290 --> 00:07:16.370
+mit unzähligen Webseiten und Büchern
+
+196
+00:07:16.370 --> 00:07:18.370
+trainiert, darunter vermutlich auch
+
+197
+00:07:18.370 --> 00:07:20.530
+urheberrechtlich geschützte Texte.
+
+198
+00:07:21.330 --> 00:07:22.610
+Technisch gesehen ist das
+
+199
+00:07:22.610 --> 00:07:24.010
+Training erst einmal eine
+
+200
+00:07:24.010 --> 00:07:26.290
+Vervielfältigung dieser Werke.
+
+201
+00:07:26.290 --> 00:07:28.170
+Sie werden in das KI System
+
+202
+00:07:28.170 --> 00:07:30.530
+heruntergeladen und verarbeitet.
+
+203
+00:07:31.090 --> 00:07:33.330
+Hier besteht ein Spannungsfeld,
+
+204
+00:07:33.330 --> 00:07:35.250
+das kontrovers diskutiert wird.
+
+205
+00:07:36.070 --> 00:07:38.150
+KI Entwicklerinnen und Entwickler
+
+206
+00:07:38.150 --> 00:07:39.830
+argumentieren, dass das
+
+207
+00:07:39.830 --> 00:07:42.030
+Durchsuchen und Analysieren solcher
+
+208
+00:07:42.030 --> 00:07:44.430
+Inhalte dem Lernen ähnelt und
+
+209
+00:07:44.430 --> 00:07:46.790
+daher zulässig sein sollte.
+
+210
+00:07:46.790 --> 00:07:48.510
+Für Kritiker ist das aber eher
+
+211
+00:07:48.510 --> 00:07:49.950
+eine kommerzielle Nutzung
+
+212
+00:07:49.950 --> 00:07:51.750
+ohne Zustimmung der Urheber.
+
+213
+00:07:52.950 --> 00:07:54.950
+Das deutsche Urheberrechtsgesetz
+
+214
+00:07:54.950 --> 00:07:55.990
+regelt das Text
+
+215
+00:07:55.990 --> 00:07:58.790
+und Data Mining, kurz TDM.
+
+216
+00:08:00.870 --> 00:08:03.030
+B ermöglicht Text und Data
+
+217
+00:08:03.030 --> 00:08:05.370
+Mining für kommerzielle Zwecke,
+
+218
+00:08:05.370 --> 00:08:07.130
+sofern die Inhalte rechtmäßig
+
+219
+00:08:07.130 --> 00:08:09.050
+zugänglich sind, z.B.
+
+220
+00:08:09.050 --> 00:08:11.210
+frei im Internet auffindbar
+
+221
+00:08:11.210 --> 00:08:12.810
+und die Rechteinhaber dem
+
+222
+00:08:12.810 --> 00:08:14.570
+nicht widersprochen haben.
+
+223
+00:08:14.570 --> 00:08:17.050
+Das nennt sich opt out Recht.
+
+224
+00:08:18.650 --> 00:08:20.850
+D erlaubt die Nutzung geschützter
+
+225
+00:08:20.850 --> 00:08:22.410
+Werke für wissenschaftliche
+
+226
+00:08:22.410 --> 00:08:24.570
+Forschung, etwa beim Training
+
+227
+00:08:24.570 --> 00:08:26.970
+gemeinnütziger KI Modelle.
+
+228
+00:08:26.970 --> 00:08:28.730
+Lehrkräfte, Schulen oder
+
+229
+00:08:28.730 --> 00:08:31.050
+Verwaltungseinrichtungen bzw.
+
+230
+00:08:31.050 --> 00:08:33.339
+Mitarbeiterinnen und Mitarbeiter
+
+231
+00:08:33.339 --> 00:08:36.139
+trainieren selten eigene KI Modelle,
+
+232
+00:08:36.139 --> 00:08:38.938
+aber sie nutzen KI Angebote.
+
+233
+00:08:38.938 --> 00:08:40.578
+Wir können davon ausgehen,
+
+234
+00:08:40.578 --> 00:08:42.619
+dass große KI Anbieter sich
+
+235
+00:08:42.619 --> 00:08:44.659
+künftig an diese und zukünftige
+
+236
+00:08:44.659 --> 00:08:46.539
+Regelungen halten müssen.
+
+237
+00:08:46.539 --> 00:08:47.539
+Das Risiko einer
+
+238
+00:08:47.539 --> 00:08:49.178
+Urheberrechtsverletzung beim
+
+239
+00:08:49.178 --> 00:08:50.739
+Training tragen eher die
+
+240
+00:08:50.739 --> 00:08:52.059
+Hersteller wie z.B.
+
+241
+00:08:52.059 --> 00:08:54.859
+openAI oder Mistral ai.
+
+242
+00:08:55.739 --> 00:08:57.939
+Es ist wichtig, trotzdem sensibel
+
+243
+00:08:57.939 --> 00:08:59.259
+für diese Thematik zu sein.
+
+244
+00:09:00.080 --> 00:09:01.560
+Falls eine Schule oder eine
+
+245
+00:09:01.560 --> 00:09:02.880
+Verwaltungseinrichtung
+
+246
+00:09:02.880 --> 00:09:04.640
+dennoch selbst KI Modelle
+
+247
+00:09:04.640 --> 00:09:06.250
+entwickeln will, z.B.
+
+248
+00:09:06.250 --> 00:09:08.080
+ein eigenes kleines Modell
+
+249
+00:09:08.080 --> 00:09:09.200
+mit selbsterstellten
+
+250
+00:09:09.200 --> 00:09:11.040
+Lehrmaterialien oder einen
+
+251
+00:09:11.040 --> 00:09:13.200
+Chatbot für Verwaltungsfragen,
+
+252
+00:09:13.200 --> 00:09:15.040
+muss sie genau prüfen, ob
+
+253
+00:09:15.040 --> 00:09:16.960
+das Material diese Verwertung
+
+254
+00:09:16.960 --> 00:09:18.320
+aus urheberrechtlicher
+
+255
+00:09:18.320 --> 00:09:19.520
+Perspektive erlaubt.
+
+256
+00:09:20.080 --> 00:09:21.770
+Mit der im Apr.
+
+257
+00:09:21.770 --> 00:09:24.720
+2024 verabschiedeten KI Verordnung
+
+258
+00:09:24.720 --> 00:09:27.670
+der Europäischen Union, dem EUAI
+
+259
+00:09:27.670 --> 00:09:29.710
+Act, wurden Transparenzpflichten
+
+260
+00:09:29.710 --> 00:09:32.110
+für KI Modelle eingeführt.
+
+261
+00:09:32.110 --> 00:09:34.510
+Anbieter generativer KI Modelle
+
+262
+00:09:34.510 --> 00:09:36.270
+müssen eine Zusammenfassung der
+
+263
+00:09:36.270 --> 00:09:37.670
+verwendeten Trainingsdaten
+
+264
+00:09:37.670 --> 00:09:39.990
+offenlegen und somit auch, inwiefern
+
+265
+00:09:39.990 --> 00:09:42.030
+urheberrechtlich geschützte Werke
+
+266
+00:09:42.030 --> 00:09:44.110
+für das Training verwendet wurden.
+
+267
+00:09:44.110 --> 00:09:46.190
+Und auch Anbieter, die auf diesen
+
+268
+00:09:46.190 --> 00:09:47.390
+Modellen aufbauen,
+
+269
+00:09:47.390 --> 00:09:50.070
+müssen angeben, welche Trainings und
+
+270
+00:09:50.070 --> 00:09:51.710
+Testverfahren sie genutzt haben.
+
+271
+00:09:52.420 --> 00:09:53.780
+Dadurch könnten Schulen und
+
+272
+00:09:53.780 --> 00:09:55.420
+Verwaltungen in Zukunft
+
+273
+00:09:55.420 --> 00:09:57.300
+einfacher erkennen, welche
+
+274
+00:09:57.300 --> 00:09:59.380
+KI Systeme urheberrechtlich
+
+275
+00:09:59.380 --> 00:10:00.740
+unproblematisch sind.
+
+276
+00:10:01.460 --> 00:10:03.860
+Aus urheberrechtlicher Perspektive
+
+277
+00:10:03.860 --> 00:10:05.380
+ist die Eingabe eigener
+
+278
+00:10:05.380 --> 00:10:07.220
+Inhalte in ein KI System in
+
+279
+00:10:07.220 --> 00:10:09.300
+der Regel unproblematisch.
+
+280
+00:10:09.300 --> 00:10:11.580
+Wenn Nutzer oder Nutzerinnen eigene
+
+281
+00:10:11.580 --> 00:10:14.100
+Inhalte in ein KI System eingeben,
+
+282
+00:10:14.100 --> 00:10:16.260
+sei es ein Prompt, ein Text
+
+283
+00:10:16.260 --> 00:10:18.740
+Dokument oder eine Abbildung, sie
+
+284
+00:10:18.740 --> 00:10:20.540
+analysieren oder verändern zu
+
+285
+00:10:20.540 --> 00:10:21.750
+lassen, erst ist dies
+
+286
+00:10:21.750 --> 00:10:24.470
+urheberrechtlich unbedenklich.
+
+287
+00:10:24.470 --> 00:10:27.350
+Die KI fungiert hier als Werkzeug,
+
+288
+00:10:27.350 --> 00:10:28.230
+ähnlich wie ein
+
+289
+00:10:28.230 --> 00:10:30.390
+Textverarbeitungsprogramm.
+
+290
+00:10:30.390 --> 00:10:32.230
+Da es sich eigenes Material
+
+291
+00:10:32.230 --> 00:10:33.630
+handelt, werden keine
+
+292
+00:10:33.630 --> 00:10:35.430
+Rechte von anderen verletzt.
+
+293
+00:10:35.430 --> 00:10:37.389
+Wichtig ist auch, dass keine
+
+294
+00:10:37.389 --> 00:10:39.470
+personenbezogenen Daten enthalten
+
+295
+00:10:39.470 --> 00:10:40.990
+sind, da in diesem Fall
+
+296
+00:10:40.990 --> 00:10:42.550
+das Datenschutzrecht greift.
+
+297
+00:10:43.270 --> 00:10:45.390
+Falls die KI basierend auf einem
+
+298
+00:10:45.390 --> 00:10:47.540
+rein menschlichen Prompt, der auf
+
+299
+00:10:47.540 --> 00:10:49.500
+eigenen Ideen oder Materialien
+
+300
+00:10:49.500 --> 00:10:51.620
+beruht, einen Output generiert,
+
+301
+00:10:51.620 --> 00:10:53.140
+stellt sich die Frage danach,
+
+302
+00:10:53.140 --> 00:10:54.540
+inwiefern der Output
+
+303
+00:10:54.540 --> 00:10:56.580
+urheberrechtlich geschützt ist.
+
+304
+00:10:56.580 --> 00:10:58.580
+Die derzeitige rechtliche Sicht ist
+
+305
+00:10:59.540 --> 00:11:01.700
+in Deutschland und der EU gilt
+
+306
+00:11:01.700 --> 00:11:03.700
+als urheberrechtlich geschütztes
+
+307
+00:11:03.700 --> 00:11:05.900
+Werk nur eine persönliche
+
+308
+00:11:05.900 --> 00:11:07.940
+geistige Schöpfung eines Menschen.
+
+309
+00:11:08.740 --> 00:11:11.580
+Da eine KI Ausgabe ohne maßgebliche
+
+310
+00:11:11.580 --> 00:11:13.380
+menschliche Mitwirkung diese
+
+311
+00:11:13.380 --> 00:11:15.300
+Schwelle nicht erreicht, besitzt
+
+312
+00:11:15.300 --> 00:11:17.660
+ein KI Output keinen menschlichen
+
+313
+00:11:17.660 --> 00:11:19.580
+Urheber und ist somit nicht
+
+314
+00:11:19.580 --> 00:11:21.260
+urheberrechtlich geschützt.
+
+315
+00:11:21.900 --> 00:11:24.060
+Das bedeutet, dass solche KI
+
+316
+00:11:24.060 --> 00:11:26.100
+generierten Inhalte in der Regel
+
+317
+00:11:26.100 --> 00:11:28.220
+frei verwendet, veröffentlicht
+
+318
+00:11:28.220 --> 00:11:30.300
+und verändert werden dürfen.
+
+319
+00:11:30.300 --> 00:11:31.820
+Allerdings kann das jede
+
+320
+00:11:31.820 --> 00:11:34.220
+andere Person ebenfalls tun.
+
+321
+00:11:34.220 --> 00:11:35.980
+Der Output ist mit seiner
+
+322
+00:11:35.980 --> 00:11:38.220
+Entstehung praktisch gemeinfrei,
+
+323
+00:11:38.790 --> 00:11:40.550
+dazu später noch etwas mehr.
+
+324
+00:11:41.110 --> 00:11:43.110
+Es gibt allerdings einige KI
+
+325
+00:11:43.110 --> 00:11:44.750
+Plattformen, die in ihren
+
+326
+00:11:44.750 --> 00:11:47.070
+Nutzungsbedingungen regeln, wem die
+
+327
+00:11:47.070 --> 00:11:49.430
+Rechte am Output zustehen.
+
+328
+00:11:49.430 --> 00:11:51.030
+Ein Blick in die AGBs
+
+329
+00:11:51.030 --> 00:11:52.550
+lohnt sich also.
+
+330
+00:11:52.550 --> 00:11:54.509
+Insbesondere wenn Ergebnisse
+
+331
+00:11:54.509 --> 00:11:55.510
+außerhalb der Schule
+
+332
+00:11:55.510 --> 00:11:57.240
+publiziert werden, z.b.
+
+333
+00:11:57.240 --> 00:11:59.350
+auf der Schul Homepage, sollte
+
+334
+00:11:59.350 --> 00:12:01.110
+man die Bedingungen respektieren.
+
+335
+00:12:01.830 --> 00:12:03.750
+Zudem sollte sichergestellt sein,
+
+336
+00:12:03.750 --> 00:12:06.070
+dass die KI nicht unbeabsichtigt
+
+337
+00:12:06.070 --> 00:12:08.230
+geschützte Werke oder deren
+
+338
+00:12:08.230 --> 00:12:09.750
+Bestandteile reproduziert.
+
+339
+00:12:10.510 --> 00:12:11.910
+In seltenen Fällen kann dies
+
+340
+00:12:11.910 --> 00:12:14.310
+vorkommen, etwa wenn der Prompt so
+
+341
+00:12:14.310 --> 00:12:16.310
+formuliert ist, dass die KI
+
+342
+00:12:16.310 --> 00:12:18.630
+bekannte Texte oder Formulierungen
+
+343
+00:12:18.630 --> 00:12:21.230
+nahezu identisch wiedergibt.
+
+344
+00:12:21.230 --> 00:12:23.750
+In solchen Fällen könnte der Output
+
+345
+00:12:23.750 --> 00:12:26.110
+unter fremde Urheberrechte fallen,
+
+346
+00:12:26.110 --> 00:12:28.830
+was rechtlich problematisch wäre.
+
+347
+00:12:28.830 --> 00:12:30.550
+Unter normalen Umständen ist
+
+348
+00:12:30.550 --> 00:12:32.590
+ein KI Output ohne fremde
+
+349
+00:12:32.590 --> 00:12:34.750
+Vorlage jedoch unproblematisch.
+
+350
+00:12:35.560 --> 00:12:37.320
+Es lohnt sich dennoch, den Output
+
+351
+00:12:37.320 --> 00:12:39.280
+kritisch zu prüfen, bevor sie
+
+352
+00:12:39.280 --> 00:12:40.760
+die Ergebnisse veröffentlichen.
+
+353
+00:12:41.640 --> 00:12:43.200
+Kniffelig wird es, wie
+
+354
+00:12:43.200 --> 00:12:44.360
+schon angesprochen,
+
+355
+00:12:44.360 --> 00:12:46.360
+wenn fremde Materialien in KI
+
+356
+00:12:46.360 --> 00:12:47.800
+Systeme eingebracht werden.
+
+357
+00:12:48.360 --> 00:12:49.720
+Was das für das Training
+
+358
+00:12:49.720 --> 00:12:51.760
+einer KI bedeutet, haben wir
+
+359
+00:12:51.760 --> 00:12:53.080
+bereits besprochen
+
+360
+00:12:53.080 --> 00:12:56.200
+Stichwort Text und Data Mining.
+
+361
+00:12:56.200 --> 00:12:58.840
+Jetzt geht es was passiert, wenn
+
+362
+00:12:58.840 --> 00:13:01.120
+Fremdmaterial durch Nutzerinnen oder
+
+363
+00:13:01.120 --> 00:13:03.580
+Nutzer als Input beziehungsweise
+
+364
+00:13:03.580 --> 00:13:05.900
+für das Prompting genutzt wird?
+
+365
+00:13:05.900 --> 00:13:07.580
+Eine Lehrkraft lädt etwa
+
+366
+00:13:07.580 --> 00:13:09.180
+einen Schulbuchabsatz in ein
+
+367
+00:13:09.180 --> 00:13:11.260
+generatives KI Modell wie
+
+368
+00:13:11.260 --> 00:13:13.820
+ChatGPT oder Gemini
+
+369
+00:13:13.820 --> 00:13:15.300
+beziehungsweise eine darauf
+
+370
+00:13:15.300 --> 00:13:17.780
+basierenden Bildungsplattform hoch,
+
+371
+00:13:17.780 --> 00:13:18.740
+ihn für verschiedene
+
+372
+00:13:18.740 --> 00:13:20.300
+Lernniveaus anzupassen.
+
+373
+00:13:20.860 --> 00:13:23.140
+Oder eine Verwaltungsmitarbeiterin
+
+374
+00:13:23.140 --> 00:13:24.740
+verwendet fremde Texte zur
+
+375
+00:13:24.740 --> 00:13:26.300
+Erstellung einer Handreichung.
+
+376
+00:13:26.860 --> 00:13:28.780
+Hierbei wird fremdes Material
+
+377
+00:13:28.780 --> 00:13:30.740
+aktiv durch die Nutzenden in
+
+378
+00:13:30.740 --> 00:13:32.620
+ein KI System eingespeist.
+
+379
+00:13:33.470 --> 00:13:35.230
+Ist das hochgeladene Material
+
+380
+00:13:35.230 --> 00:13:37.510
+urheberrechtlich geschützt und nicht
+
+381
+00:13:37.510 --> 00:13:40.030
+offen lizenziert, stellt bereits der
+
+382
+00:13:40.030 --> 00:13:42.790
+Input, also das Hochladen in eine
+
+383
+00:13:42.790 --> 00:13:44.910
+KI, eine Verwertung dar,
+
+384
+00:13:44.910 --> 00:13:46.030
+vergleichbar mit einer
+
+385
+00:13:46.030 --> 00:13:48.430
+Veröffentlichung auf einer Homepage.
+
+386
+00:13:48.430 --> 00:13:49.750
+Ohne die Erlaubnis des
+
+387
+00:13:49.750 --> 00:13:51.790
+Rechteinhabers bzw.
+
+388
+00:13:51.790 --> 00:13:53.790
+Der Rechteinhaberin ist das
+
+389
+00:13:53.790 --> 00:13:55.750
+Einspeisen ihrer Materialien
+
+390
+00:13:55.750 --> 00:13:57.510
+in eine KI daher in
+
+391
+00:13:57.510 --> 00:13:59.310
+der Regel nicht zulässig.
+
+392
+00:13:59.830 --> 00:14:02.470
+In wenn sie etwas in eine KI
+
+393
+00:14:02.470 --> 00:14:04.190
+eingeben, das nicht von ihnen
+
+394
+00:14:04.190 --> 00:14:05.830
+stammt, ist das mit hoher
+
+395
+00:14:05.830 --> 00:14:07.790
+Wahrscheinlichkeit ein Verstoß
+
+396
+00:14:07.790 --> 00:14:09.310
+gegen die Urheberrechte der
+
+397
+00:14:09.310 --> 00:14:11.430
+Person, von der das hochgeladene
+
+398
+00:14:11.430 --> 00:14:13.030
+Material stammt.
+
+399
+00:14:13.030 --> 00:14:14.830
+Besonders relevant ist in diesem
+
+400
+00:14:14.830 --> 00:14:17.070
+Zusammenhang, ob die eingegebenen
+
+401
+00:14:17.070 --> 00:14:18.630
+Prompts und hochgeladenen
+
+402
+00:14:18.630 --> 00:14:20.270
+Dokumente für das Training
+
+403
+00:14:20.270 --> 00:14:21.830
+der KI verwendet werden.
+
+404
+00:14:22.470 --> 00:14:24.590
+Wird dies in den Nutzungsbedingungen
+
+405
+00:14:24.590 --> 00:14:26.500
+oder im Vertrag eingeräumt,
+
+406
+00:14:26.500 --> 00:14:28.260
+bedeutet dies eine weitreichende
+
+407
+00:14:28.260 --> 00:14:30.260
+Verwertung der Inhalte.
+
+408
+00:14:30.260 --> 00:14:31.780
+Prüfen sie daher vor
+
+409
+00:14:31.780 --> 00:14:33.900
+Vertragsabschluss, z.B.
+
+410
+00:14:33.900 --> 00:14:36.420
+mit einer Bildungsplattform genau, ob
+
+411
+00:14:36.420 --> 00:14:38.740
+eine solche Nutzung vorgesehen ist.
+
+412
+00:14:38.740 --> 00:14:40.220
+In diesem Fall sollte von
+
+413
+00:14:40.220 --> 00:14:41.780
+einer Vertragsunterzeichnung
+
+414
+00:14:41.780 --> 00:14:42.739
+abgesehen werden.
+
+415
+00:14:44.260 --> 00:14:46.140
+Nur weil ein Buch oder ein Text
+
+416
+00:14:46.140 --> 00:14:48.340
+gekauft wurde, bedeutet das nicht,
+
+417
+00:14:48.340 --> 00:14:49.860
+dass man dieses Material
+
+418
+00:14:49.860 --> 00:14:51.780
+uneingeschränkt weitergeben darf.
+
+419
+00:14:52.300 --> 00:14:54.260
+Insbesondere Schulbuchverlage
+
+420
+00:14:54.260 --> 00:14:56.460
+untersagen mitunter explizit
+
+421
+00:14:56.460 --> 00:14:58.780
+die Vervielfältigung und damit
+
+422
+00:14:58.780 --> 00:15:00.700
+die digitale Weiterverarbeitung
+
+423
+00:15:00.700 --> 00:15:02.500
+ihrer Inhalte außerhalb der
+
+424
+00:15:02.500 --> 00:15:04.620
+vertraglichen Vereinbarungen.
+
+425
+00:15:04.620 --> 00:15:06.780
+Das Hochladen von Schulbuchseiten
+
+426
+00:15:06.780 --> 00:15:09.540
+in generative KI Systeme ohne
+
+427
+00:15:09.540 --> 00:15:11.900
+ausdrückliche Zustimmung der Verlage
+
+428
+00:15:11.900 --> 00:15:14.420
+dürfte somit regelmäßig gegen deren
+
+429
+00:15:14.420 --> 00:15:16.620
+Nutzungsbedingungen verstoßen.
+
+430
+00:15:16.620 --> 00:15:19.180
+Prüfen sie vor Vertragsabschluss, ob
+
+431
+00:15:19.180 --> 00:15:20.740
+ob die eingegebenen Prompts und
+
+432
+00:15:20.740 --> 00:15:22.820
+hochgeladenen Dokumente für das
+
+433
+00:15:22.820 --> 00:15:25.260
+Training der LLMs genutzt werden.
+
+434
+00:15:25.260 --> 00:15:26.820
+In diesem Falle sollten sie von
+
+435
+00:15:26.820 --> 00:15:29.260
+einer Vertragunterzeichnung absehen.
+
+436
+00:15:30.860 --> 00:15:32.620
+Wie ist das, wenn die KI
+
+437
+00:15:32.620 --> 00:15:33.980
+aus geschütztem Input
+
+438
+00:15:33.980 --> 00:15:35.580
+neuen Output generiert?
+
+439
+00:15:36.380 --> 00:15:37.980
+Bleiben erkennbare Teile
+
+440
+00:15:37.980 --> 00:15:39.660
+des Originals erhalten,
+
+441
+00:15:39.660 --> 00:15:40.780
+kann auch dies eine
+
+442
+00:15:40.780 --> 00:15:43.020
+Urheberrechtsverletzung darstellen.
+
+443
+00:15:43.580 --> 00:15:46.260
+Beispiele KI generierte
+
+444
+00:15:46.260 --> 00:15:47.980
+Arbeitsblätter aus einem geschützten
+
+445
+00:15:47.980 --> 00:15:50.420
+Lehrbuch oder eine durch KI
+
+446
+00:15:50.420 --> 00:15:52.340
+generiertes Infoblatt basierend
+
+447
+00:15:52.340 --> 00:15:54.180
+auf geschützten Texten.
+
+448
+00:15:54.180 --> 00:15:55.940
+Wird geschütztes Material im
+
+449
+00:15:55.940 --> 00:15:57.940
+KI Output erkennbar verwendet
+
+450
+00:15:57.940 --> 00:15:59.620
+und veröffentlicht, erfolgt
+
+451
+00:15:59.620 --> 00:16:01.540
+eine unerlaubte Verbreitung
+
+452
+00:16:01.540 --> 00:16:03.380
+oder sogar Bearbeitung.
+
+453
+00:16:03.940 --> 00:16:05.540
+Aber selbst wenn der Output
+
+454
+00:16:05.540 --> 00:16:07.300
+nicht identisch mit dem Original
+
+455
+00:16:07.300 --> 00:16:08.900
+ist, bleibt die Nutzung
+
+456
+00:16:08.900 --> 00:16:10.740
+eine Urheberrechtsverletzung.
+
+457
+00:16:11.290 --> 00:16:13.410
+Der Output basiert auf geschütztem
+
+458
+00:16:13.410 --> 00:16:15.690
+Material, was ihn potenziell zu
+
+459
+00:16:15.690 --> 00:16:18.010
+einem abgeleiteten Werk macht.
+
+460
+00:16:18.010 --> 00:16:19.610
+Solche Werke dürfen nur
+
+461
+00:16:19.610 --> 00:16:21.850
+mit Zustimmung des Rechteinhabers
+
+462
+00:16:21.850 --> 00:16:23.450
+oder der Rechteinhaberin
+
+463
+00:16:23.450 --> 00:16:24.170
+verwendet werden.
+
+464
+00:16:25.370 --> 00:16:26.810
+Etwas anders verhält es sich
+
+465
+00:16:26.810 --> 00:16:28.250
+bei Fremdmaterialien
+
+466
+00:16:28.250 --> 00:16:30.090
+unter einer offenen Lizenz.
+
+467
+00:16:30.090 --> 00:16:31.330
+Bekanntestes Beispiel
+
+468
+00:16:31.330 --> 00:16:33.930
+hierfür sind die Creative Commons,
+
+469
+00:16:33.930 --> 00:16:36.660
+kurz CC Lizenzen.
+
+470
+00:16:36.660 --> 00:16:38.900
+Eine Lehrkraft kann einen CC
+
+471
+00:16:38.900 --> 00:16:41.060
+lizenzierten Artikel nutzen,
+
+472
+00:16:41.060 --> 00:16:43.460
+Quizfragen generieren zu lassen.
+
+473
+00:16:43.460 --> 00:16:45.460
+Eine Mitarbeiterin der Verwaltung
+
+474
+00:16:45.460 --> 00:16:48.260
+kann basierend auf CC lizenzierten
+
+475
+00:16:48.260 --> 00:16:49.700
+Texten ein Formular
+
+476
+00:16:49.700 --> 00:16:52.260
+oder eine Handreichung erstellen.
+
+477
+00:16:52.260 --> 00:16:53.980
+Offen lizenziert bedeutet
+
+478
+00:16:53.980 --> 00:16:55.700
+jedoch nicht gemeinfrei.
+
+479
+00:16:55.700 --> 00:16:58.340
+Wichtig die Lizenzbedingungen müssen
+
+480
+00:16:58.340 --> 00:17:00.340
+auch im Kontext von KI eingehalten
+
+481
+00:17:00.340 --> 00:17:01.900
+werden, etwa durch eine
+
+482
+00:17:01.900 --> 00:17:04.819
+Namensnennung bei der Lizenz CC BY.
+
+483
+00:17:05.619 --> 00:17:06.740
+Mittlerweile gibt es eine
+
+484
+00:17:06.740 --> 00:17:09.500
+Vielzahl CC lizenzierter
+
+485
+00:17:09.500 --> 00:17:11.380
+Lehr und Lernmaterialien.
+
+486
+00:17:11.380 --> 00:17:13.300
+Diese werden open Educational
+
+487
+00:17:13.300 --> 00:17:16.819
+Resources oder kurz OER genannt.
+
+488
+00:17:16.819 --> 00:17:18.619
+Es ist empfehlenswert, wann
+
+489
+00:17:18.619 --> 00:17:20.420
+immer möglich auf OER
+
+490
+00:17:20.420 --> 00:17:22.260
+Materialien zurückzugreifen.
+
+491
+00:17:22.819 --> 00:17:24.900
+Viele Unterrichtsmaterialien stehen
+
+492
+00:17:24.900 --> 00:17:27.060
+inzwischen unter freien Lizenzen.
+
+493
+00:17:27.060 --> 00:17:27.740
+Z.B.
+
+494
+00:17:27.740 --> 00:17:29.220
+Über Plattformen wie
+
+495
+00:17:29.220 --> 00:17:30.860
+wir lernen online für den
+
+496
+00:17:30.860 --> 00:17:33.380
+Schulbereich oder Twillo bzw.
+
+497
+00:17:33.380 --> 00:17:35.460
+Der RSI für den Hochschulbereich.
+
+498
+00:17:37.230 --> 00:17:38.630
+Ähnlich verhält es sich mit
+
+499
+00:17:38.630 --> 00:17:40.910
+gemeinfreien Materialien.
+
+500
+00:17:40.910 --> 00:17:42.990
+Das sind Materialien, die nicht
+
+501
+00:17:42.990 --> 00:17:44.990
+mehr urheberrechtlich geschützt
+
+502
+00:17:44.990 --> 00:17:46.630
+sind, weil die Schutzfrist
+
+503
+00:17:46.630 --> 00:17:48.990
+abgelaufen ist oder weil sie nie
+
+504
+00:17:48.990 --> 00:17:51.230
+einem Urheberrecht unterlagen.
+
+505
+00:17:51.230 --> 00:17:53.470
+Dazu gehören unter anderem Werke
+
+506
+00:17:53.470 --> 00:17:55.990
+von Urhebern, deren Tod mehr als
+
+507
+00:17:55.990 --> 00:17:59.070
+70 Jahre zurückliegt, und Texte wie
+
+508
+00:17:59.070 --> 00:18:01.150
+Gesetze oder Verwaltungsakten.
+
+509
+00:18:01.880 --> 00:18:03.640
+Ein Mitarbeiter der Verwaltung
+
+510
+00:18:03.640 --> 00:18:05.600
+könnte also gemeinfreie Texte
+
+511
+00:18:05.600 --> 00:18:08.600
+wie Schulgesetze, Prüfungsordnungen
+
+512
+00:18:08.600 --> 00:18:10.200
+oder amtliche Dokumente
+
+513
+00:18:10.200 --> 00:18:12.280
+zu Schulwechseln als Material
+
+514
+00:18:12.280 --> 00:18:14.600
+für einen Chatbot verwenden.
+
+515
+00:18:14.600 --> 00:18:16.560
+Eine Lehrerin könnte z.b.
+
+516
+00:18:16.560 --> 00:18:18.400
+gedichte basierend auf den Werken
+
+517
+00:18:18.400 --> 00:18:20.840
+Heinrich Heines schreiben lassen.
+
+518
+00:18:20.840 --> 00:18:23.000
+Hier gibt es keine Lizenzbedingungen
+
+519
+00:18:23.000 --> 00:18:25.000
+mehr, sodass die Materialien
+
+520
+00:18:25.000 --> 00:18:26.880
+frei verwendet, verändert
+
+521
+00:18:26.880 --> 00:18:28.600
+und weitergegeben werden können.
+
+522
+00:18:29.590 --> 00:18:31.110
+Dennoch bietet es sich an,
+
+523
+00:18:31.110 --> 00:18:32.630
+die Quellen der verwendeten
+
+524
+00:18:32.630 --> 00:18:34.790
+Materialien anzugeben,
+
+525
+00:18:34.790 --> 00:18:37.150
+Transparenz und Nachvollziehbarkeit
+
+526
+00:18:37.150 --> 00:18:38.550
+zu gewährleisten.
+
+527
+00:18:38.550 --> 00:18:40.790
+Ein Sonderfall bei KI generierten
+
+528
+00:18:40.790 --> 00:18:42.710
+Inhalten entsteht, wenn Menschen
+
+529
+00:18:42.710 --> 00:18:44.550
+diese weiter bearbeiten.
+
+530
+00:18:44.550 --> 00:18:47.430
+Wir erinnern rein KI generierte
+
+531
+00:18:47.430 --> 00:18:48.950
+Inhalte genießen nach
+
+532
+00:18:48.950 --> 00:18:50.670
+aktueller Rechtslage keinen
+
+533
+00:18:50.670 --> 00:18:53.110
+Urheberrechtsschutz, da sie keine
+
+534
+00:18:53.110 --> 00:18:54.950
+persönliche geistige Schöpfung
+
+535
+00:18:54.950 --> 00:18:56.310
+eines Menschen darstellen.
+
+536
+00:18:57.000 --> 00:18:58.280
+Eine umfassende menschliche
+
+537
+00:18:58.280 --> 00:18:59.760
+Nachbearbeitung kann
+
+538
+00:18:59.760 --> 00:19:01.720
+diesen Status verändern.
+
+539
+00:19:01.720 --> 00:19:04.360
+Die entscheidende Frage in welchem
+
+540
+00:19:04.360 --> 00:19:07.240
+Umfang wird der KI Output verändert?
+
+541
+00:19:07.240 --> 00:19:09.920
+Kleine sprachliche Korrekturen oder
+
+542
+00:19:09.920 --> 00:19:12.000
+stilistische Anpassungen reichen
+
+543
+00:19:12.000 --> 00:19:14.160
+nicht aus, ein eigenständiges,
+
+544
+00:19:14.160 --> 00:19:16.600
+schutzfähiges Werk zu schaffen.
+
+545
+00:19:16.600 --> 00:19:18.440
+Erst wenn Nutzer innen durch
+
+546
+00:19:18.440 --> 00:19:19.880
+kreative Nacharbeit,
+
+547
+00:19:19.880 --> 00:19:22.360
+Umstrukturierungen oder inhaltliche
+
+548
+00:19:22.360 --> 00:19:23.960
+Neuausrichtungen eine
+
+549
+00:19:23.960 --> 00:19:26.140
+prägende Eigenleistung erbringen,
+
+550
+00:19:26.140 --> 00:19:27.060
+kann aus einem KI
+
+551
+00:19:27.060 --> 00:19:29.060
+Output ein urheberrechtlich
+
+552
+00:19:29.060 --> 00:19:31.100
+geschütztes Werk entstehen.
+
+553
+00:19:31.100 --> 00:19:32.940
+Eine KI kann beispielsweise
+
+554
+00:19:32.940 --> 00:19:35.340
+einen Unterrichtsentwurf generieren,
+
+555
+00:19:35.340 --> 00:19:36.980
+doch erst durch eigene
+
+556
+00:19:36.980 --> 00:19:38.940
+didaktische Ergänzungen wird
+
+557
+00:19:38.940 --> 00:19:40.460
+daraus ein individuell
+
+558
+00:19:40.460 --> 00:19:42.379
+gestaltetes Unterrichtskonzept.
+
+559
+00:19:43.420 --> 00:19:45.420
+Eine Verwaltungsmitarbeitende
+
+560
+00:19:45.420 --> 00:19:48.180
+könnte eine KI nutzen, eine Vorlage
+
+561
+00:19:48.180 --> 00:19:50.140
+für einen Brief zu erstellen.
+
+562
+00:19:50.140 --> 00:19:52.580
+Die KI liefert eine standardisierte
+
+563
+00:19:52.580 --> 00:19:54.820
+Formulierung und die Mitarbeiterin
+
+564
+00:19:54.820 --> 00:19:57.420
+ergänzt präzise rechtliche Verweise
+
+565
+00:19:57.420 --> 00:19:58.980
+und formuliert komplexe
+
+566
+00:19:58.980 --> 00:20:01.420
+Sachverhalte zielgruppengerechter.
+
+567
+00:20:01.980 --> 00:20:04.060
+Durch diese eigenständige Anpassung
+
+568
+00:20:04.060 --> 00:20:06.420
+entsteht ein neuer, individuell
+
+569
+00:20:06.420 --> 00:20:08.540
+gestalteter Text, der über den
+
+570
+00:20:08.540 --> 00:20:11.700
+bloßen KI Output hinausgeht und als
+
+571
+00:20:11.700 --> 00:20:13.900
+eigenes Werk betrachtet werden kann.
+
+572
+00:20:15.660 --> 00:20:19.140
+Ein weiterer neben dem Urheberrecht
+
+573
+00:20:19.140 --> 00:20:20.500
+gibt es weitere rechtliche
+
+574
+00:20:20.500 --> 00:20:22.250
+Aspekte, die beim Einsatz
+
+575
+00:20:22.250 --> 00:20:24.530
+von KI beachtet werden müssen.
+
+576
+00:20:24.530 --> 00:20:26.210
+Besonders wichtig sind das
+
+577
+00:20:26.210 --> 00:20:27.570
+Datenschutzrecht und
+
+578
+00:20:27.570 --> 00:20:29.250
+das Persönlichkeitsrecht.
+
+579
+00:20:29.810 --> 00:20:31.570
+Werden personenbezogene Daten
+
+580
+00:20:31.570 --> 00:20:33.330
+in eine KI eingegeben oder
+
+581
+00:20:33.330 --> 00:20:35.090
+verarbeitet, greift die
+
+582
+00:20:35.090 --> 00:20:36.930
+Datenschutzgrundverordnung,
+
+583
+00:20:36.930 --> 00:20:40.530
+kurz DSGVO, prinzipiell.
+
+584
+00:20:41.090 --> 00:20:43.370
+Es dürfen keine personenbezogenen
+
+585
+00:20:43.370 --> 00:20:44.730
+Daten als Prompt für
+
+586
+00:20:44.730 --> 00:20:46.290
+eine KI verwendet werden.
+
+587
+00:20:47.020 --> 00:20:48.380
+Auch Persönlichkeitsrechte
+
+588
+00:20:48.380 --> 00:20:50.020
+spielen eine Rolle, etwa wenn
+
+589
+00:20:50.020 --> 00:20:52.260
+eine KI realistische Bilder oder
+
+590
+00:20:52.260 --> 00:20:53.500
+Stimmen von Personen,
+
+591
+00:20:53.500 --> 00:20:56.220
+sogenannte Deepfakes, erzeugt.
+
+592
+00:20:56.220 --> 00:20:57.820
+Auch dies kann eine Verletzung
+
+593
+00:20:57.820 --> 00:20:59.580
+des Rechts am eigenen Bild
+
+594
+00:20:59.580 --> 00:21:02.460
+oder der eigenen Stimme darstellen.
+
+595
+00:21:02.460 --> 00:21:04.500
+Zudem setzt die Verordnung über
+
+596
+00:21:04.500 --> 00:21:06.420
+künstliche Intelligenz, der
+
+597
+00:21:06.420 --> 00:21:09.380
+EUAI Act, klare Regeln für
+
+598
+00:21:09.380 --> 00:21:12.140
+den Einsatz von KI Systemen.
+
+599
+00:21:12.140 --> 00:21:14.740
+Der AI Act klassifiziert KI
+
+600
+00:21:14.740 --> 00:21:16.580
+Anwendungen im Bildungs und
+
+601
+00:21:16.580 --> 00:21:18.920
+Verwaltungsbereich überwiegend als
+
+602
+00:21:18.920 --> 00:21:21.240
+Hochrisikosysteme und schreibt hier
+
+603
+00:21:21.240 --> 00:21:23.800
+strenge Transparenz, Dokumentations
+
+604
+00:21:23.800 --> 00:21:25.880
+und Prüfpflichten vor.
+
+605
+00:21:25.880 --> 00:21:27.320
+Diese Regelungen sollen
+
+606
+00:21:27.320 --> 00:21:29.840
+sicherstellen, dass KI Anwendungen
+
+607
+00:21:29.840 --> 00:21:32.040
+nicht nur technisch sicher, sondern
+
+608
+00:21:32.040 --> 00:21:34.440
+auch rechtlich konform sind.
+
+609
+00:21:34.440 --> 00:21:36.760
+Daher ist es ratsam, sich mit den
+
+610
+00:21:36.760 --> 00:21:39.640
+Vorgaben des EUAI Acts vertraut zu
+
+611
+00:21:39.640 --> 00:21:41.880
+machen, wenn KI Systeme in Schule
+
+612
+00:21:41.880 --> 00:21:43.560
+und Verwaltung eingesetzt werden.
+
+613
+00:21:44.770 --> 00:21:48.370
+Wir fassen also KI Outputs sind
+
+614
+00:21:48.370 --> 00:21:50.450
+grundsätzlich frei verwendbar,
+
+615
+00:21:50.450 --> 00:21:52.290
+sofern sie keine erkennbaren
+
+616
+00:21:52.290 --> 00:21:53.570
+fremden Werke enthalten.
+
+617
+00:21:54.290 --> 00:21:56.010
+Allerdings besitzt auch niemand
+
+618
+00:21:56.010 --> 00:21:57.770
+ein exklusives Recht an diesen
+
+619
+00:21:57.770 --> 00:21:59.930
+Inhalten, es sei denn, sie
+
+620
+00:21:59.930 --> 00:22:02.610
+wurden kreativ nachbearbeitet.
+
+621
+00:22:02.610 --> 00:22:04.210
+Das Einbringen fremder,
+
+622
+00:22:04.210 --> 00:22:06.370
+urheberrechtlich geschützter
+
+623
+00:22:06.370 --> 00:22:08.770
+Inhalte in KI Systeme hingegen
+
+624
+00:22:08.770 --> 00:22:10.370
+birgt rechtliche Risiken.
+
+625
+00:22:11.080 --> 00:22:12.320
+Dabei müssen wir unterscheiden
+
+626
+00:22:12.320 --> 00:22:14.080
+zwischen dem Training von KI
+
+627
+00:22:14.080 --> 00:22:15.880
+Modellen und dem späteren
+
+628
+00:22:15.880 --> 00:22:17.480
+Hochladen von Inhalten
+
+629
+00:22:17.480 --> 00:22:19.880
+durch die Nutzerinnen und Nutzer.
+
+630
+00:22:19.880 --> 00:22:22.080
+Das Training von generativen KI
+
+631
+00:22:22.080 --> 00:22:23.560
+Systemen mit geschützten
+
+632
+00:22:23.560 --> 00:22:25.880
+Fremdinhalten ist rein technisch
+
+633
+00:22:25.880 --> 00:22:27.600
+gesehen auch das Kopieren dieser
+
+634
+00:22:27.600 --> 00:22:30.040
+Materialien in das KI System.
+
+635
+00:22:30.760 --> 00:22:32.720
+Hierzu müssen Urheberinnen und
+
+636
+00:22:32.720 --> 00:22:34.920
+Urheber in der Regel eigentlich
+
+637
+00:22:34.920 --> 00:22:37.010
+zustimmen, allerdings ist
+
+638
+00:22:37.010 --> 00:22:38.690
+diese Form der Nutzung in vielen
+
+639
+00:22:38.690 --> 00:22:40.850
+Fällen rechtlich zulässig.
+
+640
+00:22:40.850 --> 00:22:42.930
+Das deutsche Urheberrechtsgesetz
+
+641
+00:22:42.930 --> 00:22:43.970
+erlaubt durch die
+
+642
+00:22:44.690 --> 00:22:48.290
+44 b und d in bestimmten
+
+643
+00:22:48.290 --> 00:22:50.690
+Situationen dieses sogenannte
+
+644
+00:22:50.690 --> 00:22:52.530
+Text und Data Mining
+
+645
+00:22:52.530 --> 00:22:53.890
+natürlich nur, sofern
+
+646
+00:22:53.890 --> 00:22:55.410
+die Rechteinhaber dem nicht
+
+647
+00:22:55.410 --> 00:22:56.450
+widersprochen haben.
+
+648
+00:22:58.370 --> 00:23:00.610
+Beim Einbringen von Materialien in
+
+649
+00:23:00.610 --> 00:23:03.170
+ein generatives KI System durch
+
+650
+00:23:03.170 --> 00:23:05.610
+die Nutzerinnen und Nutzer, z.B.
+
+651
+00:23:05.610 --> 00:23:07.770
+Über einen Prompt, ist folgendes zu
+
+652
+00:23:08.650 --> 00:23:11.610
+nur eigenes oder erlaubtes Material
+
+653
+00:23:11.610 --> 00:23:14.090
+in KI Systeme eingeben.
+
+654
+00:23:14.090 --> 00:23:16.090
+Prüfen sie vor jedem Prompt, ob
+
+655
+00:23:16.090 --> 00:23:18.210
+der Inhalt, den sie in das KI
+
+656
+00:23:18.210 --> 00:23:19.770
+System einfügen, von ihnen
+
+657
+00:23:19.770 --> 00:23:22.170
+erstellt wurde, offen lizenziert
+
+658
+00:23:22.170 --> 00:23:24.330
+oder sogar gemeinfrei ist.
+
+659
+00:23:24.890 --> 00:23:27.410
+Fremde geschützte Werke, wie z.b.
+
+660
+00:23:27.410 --> 00:23:29.420
+passagen aus Schulbüchern
+
+661
+00:23:29.420 --> 00:23:31.300
+oder Artikel aus Fachzeitschriften
+
+662
+00:23:31.300 --> 00:23:32.340
+sollten in der Regel
+
+663
+00:23:32.340 --> 00:23:33.500
+nicht hochgeladen werden.
+
+664
+00:23:34.060 --> 00:23:36.420
+Nutzen sie stattdessen lieber eigene
+
+665
+00:23:36.420 --> 00:23:38.940
+oder offen lizenzierte Materialien.
+
+666
+00:23:40.700 --> 00:23:43.940
+KI Ergebnisse prü wurden geschützte
+
+667
+00:23:43.940 --> 00:23:45.980
+Werke im Prompt verwendet oder
+
+668
+00:23:45.980 --> 00:23:48.420
+bestehen im Output Ähnlichkeiten zu
+
+669
+00:23:48.420 --> 00:23:51.220
+bekannten Inhalten wie lange Zitate
+
+670
+00:23:51.220 --> 00:23:52.860
+oder stark ähnliche Bilder?
+
+671
+00:23:53.500 --> 00:23:55.990
+Falls ja, nicht veröffentlichen.
+
+672
+00:23:56.790 --> 00:23:58.190
+Im Unterricht können diese
+
+673
+00:23:58.190 --> 00:24:00.790
+Ergebnisse analysiert, aber nicht
+
+674
+00:24:00.790 --> 00:24:02.630
+extern veröffentlicht werden.
+
+675
+00:24:03.430 --> 00:24:06.230
+KI Outputs nachbearbeiten,
+
+676
+00:24:06.230 --> 00:24:08.310
+sie zu eigenen Werken zu machen
+
+677
+00:24:08.950 --> 00:24:11.070
+KI Outputs mit ausreichender
+
+678
+00:24:11.070 --> 00:24:12.870
+menschlicher Nachbearbeitung
+
+679
+00:24:12.870 --> 00:24:14.430
+können wiederum ebenfalls
+
+680
+00:24:14.430 --> 00:24:16.870
+urheberrechtlich geschützt sein.
+
+681
+00:24:16.870 --> 00:24:18.710
+Kleine stilistische Änderungen
+
+682
+00:24:18.710 --> 00:24:20.950
+genügen allerdings nicht, ein neues
+
+683
+00:24:20.950 --> 00:24:22.710
+schutzfähiges Werk zu schaffen.
+
+684
+00:24:23.580 --> 00:24:25.980
+KI Outputs kennzeichnen
+
+685
+00:24:25.980 --> 00:24:28.340
+in Schule und Schulverwaltung sollte
+
+686
+00:24:28.340 --> 00:24:29.940
+KI generierter Inhalt
+
+687
+00:24:29.940 --> 00:24:32.380
+gekennzeichnet werden, Transparenz
+
+688
+00:24:32.380 --> 00:24:34.220
+und Vertrauen zu schaffen.
+
+689
+00:24:34.220 --> 00:24:36.580
+Dies klärt die Herkunft und fördert
+
+690
+00:24:36.580 --> 00:24:39.099
+die Diskussion über KI Einsatz.
+
+691
+00:24:39.099 --> 00:24:41.540
+Datenschutz geben sie keine
+
+692
+00:24:41.540 --> 00:24:43.340
+personenbezogenen Daten
+
+693
+00:24:43.340 --> 00:24:45.180
+oder sensible Informationen
+
+694
+00:24:45.180 --> 00:24:47.260
+in KI Systeme ein.
+
+695
+00:24:47.260 --> 00:24:49.060
+Mit Bedacht und Kenntnis der
+
+696
+00:24:49.060 --> 00:24:50.880
+rechtlichen Rahmenbedingungen
+
+697
+00:24:50.880 --> 00:24:53.000
+lässt sich KI sicher und sinnvoll in
+
+698
+00:24:53.000 --> 00:24:54.960
+Schule und Verwaltung einsetzen.
+
+699
+00:24:54.960 --> 00:24:56.440
+Die Welt der KI und des
+
+700
+00:24:56.440 --> 00:24:58.320
+Urheberrechts steht nicht still.
+
+701
+00:24:58.880 --> 00:25:00.240
+Wie könnten die kommenden
+
+702
+00:25:00.240 --> 00:25:01.760
+Jahre aussehen?
+
+703
+00:25:01.760 --> 00:25:03.200
+Folgende rechtliche und
+
+704
+00:25:03.200 --> 00:25:05.160
+technologische Entwicklungen können
+
+705
+00:25:05.160 --> 00:25:07.119
+für Schule und Verwaltung relevant
+
+706
+00:25:07.119 --> 00:25:10.520
+sein die EU prüft derzeit mögliche
+
+707
+00:25:10.520 --> 00:25:12.320
+Anpassungen des Urheberrechts
+
+708
+00:25:12.320 --> 00:25:13.920
+für KI generierte Werke.
+
+709
+00:25:14.480 --> 00:25:16.280
+Diskutiert werden unter anderem
+
+710
+00:25:16.280 --> 00:25:18.480
+ein klarerer Rechtsstatus für KI
+
+711
+00:25:18.480 --> 00:25:20.520
+Erzeugnisse sowie spezielle
+
+712
+00:25:20.520 --> 00:25:22.840
+Ausnahmen für Bildungseinrichtungen.
+
+713
+00:25:22.840 --> 00:25:24.880
+Da konkrete Regelungen noch Jahre
+
+714
+00:25:24.880 --> 00:25:26.840
+dauern könnten, sollten Schule
+
+715
+00:25:26.840 --> 00:25:28.720
+und Verwaltung das bestehende
+
+716
+00:25:28.720 --> 00:25:30.520
+Recht beachten und die Entwicklung
+
+717
+00:25:30.520 --> 00:25:32.200
+aufmerksam verfolgen.
+
+718
+00:25:32.200 --> 00:25:34.320
+Die rasante Entwicklung generativer
+
+719
+00:25:34.320 --> 00:25:36.480
+KI Modelle erhöht das Risiko
+
+720
+00:25:36.480 --> 00:25:38.280
+von Urheberrechtsverletzungen,
+
+721
+00:25:38.280 --> 00:25:39.840
+wenn KI Ergebnisse
+
+722
+00:25:39.840 --> 00:25:41.400
+geschützten Werken ähneln.
+
+723
+00:25:41.960 --> 00:25:44.520
+Neue technische Lösungen wie digitale
+
+724
+00:25:44.520 --> 00:25:46.460
+Wasserzeichen oder spezielle
+
+725
+00:25:46.460 --> 00:25:48.300
+Software zur Erkennung von KI
+
+726
+00:25:48.300 --> 00:25:50.300
+Erzeugnissen könnten hier helfen.
+
+727
+00:25:50.940 --> 00:25:53.140
+Parallel entstehen auch KI Modelle,
+
+728
+00:25:53.140 --> 00:25:55.300
+die ausschließlich gemeinfreie
+
+729
+00:25:55.300 --> 00:25:58.140
+oder lizenzfreie Daten nutzen.
+
+730
+00:25:58.140 --> 00:25:59.620
+Diese wären besonders für
+
+731
+00:25:59.620 --> 00:26:01.539
+Schulen attraktiv, auch wenn
+
+732
+00:26:01.539 --> 00:26:03.420
+proprietäre Modelle momentan
+
+733
+00:26:03.420 --> 00:26:05.340
+oft leistungsfähiger sind.
+
+734
+00:26:05.340 --> 00:26:06.740
+Im schulischen Bereich in
+
+735
+00:26:06.740 --> 00:26:08.700
+Niedersachsen könnten bald neue
+
+736
+00:26:08.700 --> 00:26:10.700
+Richtlinien kommen, etwa zum
+
+737
+00:26:10.700 --> 00:26:12.620
+Einsatz von KI Tools ab der
+
+738
+00:26:12.620 --> 00:26:14.570
+Sekundarstufe eins oder
+
+739
+00:26:14.570 --> 00:26:16.490
+verbindliche Rahmenverträge mit
+
+740
+00:26:16.490 --> 00:26:18.290
+KI Anbietern zum Schutz von
+
+741
+00:26:18.290 --> 00:26:20.690
+Datenschutz und Urheberrecht.
+
+742
+00:26:20.690 --> 00:26:22.250
+Gesellschaftlich gibt es
+
+743
+00:26:22.250 --> 00:26:24.610
+Vorschläge, dass KI Anbieter Teile
+
+744
+00:26:24.610 --> 00:26:26.810
+ihrer Gewinne in Urheberrechtsfonds
+
+745
+00:26:26.810 --> 00:26:28.610
+einzahlen sollen, vergleichbar
+
+746
+00:26:28.610 --> 00:26:30.610
+mit früheren Lehrträgerabgaben
+
+747
+00:26:30.610 --> 00:26:32.210
+auf Speichermedien.
+
+748
+00:26:32.210 --> 00:26:34.370
+Solche Modelle sind aber bislang
+
+749
+00:26:34.370 --> 00:26:38.210
+Stand 2025 nur Zukunftsszenarien.
+
+750
+00:26:38.770 --> 00:26:40.570
+Schule und Verwaltung bewegen sich
+
+751
+00:26:40.570 --> 00:26:42.370
+in einem Feld, das in Bewegung ist.
+
+752
+00:26:43.020 --> 00:26:44.380
+In zwei bis drei Jahren
+
+753
+00:26:44.380 --> 00:26:45.740
+könnten einige Regelungen
+
+754
+00:26:45.740 --> 00:26:47.490
+anders aussehen, z.B.
+
+755
+00:26:47.490 --> 00:26:49.020
+in Form von klareren
+
+756
+00:26:49.020 --> 00:26:51.420
+gesetzlichen Vorgaben, wie KI
+
+757
+00:26:51.420 --> 00:26:53.500
+output zu behandeln ist.
+
+758
+00:26:53.500 --> 00:26:55.220
+Eventuell müssen Schulen und
+
+759
+00:26:55.220 --> 00:26:57.020
+Verwaltungseinrichtungen dann
+
+760
+00:26:57.020 --> 00:26:58.620
+ihre Richtlinien anpassen.
+
+761
+00:26:59.260 --> 00:27:00.980
+Technisch gesehen sollten wir uns
+
+762
+00:27:00.980 --> 00:27:03.380
+darauf einstellen, dass KI sowohl
+
+763
+00:27:03.380 --> 00:27:05.220
+für die Schule als auch für die
+
+764
+00:27:05.220 --> 00:27:07.580
+Verwaltung noch zugänglicher wird.
+
+765
+00:27:07.580 --> 00:27:09.760
+Es bietet sich daher an, KI das Thema
+
+766
+00:27:09.760 --> 00:27:11.640
+Urheberrecht nicht mehr isoliert
+
+767
+00:27:11.640 --> 00:27:14.240
+auf den Kontext KI zu beziehen,
+
+768
+00:27:14.240 --> 00:27:16.200
+sondern als Teil der generellen
+
+769
+00:27:16.200 --> 00:27:18.480
+Medienkompetenz zu betrachten.
+
+770
+00:27:18.480 --> 00:27:20.480
+Menschen in Schule und Verwaltung
+
+771
+00:27:20.480 --> 00:27:21.840
+müssen ein Bewusstsein
+
+772
+00:27:21.840 --> 00:27:23.200
+dafür entwickeln, was
+
+773
+00:27:23.200 --> 00:27:24.840
+mit fremden Inhalten erlaubt
+
+774
+00:27:24.840 --> 00:27:26.480
+ist und was nicht,
+
+775
+00:27:26.480 --> 00:27:28.560
+unabhängig davon, ob diese von
+
+776
+00:27:28.560 --> 00:27:29.960
+Menschen oder Maschinen
+
+777
+00:27:29.960 --> 00:27:31.200
+verarbeitet wurden.
+
+778
+00:27:41.660 --> 00:27:43.420
+Wussten sie schon es gibt
+
+779
+00:27:43.420 --> 00:27:45.740
+Fälle, da hat eine KI so kreativ
+
+780
+00:27:45.740 --> 00:27:47.700
+geklaut, dass es fast schon
+
+781
+00:27:47.700 --> 00:27:49.020
+wieder künstlerisch ist.
+
+782
+00:27:49.740 --> 00:27:51.700
+Zweitausenddreiundzwanzig tauchte
+
+783
+00:27:51.700 --> 00:27:53.739
+im Internet ein Song auf, in dem
+
+784
+00:27:53.739 --> 00:27:56.260
+eine KI die Stimmen der Popstars
+
+785
+00:27:56.260 --> 00:27:59.340
+Drake und the Weeknd imitierte.
+
+786
+00:27:59.340 --> 00:28:01.300
+Der Song ging viral, doch
+
+787
+00:28:01.300 --> 00:28:03.100
+weder Drake noch the Weeknd
+
+788
+00:28:03.100 --> 00:28:04.540
+hatten ihn je eingesungen.
+
+789
+00:28:05.180 --> 00:28:07.340
+Das Lied war ein KI Werk.
+
+790
+00:28:07.340 --> 00:28:08.860
+Urheberrechtlich war das
+
+791
+00:28:08.860 --> 00:28:10.540
+eine komplexe Situation.
+
+792
+00:28:10.540 --> 00:28:13.380
+Die Melodie war neu vom KI Ersteller
+
+793
+00:28:13.380 --> 00:28:15.140
+komponiert, aber die Stimmen
+
+794
+00:28:15.140 --> 00:28:17.260
+klangen wie die der echten Künstler.
+
+795
+00:28:17.820 --> 00:28:19.620
+Die Plattenfirma ließ den Song
+
+796
+00:28:19.620 --> 00:28:21.340
+wegen Urheberrechtsverletzung
+
+797
+00:28:21.340 --> 00:28:22.940
+entfernen, obwohl keine
+
+798
+00:28:22.940 --> 00:28:24.860
+echte Stimme genutzt wurde.
+
+799
+00:28:24.860 --> 00:28:26.460
+Man argumentierte mit den
+
+800
+00:28:26.460 --> 00:28:27.940
+Persönlichkeitsrechten
+
+801
+00:28:27.940 --> 00:28:29.900
+und dem Stil der Künstler.
+
+802
+00:28:29.900 --> 00:28:32.850
+Weil KI so gut kopieren kann,
+
+803
+00:28:32.850 --> 00:28:34.330
+verschwimmen die Linien zwischen
+
+804
+00:28:34.330 --> 00:28:36.210
+Inspiration und Verletzung.

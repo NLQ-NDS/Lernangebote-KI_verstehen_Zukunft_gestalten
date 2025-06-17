@@ -1,0 +1,3965 @@
+WEBVTT
+
+1
+00:00:06.240 --> 00:00:08.071
+Funktionsweise von KI.
+
+2
+00:00:08.071 --> 00:00:10.060
+Worum geht es bei diesem Thema?
+
+3
+00:00:12.560 --> 00:00:14.696
+Der Kurs bietet einen vertieften
+
+4
+00:00:14.696 --> 00:00:16.376
+Einblick in die Funktionsweise
+
+5
+00:00:16.376 --> 00:00:18.344
+moderner KI Systeme,
+
+6
+00:00:18.344 --> 00:00:19.752
+insbesondere der KI
+
+7
+00:00:19.752 --> 00:00:21.944
+Sprachmodelle, und erläutert
+
+8
+00:00:21.944 --> 00:00:23.952
+zentrale Konzepte wie
+
+9
+00:00:23.952 --> 00:00:25.272
+maschinelles Lernen,
+
+10
+00:00:25.272 --> 00:00:27.400
+Transformer architekturen,
+
+11
+00:00:27.400 --> 00:00:29.572
+Trainingsmethoden und ethische
+
+12
+00:00:29.572 --> 00:00:30.840
+Herausforderungen.
+
+13
+00:00:31.580 --> 00:00:33.908
+Im Fokus steht dabei, wie dieses
+
+14
+00:00:33.908 --> 00:00:36.156
+Wissen Lehrkräften und Personen in
+
+15
+00:00:36.156 --> 00:00:38.756
+der Bildungsverwaltung hilft, KI
+
+16
+00:00:38.756 --> 00:00:40.948
+fundiert zu verstehen, sinnvoll
+
+17
+00:00:40.948 --> 00:00:42.636
+einzusetzen und kritisch zu
+
+18
+00:00:42.636 --> 00:00:45.236
+reflektieren, insbesondere anhand
+
+19
+00:00:45.236 --> 00:00:47.356
+konkreter Beispiele wie Soekia und
+
+20
+00:00:47.356 --> 00:00:48.920
+Soekia GPT.
+
+21
+00:00:50.140 --> 00:00:51.668
+Dieses Video soll dazu
+
+22
+00:00:51.668 --> 00:00:53.124
+beitragen, eine informierte
+
+23
+00:00:53.124 --> 00:00:54.892
+und handlungsfähige Haltung
+
+24
+00:00:54.892 --> 00:00:56.970
+gegenüber KI zu entwickeln
+
+25
+00:00:56.970 --> 00:00:58.690
+mit einem Fokus auf das,
+
+26
+00:00:58.690 --> 00:01:00.242
+was technisch möglich,
+
+27
+00:01:00.242 --> 00:01:02.194
+gesellschaftlich sinnvoll und
+
+28
+00:01:02.194 --> 00:01:03.830
+bildungsrelevant ist.
+
+29
+00:01:04.610 --> 00:01:06.218
+Für den sinnvollen Einsatz
+
+30
+00:01:06.218 --> 00:01:07.466
+braucht es nicht nur Wissen
+
+31
+00:01:07.466 --> 00:01:09.346
+über Technik, sondern auch ein
+
+32
+00:01:09.346 --> 00:01:11.058
+Gespür für ethische und
+
+33
+00:01:11.058 --> 00:01:13.418
+didaktische Herausforderungen.
+
+34
+00:01:13.418 --> 00:01:15.306
+Dieses Skript soll helfen,
+
+35
+00:01:15.306 --> 00:01:17.710
+beides miteinander zu verbinden.
+
+36
+00:01:19.890 --> 00:01:21.710
+Warum ist das Thema wichtig?
+
+37
+00:01:24.630 --> 00:01:26.486
+Künstliche Intelligenz ist ein
+
+38
+00:01:26.486 --> 00:01:28.486
+mächtiges Werkzeug und ihre
+
+39
+00:01:28.486 --> 00:01:30.622
+Bedeutung wächst kontinuierlich.
+
+40
+00:01:30.622 --> 00:01:32.614
+Ein grundlegendes Verständnis ihrer
+
+41
+00:01:32.614 --> 00:01:35.126
+Funktionsweise ist unerlässlich,
+
+42
+00:01:35.126 --> 00:01:36.366
+fundierte Entscheidungen
+
+43
+00:01:36.366 --> 00:01:38.614
+treffen, Potenziale zu nutzen und
+
+44
+00:01:38.614 --> 00:01:40.838
+Risiken einschätzen zu können.
+
+45
+00:01:40.838 --> 00:01:43.182
+Dieses Wissen hilft dabei, KI
+
+46
+00:01:43.182 --> 00:01:44.670
+nicht nur zu konsumieren,
+
+47
+00:01:44.670 --> 00:01:46.886
+sondern aktiv, kritisch und
+
+48
+00:01:46.886 --> 00:01:48.690
+reflektiert zu gestalten.
+
+49
+00:01:49.570 --> 00:01:51.026
+Gerade im schulischen und
+
+50
+00:01:51.026 --> 00:01:53.106
+verwaltungstechnischen Kontext ist
+
+51
+00:01:53.106 --> 00:01:56.210
+dieses Thema besonders relevant.
+
+52
+00:01:56.210 --> 00:01:58.538
+In der Schule prägt KI zunehmend
+
+53
+00:01:58.538 --> 00:02:00.986
+den Lernalltag, von der Erstellung
+
+54
+00:02:00.986 --> 00:02:03.034
+von Unterrichtsmaterialien
+
+55
+00:02:03.034 --> 00:02:05.194
+bis hin zu individualisiertem
+
+56
+00:02:05.194 --> 00:02:06.274
+Feedback oder
+
+57
+00:02:06.274 --> 00:02:08.350
+Unterstützung bei Bewertungen.
+
+58
+00:02:09.090 --> 00:02:10.786
+Mitarbeitende sollten in der
+
+59
+00:02:10.786 --> 00:02:13.034
+Lage sein, die Funktionsweise,
+
+60
+00:02:13.034 --> 00:02:14.618
+Möglichkeiten und Grenzen
+
+61
+00:02:14.618 --> 00:02:16.816
+solcher Systeme zu verstehen,
+
+62
+00:02:16.816 --> 00:02:18.688
+Lernprozesse sinnvoll und
+
+63
+00:02:18.688 --> 00:02:20.860
+verantwortungsvoll zu begleiten.
+
+64
+00:02:22.800 --> 00:02:25.128
+In der Bildungs und Schulverwaltung
+
+65
+00:02:25.128 --> 00:02:26.488
+ist ein grundlegendes
+
+66
+00:02:26.488 --> 00:02:28.024
+Verständnis von künstlicher
+
+67
+00:02:28.024 --> 00:02:29.984
+Intelligenz entscheidend,
+
+68
+00:02:29.984 --> 00:02:31.912
+zukünftige Entwicklungen aktiv
+
+69
+00:02:31.912 --> 00:02:33.840
+mitgestalten zu können.
+
+70
+00:02:33.840 --> 00:02:35.992
+KI wird zunehmend einfluss
+
+71
+00:02:35.992 --> 00:02:38.408
+auf Prozesse wie Datenanalyse,
+
+72
+00:02:38.408 --> 00:02:40.232
+Entscheidungsunterstützung,
+
+73
+00:02:40.232 --> 00:02:42.280
+automatisierte Kommunikation
+
+74
+00:02:42.280 --> 00:02:43.618
+oder digitale
+
+75
+00:02:43.618 --> 00:02:45.634
+Auskunftssysteme nehmen.
+
+76
+00:02:45.634 --> 00:02:47.850
+Wer in Planung, Steuerung oder
+
+77
+00:02:47.850 --> 00:02:49.794
+Beratung tätig ist, sollte
+
+78
+00:02:49.794 --> 00:02:51.674
+daher einschätzen können, wie
+
+79
+00:02:51.674 --> 00:02:53.634
+KI Systeme funktionieren,
+
+80
+00:02:53.634 --> 00:02:56.010
+welche Chancen sie bieten und
+
+81
+00:02:56.010 --> 00:02:58.090
+wo ihre Grenzen liegen, eine
+
+82
+00:02:58.090 --> 00:02:59.130
+informierte und
+
+83
+00:02:59.130 --> 00:03:00.466
+handlungsfähige Haltung
+
+84
+00:03:00.466 --> 00:03:02.266
+gegenüber KI einnehmen zu
+
+85
+00:03:02.266 --> 00:03:02.830
+können.
+
+86
+00:03:04.810 --> 00:03:06.490
+Die verschiedenen Aspekte im
+
+87
+00:03:06.490 --> 00:03:11.300
+Detail das Video führt sie
+
+88
+00:03:11.300 --> 00:03:13.060
+durch acht Abschnitte mit
+
+89
+00:03:13.060 --> 00:03:14.460
+thematisch aufeinander
+
+90
+00:03:14.460 --> 00:03:16.240
+aufbauenden Themengebieten.
+
+91
+00:03:16.980 --> 00:03:18.892
+Der erste Abschnitt vermittelt
+
+92
+00:03:18.892 --> 00:03:20.996
+sowohl die Grundprinzipien von
+
+93
+00:03:20.996 --> 00:03:23.076
+künstlicher Intelligenz als auch
+
+94
+00:03:23.076 --> 00:03:24.980
+ein grundlegendes Verständnis für
+
+95
+00:03:24.980 --> 00:03:27.564
+KI, einschließlich der Abgrenzung
+
+96
+00:03:27.564 --> 00:03:29.360
+zur klassischen Programmierung.
+
+97
+00:03:30.180 --> 00:03:32.660
+Der Abschnitt von LLMs bis
+
+98
+00:03:32.660 --> 00:03:34.548
+Transformer erläutert ihnen
+
+99
+00:03:34.548 --> 00:03:36.556
+zentrale Funktionsprinzipien
+
+100
+00:03:36.556 --> 00:03:39.032
+moderner Sprachmodelle und erklärt
+
+101
+00:03:39.032 --> 00:03:41.304
+dabei Begriffe wie Embeddings,
+
+102
+00:03:41.304 --> 00:03:43.820
+Positionscodierung und Maskierung.
+
+103
+00:03:44.640 --> 00:03:46.952
+Im Abschnitt Trainingsparadigmen
+
+104
+00:03:46.952 --> 00:03:48.864
+und Modelloptimierung werden
+
+105
+00:03:48.864 --> 00:03:51.448
+Konzepte wie Pre Training, Fine
+
+106
+00:03:51.448 --> 00:03:55.032
+tuning sowie Gradient descent
+
+107
+00:03:55.032 --> 00:03:57.260
+und Loss Funktion erläutert.
+
+108
+00:03:57.920 --> 00:04:00.808
+Feinabstimmung von KI Modellen
+
+109
+00:04:00.808 --> 00:04:04.016
+prompt Engineering und die
+
+110
+00:04:04.016 --> 00:04:06.048
+Rolle spezialisierter Berufe
+
+111
+00:04:06.048 --> 00:04:07.350
+setzt den Fokus auf
+
+112
+00:04:07.350 --> 00:04:08.718
+Eingabegestaltung,
+
+113
+00:04:08.718 --> 00:04:10.878
+Systemprompts, menschliches
+
+114
+00:04:10.878 --> 00:04:13.166
+Feedback und die Berufsbilder
+
+115
+00:04:13.166 --> 00:04:15.010
+hinter der Modelloptimierung.
+
+116
+00:04:15.750 --> 00:04:18.326
+Der Abschnitt Modellqualität und
+
+117
+00:04:18.326 --> 00:04:20.565
+Benchmarks zeigt, wie man die
+
+118
+00:04:20.565 --> 00:04:22.446
+Leistung und Fairness von KI
+
+119
+00:04:22.446 --> 00:04:24.422
+Modellen anhand von Benchmarks und
+
+120
+00:04:24.422 --> 00:04:26.570
+Rückmeldeschleifen bewerten kann.
+
+121
+00:04:27.190 --> 00:04:29.918
+Multimodale KI gibt einen Einblick
+
+122
+00:04:29.918 --> 00:04:32.638
+in Systeme, die nicht nur Text,
+
+123
+00:04:32.638 --> 00:04:33.886
+sondern auch Bilder,
+
+124
+00:04:33.886 --> 00:04:36.370
+Audio oder Video verarbeiten.
+
+125
+00:04:38.790 --> 00:04:41.038
+Ein konkreter Praxisbezug folgt
+
+126
+00:04:41.038 --> 00:04:44.930
+mit Soekia 2.0 und Soekia GPT.
+
+127
+00:04:45.510 --> 00:04:47.126
+Diese Systeme erklären die
+
+128
+00:04:47.126 --> 00:04:49.822
+Prinzipien Suchmaschine und Large
+
+129
+00:04:49.822 --> 00:04:52.390
+language Model didaktisch.
+
+130
+00:04:52.390 --> 00:04:53.910
+Das Video schließt mit
+
+131
+00:04:53.910 --> 00:04:55.598
+Herausforderungen und offenen
+
+132
+00:04:55.598 --> 00:04:57.790
+Fragen von technischer Robustheit
+
+133
+00:04:57.790 --> 00:04:59.286
+über ethische Aspekte und
+
+134
+00:04:59.286 --> 00:05:01.410
+Ressourcenverbrauch bis hin zu
+
+135
+00:05:01.410 --> 00:05:03.150
+rechtlichen Rahmenbedingungen.
+
+136
+00:05:05.410 --> 00:05:07.642
+Wir starten mit den Grundprinzipien
+
+137
+00:05:07.642 --> 00:05:09.470
+künstlicher Intelligenz.
+
+138
+00:05:12.130 --> 00:05:13.906
+Künstliche Intelligenz ist ein
+
+139
+00:05:13.906 --> 00:05:15.786
+Sammelbegriff für Verfahren,
+
+140
+00:05:15.786 --> 00:05:17.434
+die das Ziel haben, Maschinen
+
+141
+00:05:17.434 --> 00:05:19.338
+mit menschenähnlichen kognitiven
+
+142
+00:05:19.338 --> 00:05:21.322
+Fähigkeiten auszustatten.
+
+143
+00:05:21.322 --> 00:05:24.090
+Grundlage für KI sind Algorithmen,
+
+144
+00:05:24.090 --> 00:05:25.338
+also eindeutige
+
+145
+00:05:25.338 --> 00:05:27.010
+Handlungsvorschriften, die ein
+
+146
+00:05:27.010 --> 00:05:28.990
+Problem schrittweise lösen.
+
+147
+00:05:29.750 --> 00:05:31.582
+In klassischen Programmen schreiben
+
+148
+00:05:31.582 --> 00:05:33.278
+Entwickler und Entwicklerinnen
+
+149
+00:05:33.278 --> 00:05:35.478
+alle Regeln explizit vor.
+
+150
+00:05:35.478 --> 00:05:37.414
+Das System führt genau das
+
+151
+00:05:37.414 --> 00:05:38.966
+aus, was ihm Schritt für
+
+152
+00:05:38.966 --> 00:05:40.822
+Schritt vorgegeben wurde.
+
+153
+00:05:40.822 --> 00:05:41.940
+So kennt z.B.
+
+154
+00:05:41.940 --> 00:05:43.510
+ein Taschenrechner eine
+
+155
+00:05:43.510 --> 00:05:45.470
+feste Funktion zur Addition.
+
+156
+00:05:45.470 --> 00:05:47.574
+Er weiß allerdings nicht, was
+
+157
+00:05:47.574 --> 00:05:49.790
+Zahlen bedeuten, sondern befolgt
+
+158
+00:05:49.790 --> 00:05:52.390
+definierte Rechenvorschriften.
+
+159
+00:05:52.390 --> 00:05:54.734
+In der KI, insbesondere beim
+
+160
+00:05:54.734 --> 00:05:56.254
+maschinellen Lernen,
+
+161
+00:05:56.254 --> 00:05:57.918
+werden Regeln nicht vollständig
+
+162
+00:05:57.918 --> 00:05:59.510
+vorgegeben, sondern das
+
+163
+00:05:59.510 --> 00:06:01.670
+System lernt aus Daten.
+
+164
+00:06:01.670 --> 00:06:03.598
+Die Maschine erkennt Muster,
+
+165
+00:06:03.598 --> 00:06:05.014
+Zusammenhänge und
+
+166
+00:06:05.014 --> 00:06:07.358
+Regularitäten eigenständig.
+
+167
+00:06:07.358 --> 00:06:09.198
+Dadurch können Ki Systeme
+
+168
+00:06:09.198 --> 00:06:11.582
+beispielsweise Gesichter erkennen,
+
+169
+00:06:11.582 --> 00:06:13.326
+Sprache verarbeiten
+
+170
+00:06:13.326 --> 00:06:15.118
+oder Texte schreiben.
+
+171
+00:06:15.118 --> 00:06:16.926
+Das sind alles Aufgaben,
+
+172
+00:06:16.926 --> 00:06:18.942
+die sich schwer in explizite
+
+173
+00:06:18.942 --> 00:06:20.530
+Regeln fassen lassen.
+
+174
+00:06:22.080 --> 00:06:24.792
+Maschinelles Lernen, im Fachjargon
+
+175
+00:06:24.792 --> 00:06:26.816
+Machine Learning genannt, ist ein
+
+176
+00:06:26.816 --> 00:06:29.528
+Teilgebiet der KI, bei dem Systeme
+
+177
+00:06:29.528 --> 00:06:31.600
+Muster aus Daten erkennen und sich
+
+178
+00:06:31.600 --> 00:06:33.656
+dadurch verbessern können, ohne
+
+179
+00:06:33.656 --> 00:06:35.940
+explizit programmiert zu sein.
+
+180
+00:06:36.640 --> 00:06:38.232
+Deep learning ist wiederum
+
+181
+00:06:38.232 --> 00:06:39.696
+eine spezielle Methode des
+
+182
+00:06:39.696 --> 00:06:41.536
+maschinellen Lernens, bei
+
+183
+00:06:41.536 --> 00:06:43.512
+der künstliche neuronale Netze
+
+184
+00:06:43.512 --> 00:06:44.824
+mit vielen Schichten,
+
+185
+00:06:44.824 --> 00:06:47.530
+daher deep, genutzt werden.
+
+186
+00:06:47.530 --> 00:06:49.442
+Diese Netze ermöglichen besonders
+
+187
+00:06:49.442 --> 00:06:51.706
+leistungsstarke Systeme, etwa bei
+
+188
+00:06:51.706 --> 00:06:54.210
+Bilderkennung, Sprachverarbeitung
+
+189
+00:06:54.210 --> 00:06:56.890
+oder autonomen Systemen.
+
+190
+00:06:56.890 --> 00:06:59.274
+Beispielhafte Lernverfahren sind
+
+191
+00:06:59.274 --> 00:07:01.354
+das überwachte Lernen, bei dem
+
+192
+00:07:01.354 --> 00:07:02.746
+anhand von Beispielen mit
+
+193
+00:07:02.746 --> 00:07:05.034
+bekannten Ausgaben gelernt wird.
+
+194
+00:07:05.034 --> 00:07:07.466
+Beim unüberwachten Lernen geht es
+
+195
+00:07:07.466 --> 00:07:08.962
+die Entdeckung von Mustern
+
+196
+00:07:08.962 --> 00:07:10.986
+in unmarkierten Daten.
+
+197
+00:07:10.986 --> 00:07:12.850
+Bestärkendes Lernen hingegen
+
+198
+00:07:12.850 --> 00:07:14.600
+best bezeichnet das Lernen durch
+
+199
+00:07:14.600 --> 00:07:16.456
+Belohnung oder Strafe in
+
+200
+00:07:16.456 --> 00:07:18.340
+Interaktion mit einer Umgebung.
+
+201
+00:07:20.440 --> 00:07:22.048
+Nun folgt ein technischer
+
+202
+00:07:22.048 --> 00:07:23.780
+Einblick in die Thematik.
+
+203
+00:07:26.440 --> 00:07:29.232
+Moderne KI Modelle wie GPT,
+
+204
+00:07:29.232 --> 00:07:31.312
+Claude oder Gemini
+
+205
+00:07:31.312 --> 00:07:32.768
+basieren auf der sogenannten
+
+206
+00:07:32.768 --> 00:07:35.248
+Transformer Architektur.
+
+207
+00:07:35.248 --> 00:07:36.696
+Diese Architektur ist ein
+
+208
+00:07:36.696 --> 00:07:38.184
+spezieller Aufbau eines
+
+209
+00:07:38.184 --> 00:07:40.406
+neuronalen Netzes, der entwickelt
+
+210
+00:07:40.406 --> 00:07:42.182
+wurde, besonders effizient
+
+211
+00:07:42.182 --> 00:07:44.250
+mit Textdaten umzugehen.
+
+212
+00:07:44.830 --> 00:07:46.342
+Im Gegensatz zu älteren
+
+213
+00:07:46.342 --> 00:07:48.190
+Architekturen verzichtet der
+
+214
+00:07:48.190 --> 00:07:49.902
+Transformer vollständig auf eine
+
+215
+00:07:49.902 --> 00:07:51.622
+sequenzielle Verarbeitung
+
+216
+00:07:51.622 --> 00:07:53.390
+und setzt stattdessen auf eine
+
+217
+00:07:53.390 --> 00:07:55.490
+parallele Verarbeitung von Daten.
+
+218
+00:07:56.270 --> 00:07:58.270
+Transformer Modelle können nicht
+
+219
+00:07:58.270 --> 00:07:59.486
+nur die Reihenfolge von
+
+220
+00:07:59.486 --> 00:08:01.350
+Wörtern berücksichtigen, sondern
+
+221
+00:08:01.350 --> 00:08:03.246
+auch komplexe Abhängigkeiten in
+
+222
+00:08:03.246 --> 00:08:05.240
+sehr langen Texten erkennen.
+
+223
+00:08:05.240 --> 00:08:07.776
+Ihr Kernmechanismus ist die self
+
+224
+00:08:07.776 --> 00:08:09.416
+attention, zu deutsch
+
+225
+00:08:09.416 --> 00:08:11.720
+Selbstaufmerksamkeit, mit der das
+
+226
+00:08:11.720 --> 00:08:13.744
+Modell selbst entscheidet, welche
+
+227
+00:08:13.744 --> 00:08:15.456
+Wörter in einem Satz besonders
+
+228
+00:08:15.456 --> 00:08:17.180
+wichtig füreinander sind.
+
+229
+00:08:17.720 --> 00:08:20.000
+Die transformer Architektur
+
+230
+00:08:20.000 --> 00:08:21.480
+bildet die Grundlage für
+
+231
+00:08:21.480 --> 00:08:23.632
+viele aktuelle KI Modelle,
+
+232
+00:08:23.632 --> 00:08:25.360
+nicht nur im Textbereich,
+
+233
+00:08:25.360 --> 00:08:27.416
+sondern auch für Bild, Ton und
+
+234
+00:08:27.416 --> 00:08:29.300
+multimodale Anwendungen.
+
+235
+00:08:31.090 --> 00:08:33.010
+Wichtige Teilkomponenten dieser
+
+236
+00:08:33.010 --> 00:08:35.258
+Architektur sind sogenannte
+
+237
+00:08:35.258 --> 00:08:37.994
+Embeddings, also Einbettungen.
+
+238
+00:08:37.994 --> 00:08:39.730
+Hierbei werden Wörter oder
+
+239
+00:08:39.730 --> 00:08:41.586
+Tokens in Vektoren mit
+
+240
+00:08:41.586 --> 00:08:44.130
+numerischen Werten umgewandelt.
+
+241
+00:08:44.130 --> 00:08:46.306
+Diese Vektoren repräsentieren die
+
+242
+00:08:46.306 --> 00:08:48.778
+Bedeutung der Wörter im Kontext.
+
+243
+00:08:48.778 --> 00:08:50.194
+Ähnliche Wörter haben
+
+244
+00:08:50.194 --> 00:08:51.802
+ähnliche Vektoren.
+
+245
+00:08:51.802 --> 00:08:54.530
+Das Modell versteht Sprache nicht
+
+246
+00:08:54.530 --> 00:08:56.844
+im menschlichen Sinn, sondern über
+
+247
+00:08:56.844 --> 00:08:58.500
+diese mathematische Darstellung
+
+248
+00:08:58.500 --> 00:09:00.200
+semantischer Beziehungen.
+
+249
+00:09:01.100 --> 00:09:02.596
+Eine weitere Komponente
+
+250
+00:09:02.596 --> 00:09:05.108
+der Architektur ist das Position
+
+251
+00:09:05.108 --> 00:09:07.196
+Encoding, zu deutsch
+
+252
+00:09:07.196 --> 00:09:09.188
+Positionscodierung.
+
+253
+00:09:09.188 --> 00:09:11.036
+Da das transformer Modell keine
+
+254
+00:09:11.036 --> 00:09:13.268
+Reihenfolge der Tokens kennt,
+
+255
+00:09:13.268 --> 00:09:14.620
+wird jedem Token eine
+
+256
+00:09:14.620 --> 00:09:17.268
+Positionsinformation hinzugefügt.
+
+257
+00:09:17.268 --> 00:09:19.060
+Diese Codierung stellt sicher,
+
+258
+00:09:19.060 --> 00:09:20.468
+dass das Modell weiß,
+
+259
+00:09:20.468 --> 00:09:22.632
+welches Wort zuerst kam und und
+
+260
+00:09:22.632 --> 00:09:25.008
+welches danach, was für Grammatik
+
+261
+00:09:25.008 --> 00:09:26.780
+und Bedeutung wichtig ist.
+
+262
+00:09:28.120 --> 00:09:29.352
+Beim Masking, der
+
+263
+00:09:29.352 --> 00:09:30.920
+Textgenerierung, werden
+
+264
+00:09:30.920 --> 00:09:32.440
+hingegen bestimmte Teile des
+
+265
+00:09:32.440 --> 00:09:34.968
+Eingabetextes maskiert, also
+
+266
+00:09:34.968 --> 00:09:37.104
+vorübergehend ausgeblendet,
+
+267
+00:09:37.104 --> 00:09:39.008
+damit das Modell nur vorherige
+
+268
+00:09:39.008 --> 00:09:40.592
+Wörter sieht und das nächste
+
+269
+00:09:40.592 --> 00:09:42.712
+sinnvoll vorhersagen kann.
+
+270
+00:09:42.712 --> 00:09:44.816
+Dies verhindert, dass das Modell
+
+271
+00:09:44.816 --> 00:09:47.220
+Informationen vorausnimmt.
+
+272
+00:09:49.410 --> 00:09:50.946
+Trainingsparadigmen und
+
+273
+00:09:50.946 --> 00:09:52.626
+Modelloptimierung bilden das
+
+274
+00:09:52.626 --> 00:09:55.146
+Rückgrat moderner KI Entwicklung.
+
+275
+00:09:55.146 --> 00:09:56.786
+Sie bestimmen, wie Modelle aus
+
+276
+00:09:56.786 --> 00:09:58.858
+Daten lernen, an spezifische
+
+277
+00:09:58.858 --> 00:10:00.690
+Aufgaben angepasst werden und
+
+278
+00:10:00.690 --> 00:10:02.830
+ihr Wissen gezielt ergänzen.
+
+279
+00:10:05.330 --> 00:10:07.626
+Beim sogenannten Pre Training
+
+280
+00:10:07.626 --> 00:10:09.106
+werden Sprachmodelle auf
+
+281
+00:10:09.106 --> 00:10:11.290
+riesigen Textmengen trainiert.
+
+282
+00:10:11.290 --> 00:10:12.666
+Das sind beispielsweise
+
+283
+00:10:12.666 --> 00:10:14.290
+Texte aus dem Internet,
+
+284
+00:10:14.290 --> 00:10:16.638
+aus Büchern, Foren oder
+
+285
+00:10:16.638 --> 00:10:18.650
+wissenschaftlichen Datenbanken.
+
+286
+00:10:19.310 --> 00:10:21.622
+Die werden automatisiert gesammelt
+
+287
+00:10:21.622 --> 00:10:23.814
+und gefiltert, möglichst viele
+
+288
+00:10:23.814 --> 00:10:25.974
+sprachliche Muster zu erfassen.
+
+289
+00:10:25.974 --> 00:10:27.622
+Ziel ist es, ein generelles
+
+290
+00:10:27.622 --> 00:10:29.702
+Sprachverständnis zu entwickeln.
+
+291
+00:10:29.702 --> 00:10:31.966
+Die Modelle lernen dabei z.B.
+
+292
+00:10:31.966 --> 00:10:33.390
+das nächste Wort in einem
+
+293
+00:10:33.390 --> 00:10:35.050
+Satz vorherzusagen.
+
+294
+00:10:35.630 --> 00:10:37.750
+Im anschließenden Fine Tuning
+
+295
+00:10:37.750 --> 00:10:39.702
+werden die Modelle für spezifische
+
+296
+00:10:39.702 --> 00:10:41.590
+Aufgaben weiter trainiert.
+
+297
+00:10:41.590 --> 00:10:43.818
+Dies geschieht mit einer kleineren,
+
+298
+00:10:43.818 --> 00:10:46.714
+gezielt kuratierten Datenbasis.
+
+299
+00:10:46.714 --> 00:10:48.778
+So kann ein Modell beispielsweise
+
+300
+00:10:48.778 --> 00:10:49.818
+für juristische
+
+301
+00:10:49.818 --> 00:10:52.026
+Texte, medizinische Anfragen
+
+302
+00:10:52.026 --> 00:10:53.658
+oder Verwaltungsvorgänge
+
+303
+00:10:53.658 --> 00:10:54.914
+optimiert werden.
+
+304
+00:10:54.914 --> 00:10:56.930
+Beim fine Tuning werden oft auch
+
+305
+00:10:56.930 --> 00:10:59.050
+ethische Regeln, Sprachstil
+
+306
+00:10:59.050 --> 00:11:01.070
+oder Fachsprache angepasst.
+
+307
+00:11:01.730 --> 00:11:04.202
+Die Technik der Retrieval Augmented
+
+308
+00:11:04.202 --> 00:11:06.946
+Generation kombiniert ein LLM mit
+
+309
+00:11:06.946 --> 00:11:09.786
+einer externen Wissensquelle, z.B.
+
+310
+00:11:09.786 --> 00:11:11.226
+mit einer Suchmaschine
+
+311
+00:11:11.226 --> 00:11:12.602
+oder Datenbank.
+
+312
+00:11:12.602 --> 00:11:14.058
+Das Modell greift während
+
+313
+00:11:14.058 --> 00:11:15.450
+der Antwortgenerierung
+
+314
+00:11:15.450 --> 00:11:17.882
+auf aktuelle oder fachspezifische
+
+315
+00:11:17.882 --> 00:11:19.522
+Informationen zu.
+
+316
+00:11:19.522 --> 00:11:21.026
+Ein denkbares Beispiel ist
+
+317
+00:11:21.026 --> 00:11:23.002
+ein Chatbot für wissenschaftliche
+
+318
+00:11:23.002 --> 00:11:24.770
+Anfragen, der gezielt in
+
+319
+00:11:24.770 --> 00:11:26.218
+aktuellen Fachartikeln
+
+320
+00:11:26.218 --> 00:11:28.350
+nachliest und daraus zitiert.
+
+321
+00:11:30.770 --> 00:11:32.602
+Das Training der Modelle basiert
+
+322
+00:11:32.602 --> 00:11:34.666
+auf einem Optimierungsverfahren
+
+323
+00:11:34.666 --> 00:11:36.778
+namens Gradient Descent,
+
+324
+00:11:36.778 --> 00:11:39.242
+zu deutsch gradientenabstieg.
+
+325
+00:11:39.242 --> 00:11:40.458
+Dabei wird das Modell
+
+326
+00:11:40.458 --> 00:11:42.066
+schrittweise angepasst,
+
+327
+00:11:42.066 --> 00:11:44.234
+die Fehlerquote zu verringern.
+
+328
+00:11:44.234 --> 00:11:46.266
+Grundlage ist die sogenannte
+
+329
+00:11:46.266 --> 00:11:47.706
+Loss Funktion,
+
+330
+00:11:47.706 --> 00:11:49.994
+also die Verlustfunktion.
+
+331
+00:11:49.994 --> 00:11:51.586
+Sie misst, wie weit die
+
+332
+00:11:51.586 --> 00:11:53.474
+Modellvorhersage von der
+
+333
+00:11:53.474 --> 00:11:55.390
+tatsächlichen Antwort abweicht.
+
+334
+00:11:56.210 --> 00:11:58.530
+Wie funktioniert das konkret?
+
+335
+00:11:58.530 --> 00:12:00.674
+Während des Trainings erhält das
+
+336
+00:12:00.674 --> 00:12:03.202
+Modell einen Eingabetext, z.B.
+
+337
+00:12:03.202 --> 00:12:04.746
+einen Satz, und soll das
+
+338
+00:12:04.746 --> 00:12:06.530
+nächste Wort vorhersagen.
+
+339
+00:12:06.530 --> 00:12:07.906
+Es berechnet dazu
+
+340
+00:12:07.906 --> 00:12:09.210
+Wahrscheinlichkeiten für
+
+341
+00:12:09.210 --> 00:12:10.706
+verschiedene Wörter.
+
+342
+00:12:10.706 --> 00:12:13.130
+Die loss Funktion vergleicht dann
+
+343
+00:12:13.130 --> 00:12:15.154
+das tatsächlich folgende Wort
+
+344
+00:12:15.154 --> 00:12:17.130
+aus dem Trainingsdatensatz mit
+
+345
+00:12:17.130 --> 00:12:19.746
+dem vom Modell vorhergesagten.
+
+346
+00:12:19.746 --> 00:12:21.570
+Je größer die Abweichung,
+
+347
+00:12:21.570 --> 00:12:23.282
+desto höher der Fehlerwert,
+
+348
+00:12:23.282 --> 00:12:25.290
+sprich der Loss.
+
+349
+00:12:25.290 --> 00:12:27.826
+Der Gradient Descent Algorithmus
+
+350
+00:12:27.826 --> 00:12:29.410
+berechnet nun die Richtung,
+
+351
+00:12:29.410 --> 00:12:30.962
+in der die Modellparameter
+
+352
+00:12:30.962 --> 00:12:32.426
+verändert werden müssen,
+
+353
+00:12:32.426 --> 00:12:34.194
+den Fehler zu verringern.
+
+354
+00:12:34.194 --> 00:12:35.566
+In kleinen Schritten wird das
+
+355
+00:12:35.566 --> 00:12:37.318
+Modell so immer besser darin,
+
+356
+00:12:37.318 --> 00:12:39.830
+korrekte Vorhersagen zu treffen.
+
+357
+00:12:39.830 --> 00:12:41.238
+Dieser Prozess wiederholt
+
+358
+00:12:41.238 --> 00:12:42.710
+sich millionenfach,
+
+359
+00:12:42.710 --> 00:12:44.358
+bis das Modell ein stabiles
+
+360
+00:12:44.358 --> 00:12:46.210
+Leistungsniveau erreicht hat.
+
+361
+00:12:48.670 --> 00:12:50.342
+Nach dem Training eines KI
+
+362
+00:12:50.342 --> 00:12:51.486
+Modells beginnt die
+
+363
+00:12:51.486 --> 00:12:52.930
+entscheidende Phase der
+
+364
+00:12:53.870 --> 00:12:56.006
+Techniken wie prompt Engineering
+
+365
+00:12:56.006 --> 00:12:58.030
+und Reinforcement Learning from
+
+366
+00:12:58.030 --> 00:13:01.450
+Human Feedback, kurz RLHF, sowie
+
+367
+00:13:01.450 --> 00:13:03.074
+die Arbeit spezialisierter
+
+368
+00:13:03.074 --> 00:13:05.146
+Fachkräfte tragen dazu bei, die
+
+369
+00:13:05.146 --> 00:13:06.746
+Qualität der Ausgaben zu
+
+370
+00:13:06.746 --> 00:13:09.050
+optimieren und Modelle besser an
+
+371
+00:13:09.050 --> 00:13:10.178
+menschliche Bedürfnisse
+
+372
+00:13:10.178 --> 00:13:11.110
+anzupassen.
+
+373
+00:13:14.330 --> 00:13:16.586
+Prompt Engineering zeigt, wie
+
+374
+00:13:16.586 --> 00:13:18.434
+gezielte Eingaben das Verhalten
+
+375
+00:13:18.434 --> 00:13:21.002
+von KI Modellen steuern können
+
+376
+00:13:21.002 --> 00:13:22.570
+eine wertvolle Technik für
+
+377
+00:13:22.570 --> 00:13:24.498
+Mitarbeitende, die prompts
+
+378
+00:13:24.498 --> 00:13:26.522
+gestalten, oder andere, die im
+
+379
+00:13:26.522 --> 00:13:28.870
+Umgang mit KI anleiten möchten.
+
+380
+00:13:29.630 --> 00:13:31.702
+Die Qualität der LLM Antwort
+
+381
+00:13:31.702 --> 00:13:33.726
+hängt stark von der Eingabe ab,
+
+382
+00:13:33.726 --> 00:13:36.118
+also vom sogenannten Prompt.
+
+383
+00:13:36.118 --> 00:13:37.894
+Ein Prompt ist die direkte
+
+384
+00:13:37.894 --> 00:13:40.526
+Eingabe, die Nutzende formulieren,
+
+385
+00:13:40.526 --> 00:13:41.310
+das Modell zu
+
+386
+00:13:41.310 --> 00:13:43.050
+einer Antwort zu bewegen.
+
+387
+00:13:43.710 --> 00:13:45.770
+So kann ein Prompt z.B.
+
+388
+00:13:46.350 --> 00:13:48.742
+erkläre den Begriff Algorithmus
+
+389
+00:13:48.742 --> 00:13:49.990
+für eine Schulklasse
+
+390
+00:13:49.990 --> 00:13:52.750
+der sechsten Jahrgangsstufe.
+
+391
+00:13:52.750 --> 00:13:54.822
+Der Prompt dafür könnte allerdings
+
+392
+00:13:54.822 --> 00:13:57.150
+auch erkläre den Begriff
+
+393
+00:13:57.150 --> 00:13:58.534
+Algorithmus für eine
+
+394
+00:13:58.534 --> 00:14:01.350
+angehende Informatikstudentin.
+
+395
+00:14:01.350 --> 00:14:03.262
+Obwohl beide Prompts dasselbe
+
+396
+00:14:03.262 --> 00:14:05.054
+Thema behandeln, unterscheidet
+
+397
+00:14:05.054 --> 00:14:06.630
+sich die Zielgruppe und
+
+398
+00:14:06.630 --> 00:14:08.526
+damit auch die Sprache, Tiefe
+
+399
+00:14:08.526 --> 00:14:10.574
+und Beispiele in der Antwort.
+
+400
+00:14:10.574 --> 00:14:12.126
+Das zeigt, wie wichtig
+
+401
+00:14:12.126 --> 00:14:13.662
+Kontextinformationen
+
+402
+00:14:13.662 --> 00:14:15.050
+im Prompt sind.
+
+403
+00:14:15.670 --> 00:14:17.814
+Systemprompts hingegen sind
+
+404
+00:14:17.814 --> 00:14:19.462
+unsichtbare Anweisungen im
+
+405
+00:14:19.462 --> 00:14:21.326
+Hintergrund, die das generelle
+
+406
+00:14:21.326 --> 00:14:23.430
+Verhalten des Modells steuern.
+
+407
+00:14:23.430 --> 00:14:25.308
+Sie legen beispielsweise fest,
+
+408
+00:14:25.308 --> 00:14:27.924
+ob ein Modell freundlich, sachlich
+
+409
+00:14:27.924 --> 00:14:30.164
+oder vorsichtig antwortet.
+
+410
+00:14:30.164 --> 00:14:32.804
+Auch Einschränkungen wie Antworte
+
+411
+00:14:32.804 --> 00:14:34.292
+nur auf Fragen zu Schulrecht
+
+412
+00:14:34.292 --> 00:14:35.996
+in Niedersachsen können im
+
+413
+00:14:35.996 --> 00:14:38.316
+System prompt definiert sein.
+
+414
+00:14:38.316 --> 00:14:40.140
+Nutzende sehen diesen Teil des
+
+415
+00:14:40.140 --> 00:14:42.220
+Prompts in der Regel nicht.
+
+416
+00:14:42.220 --> 00:14:44.388
+KI Plattformen für den schulischen
+
+417
+00:14:44.388 --> 00:14:45.972
+Bereich arbeiten häufig
+
+418
+00:14:45.972 --> 00:14:48.388
+mit spezifischen Systemprompts,
+
+419
+00:14:48.388 --> 00:14:49.964
+wodurch sich Ausgaben dieser
+
+420
+00:14:49.964 --> 00:14:52.516
+KIs im Vergleich zu ChatGPT
+
+421
+00:14:52.516 --> 00:14:53.760
+unterscheiden können.
+
+422
+00:14:55.570 --> 00:14:57.938
+Das Reinforcement learning from
+
+423
+00:14:57.938 --> 00:15:00.594
+Human Feedback ist eine Methode,
+
+424
+00:15:00.594 --> 00:15:02.362
+Modelle mit Hilfe menschlichen
+
+425
+00:15:02.362 --> 00:15:04.170
+Feedbacks zu verbessern.
+
+426
+00:15:04.170 --> 00:15:05.746
+Dabei bewerten Menschen die
+
+427
+00:15:05.746 --> 00:15:08.016
+Antworten eines Modells, z.B.
+
+428
+00:15:08.016 --> 00:15:09.882
+in Bezug auf Korrektheit,
+
+429
+00:15:09.882 --> 00:15:11.538
+Verständlichkeit oder
+
+430
+00:15:11.538 --> 00:15:13.674
+ethische Angemessenheit.
+
+431
+00:15:13.674 --> 00:15:15.474
+Diese Bewertungen dienen als
+
+432
+00:15:15.474 --> 00:15:16.874
+Grundlage für ein weiteres
+
+433
+00:15:16.874 --> 00:15:18.610
+Training des Modells, bei dem
+
+434
+00:15:18.610 --> 00:15:20.764
+es lernt, bevorzugte Antworten
+
+435
+00:15:20.764 --> 00:15:22.516
+häufiger zu geben und
+
+436
+00:15:22.516 --> 00:15:24.560
+problematische zu vermeiden.
+
+437
+00:15:25.300 --> 00:15:27.772
+Reinforcement learning from Human
+
+438
+00:15:27.772 --> 00:15:29.924
+Feedback trägt dazu bei, dass
+
+439
+00:15:29.924 --> 00:15:31.452
+Modelle besser auf menschliche
+
+440
+00:15:31.452 --> 00:15:33.300
+Erwartungen abgestimmt sind,
+
+441
+00:15:33.300 --> 00:15:34.932
+allerdings nur im Rahmen der im
+
+442
+00:15:34.932 --> 00:15:37.200
+Training definierten Maßstäbe.
+
+443
+00:15:39.060 --> 00:15:41.292
+Reinforcement learning from Human
+
+444
+00:15:41.292 --> 00:15:42.676
+Feedback erfordert die
+
+445
+00:15:42.676 --> 00:15:44.028
+Zusammenarbeit verschiedener
+
+446
+00:15:44.028 --> 00:15:45.746
+Fachkräfte, die durch ihr
+
+447
+00:15:45.746 --> 00:15:47.306
+Feedback und ihre Bewertungen
+
+448
+00:15:47.306 --> 00:15:49.882
+dazu beitragen, KI Modelle besser
+
+449
+00:15:49.882 --> 00:15:52.234
+an menschliche Werte, Präferenzen
+
+450
+00:15:52.234 --> 00:15:54.190
+und Bedürfnisse anzupassen.
+
+451
+00:15:54.930 --> 00:15:57.282
+Dazu gehören beispielsweise AI
+
+452
+00:15:57.282 --> 00:15:59.354
+Trainierende, die Modellantworten
+
+453
+00:15:59.354 --> 00:16:00.842
+bewerten und Rückmeldungen
+
+454
+00:16:00.842 --> 00:16:02.906
+dazugeben, welche Varianten
+
+455
+00:16:02.906 --> 00:16:04.630
+besser oder schlechter sind.
+
+456
+00:16:05.170 --> 00:16:08.210
+Prompt Engineers entwerfen Prompts,
+
+457
+00:16:08.210 --> 00:16:09.802
+Antworten für das menschliche
+
+458
+00:16:09.802 --> 00:16:11.482
+Feedback im Reinforcement
+
+459
+00:16:11.482 --> 00:16:13.162
+learning from Human Feedback
+
+460
+00:16:13.162 --> 00:16:14.590
+Prozess zu generieren.
+
+461
+00:16:15.390 --> 00:16:17.350
+Machine Learning Engineers
+
+462
+00:16:17.350 --> 00:16:18.982
+setzen beim Reinforcement
+
+463
+00:16:18.982 --> 00:16:20.806
+learning from Human Feedback
+
+464
+00:16:20.806 --> 00:16:22.406
+die technische Infrastruktur
+
+465
+00:16:23.230 --> 00:16:24.438
+menschliches Feedback
+
+466
+00:16:24.438 --> 00:16:26.006
+in den Optimierungsprozess
+
+467
+00:16:26.006 --> 00:16:27.174
+eines vortrainierten
+
+468
+00:16:27.174 --> 00:16:28.730
+Modells zu integrieren.
+
+469
+00:16:29.950 --> 00:16:32.854
+Ethikexperten und expertinnen
+
+470
+00:16:32.854 --> 00:16:34.350
+bewerten die Antworten auf
+
+471
+00:16:34.350 --> 00:16:36.758
+ethische Implikationen und tragen
+
+472
+00:16:36.758 --> 00:16:38.342
+zur Entwicklung angemessener
+
+473
+00:16:38.342 --> 00:16:40.130
+Bewertungsrichtlinien bei.
+
+474
+00:16:40.920 --> 00:16:43.416
+Produktmanagende koordinieren den
+
+475
+00:16:43.416 --> 00:16:45.496
+gesamten Feedbackprozess und
+
+476
+00:16:45.496 --> 00:16:47.648
+sorgen dafür, dass die Ergebnisse
+
+477
+00:16:47.648 --> 00:16:49.456
+aus dem Reinforcement learning
+
+478
+00:16:49.456 --> 00:16:51.552
+from Human Feedback in Einklang
+
+479
+00:16:51.552 --> 00:16:54.040
+mit den Produktzielen stehen.
+
+480
+00:16:54.040 --> 00:16:56.336
+Clickworker übernehmen einfache,
+
+481
+00:16:56.336 --> 00:16:57.856
+wiederholbare Aufgaben
+
+482
+00:16:57.856 --> 00:17:00.272
+wie das Bewerten von Antwortpaaren
+
+483
+00:17:00.272 --> 00:17:01.640
+oder das Markieren von
+
+484
+00:17:01.640 --> 00:17:03.560
+problematischen Inhalten.
+
+485
+00:17:03.560 --> 00:17:05.720
+Sie sind ein zentraler Teil des
+
+486
+00:17:05.720 --> 00:17:07.344
+Skalierens von menschlichem
+
+487
+00:17:07.344 --> 00:17:09.688
+Feedback, arbeiten jedoch oft
+
+488
+00:17:09.688 --> 00:17:11.680
+unter prekären Bedingungen und
+
+489
+00:17:11.680 --> 00:17:13.376
+ohne tieferen Einblick in das
+
+490
+00:17:13.376 --> 00:17:15.680
+Gesamtsystem, da sie oft über
+
+491
+00:17:15.680 --> 00:17:17.432
+weitere Plattformen angestellt
+
+492
+00:17:17.432 --> 00:17:18.020
+sind.
+
+493
+00:17:20.560 --> 00:17:21.944
+Der folgende Abschnitt
+
+494
+00:17:21.944 --> 00:17:24.200
+Modellqualität Benchmarks
+
+495
+00:17:24.200 --> 00:17:25.440
+erklärt, wie die
+
+496
+00:17:25.440 --> 00:17:27.127
+Zuverlässigkeit und Fairness
+
+497
+00:17:27.127 --> 00:17:29.024
+von KI Systemen bewertet werden
+
+498
+00:17:29.024 --> 00:17:30.960
+können ein wichtiges Thema für
+
+499
+00:17:30.960 --> 00:17:32.576
+Lehrkräfte und Personen in der
+
+500
+00:17:32.576 --> 00:17:34.848
+Verwaltung, die KI basierte
+
+501
+00:17:34.848 --> 00:17:36.592
+Tools auswählen und bewerten
+
+502
+00:17:36.592 --> 00:17:37.540
+möchten.
+
+503
+00:17:40.520 --> 00:17:41.960
+Wie wird nun also die
+
+504
+00:17:41.960 --> 00:17:42.976
+Leistungsfähigkeit
+
+505
+00:17:42.976 --> 00:17:44.752
+eines LLMs gemessen?
+
+506
+00:17:44.752 --> 00:17:47.780
+Mit sogenannten Benchmark Tests.
+
+507
+00:17:48.520 --> 00:17:50.704
+Benchmarks sind standardisierte
+
+508
+00:17:50.704 --> 00:17:51.808
+Tests, mit denen
+
+509
+00:17:51.808 --> 00:17:53.336
+Sprachmodelle verglichen und
+
+510
+00:17:53.336 --> 00:17:54.904
+bewertet werden können.
+
+511
+00:17:54.904 --> 00:17:57.104
+Sie enthalten speziell konstruierte
+
+512
+00:17:57.104 --> 00:17:58.528
+Aufgaben, die bestimmte
+
+513
+00:17:58.528 --> 00:18:00.828
+Fähigkeiten prüfen, z.B.
+
+514
+00:18:00.828 --> 00:18:02.988
+sprachverständnis, logisches
+
+515
+00:18:02.988 --> 00:18:05.204
+Denken, Faktenwissen oder
+
+516
+00:18:05.204 --> 00:18:07.520
+mathematisches Problemlösen.
+
+517
+00:18:08.100 --> 00:18:09.444
+So gibt es z.B.
+
+518
+00:18:09.444 --> 00:18:12.852
+den sogenannten MMLU Test.
+
+519
+00:18:12.852 --> 00:18:16.044
+MMLU steht für massive Multitask
+
+520
+00:18:16.044 --> 00:18:17.940
+language understanding und kann
+
+521
+00:18:17.940 --> 00:18:20.284
+als umfassendes, mehrstufiges
+
+522
+00:18:20.284 --> 00:18:22.572
+Sprachverständnis für vielfältige
+
+523
+00:18:22.572 --> 00:18:24.836
+Aufgaben übersetzt werden.
+
+524
+00:18:24.836 --> 00:18:27.948
+Der MMLU ist ein Fragetest
+
+525
+00:18:27.948 --> 00:18:29.968
+mit über 50 Fachgebieten.
+
+526
+00:18:29.968 --> 00:18:31.880
+Er prüft allgemeines Wissen und
+
+527
+00:18:31.880 --> 00:18:33.976
+Transferfähigkeit und deckt eine
+
+528
+00:18:33.976 --> 00:18:36.056
+Vielzahl von Wissensgebieten ab,
+
+529
+00:18:36.056 --> 00:18:38.384
+darunter MINT Fächer, Geistes
+
+530
+00:18:38.384 --> 00:18:39.952
+und Sozialwissenschaften
+
+531
+00:18:39.952 --> 00:18:42.680
+sowie viele weitere Disziplinen.
+
+532
+00:18:42.680 --> 00:18:44.672
+Der HellaSwag hingegen
+
+533
+00:18:44.672 --> 00:18:46.520
+testet logisches Schließen in
+
+534
+00:18:46.520 --> 00:18:48.936
+Alltagssituationen, z.B.
+
+535
+00:18:48.936 --> 00:18:51.008
+durch Auswählen der plausibelsten
+
+536
+00:18:51.008 --> 00:18:52.980
+Fortsetzung eines Textes.
+
+537
+00:18:53.490 --> 00:18:56.370
+Der HellaSwag besteht aus rund
+
+538
+00:18:56.370 --> 00:18:58.306
+Fortsetzungsaufgaben, bei
+
+539
+00:18:58.306 --> 00:18:59.914
+denen ein mit wenigen Sätzen
+
+540
+00:18:59.914 --> 00:19:01.402
+beschriebener Sachverhalt
+
+541
+00:19:01.402 --> 00:19:03.690
+plausibel ergänzt werden muss.
+
+542
+00:19:03.690 --> 00:19:05.634
+Zu jeder Aufgabe gibt es
+
+543
+00:19:05.634 --> 00:19:06.666
+vier vorgegebene
+
+544
+00:19:06.666 --> 00:19:08.674
+Fortsetzungen, von denen nur
+
+545
+00:19:08.674 --> 00:19:10.802
+eine logisch korrekt ist.
+
+546
+00:19:10.802 --> 00:19:13.090
+Während Menschen diese Aufgaben mit
+
+547
+00:19:13.090 --> 00:19:15.386
+Leichtigkeit lösen können, stellen
+
+548
+00:19:15.386 --> 00:19:17.730
+sie für Sprachmodelle aufgrund der
+
+549
+00:19:17.730 --> 00:19:19.658
+maschinell generierten, täuschend
+
+550
+00:19:19.658 --> 00:19:22.426
+plausiblen falschen Antworten eine
+
+551
+00:19:22.426 --> 00:19:24.590
+erhebliche Herausforderung dar.
+
+552
+00:19:26.090 --> 00:19:28.706
+SuperGLUE umfasst acht
+
+553
+00:19:28.706 --> 00:19:30.274
+verschiedene Aufgaben,
+
+554
+00:19:30.274 --> 00:19:31.218
+die unterschiedliche
+
+555
+00:19:31.218 --> 00:19:33.106
+Aspekte des Verständnisses
+
+556
+00:19:33.106 --> 00:19:35.010
+natürlicher Sprache testen,
+
+557
+00:19:35.010 --> 00:19:37.674
+darunter Korreferenzauflösung und
+
+558
+00:19:37.674 --> 00:19:40.170
+logisches Schlussfolgern.
+
+559
+00:19:40.170 --> 00:19:42.338
+Bei der Koreferenzauflösung geht
+
+560
+00:19:42.338 --> 00:19:45.042
+es darum, Pronomen, Eigennamen
+
+561
+00:19:45.042 --> 00:19:46.674
+oder andere Verweise
+
+562
+00:19:46.674 --> 00:19:47.698
+mit den entsprechenden
+
+563
+00:19:47.698 --> 00:19:49.750
+Referenten im Text zu verbinden.
+
+564
+00:19:50.660 --> 00:19:54.580
+In dem Anna ging in den Park.
+
+565
+00:19:54.580 --> 00:19:57.084
+Dort traf sie ihre Freunde.
+
+566
+00:19:57.084 --> 00:19:58.652
+Beispielsweise bezieht
+
+567
+00:19:58.652 --> 00:20:01.228
+sich sie auf Anna.
+
+568
+00:20:01.228 --> 00:20:03.076
+Ihre Freunde bezieht sich
+
+569
+00:20:03.076 --> 00:20:05.620
+auf die Freunde von Anna.
+
+570
+00:20:05.620 --> 00:20:07.676
+Die Koreferenz Auflösung
+
+571
+00:20:07.676 --> 00:20:09.788
+identifiziert diese Verbindungen
+
+572
+00:20:09.788 --> 00:20:11.156
+und stellt sicher, dass
+
+573
+00:20:11.156 --> 00:20:12.972
+ein Sprachmodell versteht,
+
+574
+00:20:12.972 --> 00:20:15.436
+dass sie und ihre Freunde
+
+575
+00:20:15.436 --> 00:20:17.680
+im Kontext mit Anna stehen.
+
+576
+00:20:18.440 --> 00:20:20.064
+Ein Modell, das auf diesen
+
+577
+00:20:20.064 --> 00:20:22.256
+Benchmarks gut abschneidet, zeigt
+
+578
+00:20:22.256 --> 00:20:24.464
+ein hohes Maß an Sprachverständnis
+
+579
+00:20:24.464 --> 00:20:26.660
+und kognitiver Leistungsfähigkeit.
+
+580
+00:20:27.480 --> 00:20:29.576
+Human in the Loop spielt eine
+
+581
+00:20:29.576 --> 00:20:31.312
+zentrale Rolle bei der Optimierung
+
+582
+00:20:31.312 --> 00:20:33.792
+von KI Systemen, indem echtes
+
+583
+00:20:33.792 --> 00:20:35.976
+Nutzendenfeedback genutzt wird,
+
+584
+00:20:35.976 --> 00:20:37.904
+die Zuverlässigkeit und Qualität
+
+585
+00:20:37.904 --> 00:20:39.920
+der Ausgaben zu verbessern.
+
+586
+00:20:39.920 --> 00:20:41.912
+Das Nutzendenfeedback kann aus
+
+587
+00:20:41.912 --> 00:20:43.576
+der Bewertung von Antworten mit
+
+588
+00:20:43.576 --> 00:20:45.886
+Daumen hoch oder Daumen runter
+
+589
+00:20:45.886 --> 00:20:48.366
+oder aus Markierung von falschen
+
+590
+00:20:48.366 --> 00:20:50.950
+oder unangemessenen Inhalten.
+
+591
+00:20:50.950 --> 00:20:52.166
+Eine Kommentierung zur
+
+592
+00:20:52.166 --> 00:20:54.214
+Nützlichkeit, Klarheit oder
+
+593
+00:20:54.214 --> 00:20:55.902
+Angemessenheit einer Antwort
+
+594
+00:20:55.902 --> 00:20:57.774
+kann ebenfalls in das nutzenden
+
+595
+00:20:57.774 --> 00:20:59.910
+Feedback mit eingehen.
+
+596
+00:20:59.910 --> 00:21:02.302
+Diese Rückmeldungen fließen ähnlich
+
+597
+00:21:02.302 --> 00:21:04.062
+wie beim Reinforcement learning
+
+598
+00:21:04.062 --> 00:21:05.846
+from human Feedback in die
+
+599
+00:21:05.846 --> 00:21:08.090
+Weiterentwicklung des Modells ein.
+
+600
+00:21:10.400 --> 00:21:12.808
+Multimodale KI eröffnet neue
+
+601
+00:21:12.808 --> 00:21:14.856
+didaktische Möglichkeiten, indem
+
+602
+00:21:14.856 --> 00:21:17.048
+sie kreative und barrierearme
+
+603
+00:21:17.048 --> 00:21:18.936
+Unterrichtsformen unterstützt
+
+604
+00:21:18.936 --> 00:21:20.320
+und so den Zugang zu
+
+605
+00:21:20.320 --> 00:21:22.456
+Bildung für alle erleichtert.
+
+606
+00:21:22.456 --> 00:21:24.720
+Multimodale KI kann auch in der
+
+607
+00:21:24.720 --> 00:21:26.720
+Verwaltung eingesetzt werden,
+
+608
+00:21:26.720 --> 00:21:28.176
+Prozesse effizienter zu
+
+609
+00:21:28.176 --> 00:21:30.080
+gestalten, beispielsweise durch
+
+610
+00:21:30.080 --> 00:21:31.840
+die automatische Analyse von
+
+611
+00:21:31.840 --> 00:21:34.080
+Dokumenten, die Kombination von
+
+612
+00:21:34.080 --> 00:21:36.430
+Text und Bildinformationen oder
+
+613
+00:21:36.430 --> 00:21:37.406
+die Unterstützung bei
+
+614
+00:21:37.406 --> 00:21:38.670
+Entscheidungsfindung und
+
+615
+00:21:38.670 --> 00:21:39.610
+kommunikation.
+
+616
+00:21:42.590 --> 00:21:46.646
+Neue Modelle wie GPT 4V oder Gemini
+
+617
+00:21:46.646 --> 00:21:48.454
+sind multimodal sie verarbeiten
+
+618
+00:21:48.454 --> 00:21:50.006
+und erzeugen Text, Bild,
+
+619
+00:21:50.006 --> 00:21:52.294
+Audio oder Video gleichzeitig.
+
+620
+00:21:52.294 --> 00:21:53.486
+Dadurch erweitern sich die
+
+621
+00:21:53.486 --> 00:21:55.246
+Fähigkeiten der KI Systeme weit
+
+622
+00:21:55.246 --> 00:21:58.030
+über klassische Text LLMs hinaus.
+
+623
+00:21:58.030 --> 00:22:00.286
+Die Vorläufer von GPT 4V,
+
+624
+00:22:00.286 --> 00:22:03.070
+wie GPT 3 oder GPT 4 sind
+
+625
+00:22:03.070 --> 00:22:04.678
+als klassische LLMs darauf
+
+626
+00:22:04.678 --> 00:22:06.466
+spezialisiert, Sprache zu
+
+627
+00:22:06.466 --> 00:22:08.202
+verstehen und zu generieren.
+
+628
+00:22:08.202 --> 00:22:09.402
+Sie können keine Bilder
+
+629
+00:22:09.402 --> 00:22:12.610
+interpretieren oder Töne erzeugen.
+
+630
+00:22:12.610 --> 00:22:14.058
+Multimodale Modelle
+
+631
+00:22:14.058 --> 00:22:15.492
+hingegen können z.B.
+
+632
+00:22:15.492 --> 00:22:17.610
+eine Bildbeschreibung erstellen,
+
+633
+00:22:17.610 --> 00:22:19.290
+auf ein gesprochenes Audio
+
+634
+00:22:19.290 --> 00:22:21.402
+antworten oder Text und Bild
+
+635
+00:22:21.402 --> 00:22:24.210
+kombinieren, komplexe Fragen wie
+
+636
+00:22:24.210 --> 00:22:26.330
+was passiert auf diesem Foto?
+
+637
+00:22:26.330 --> 00:22:27.630
+Zu beantworten.
+
+638
+00:22:28.290 --> 00:22:31.034
+Technisch basiert multimodale KI
+
+639
+00:22:31.034 --> 00:22:32.772
+häufig auf der Kombination
+
+640
+00:22:32.772 --> 00:22:35.404
+spezialisierter Modelle wie z.B.
+
+641
+00:22:35.404 --> 00:22:36.796
+einem Bildencoder und
+
+642
+00:22:36.796 --> 00:22:38.132
+Sprachdecoder,
+
+643
+00:22:38.132 --> 00:22:39.748
+die gemeinsam trainiert
+
+644
+00:22:39.748 --> 00:22:41.756
+oder orchestriert werden.
+
+645
+00:22:41.756 --> 00:22:43.588
+Auch hier kommen Transformer
+
+646
+00:22:43.588 --> 00:22:45.268
+Architekturen zum Einsatz,
+
+647
+00:22:45.268 --> 00:22:47.276
+ergänzt durch Techniken aus der
+
+648
+00:22:47.276 --> 00:22:50.060
+Bild und Audioverarbeitung.
+
+649
+00:22:50.060 --> 00:22:52.628
+Ein Sprachdecoder ist ein Modul,
+
+650
+00:22:52.628 --> 00:22:53.852
+das diese Informationen
+
+651
+00:22:53.852 --> 00:22:56.212
+nutzt, Sprache zu erzeugen.
+
+652
+00:22:56.212 --> 00:22:58.212
+Im Grunde ist ein Sprachdecoder
+
+653
+00:22:58.212 --> 00:23:00.096
+ein LLM oder ein
+
+654
+00:23:00.096 --> 00:23:02.176
+vergleichbares Sprachmodell, das
+
+655
+00:23:02.176 --> 00:23:04.024
+auf Basis der verstandenen
+
+656
+00:23:04.024 --> 00:23:05.740
+Inhalte Text generiert.
+
+657
+00:23:06.480 --> 00:23:08.656
+Ein Bild Encoder hingegen ist
+
+658
+00:23:08.656 --> 00:23:10.472
+ein Teilmodell, das ein Bild
+
+659
+00:23:10.472 --> 00:23:12.096
+analysiert und in eine
+
+660
+00:23:12.096 --> 00:23:14.080
+strukturierte Form bringt, die
+
+661
+00:23:14.080 --> 00:23:14.952
+ein anderes Modell
+
+662
+00:23:14.952 --> 00:23:17.296
+weiterverarbeiten kann, etwa in
+
+663
+00:23:17.296 --> 00:23:19.344
+Vektorform, vergleichbar mit
+
+664
+00:23:19.344 --> 00:23:21.580
+Embeddings in Sprachmodellen.
+
+665
+00:23:24.320 --> 00:23:26.240
+In der inklusiven Bildung können
+
+666
+00:23:26.240 --> 00:23:28.504
+multimodale KIs beispielsweise
+
+667
+00:23:28.504 --> 00:23:30.914
+visuelle Inhalte in gesprochene
+
+668
+00:23:30.914 --> 00:23:33.590
+Sprache übersetzen oder umgekehrt.
+
+669
+00:23:34.170 --> 00:23:36.114
+Im Kunst und Designbereich
+
+670
+00:23:36.114 --> 00:23:37.666
+unterstützen sie die kreative
+
+671
+00:23:37.666 --> 00:23:39.698
+Arbeit durch das Kombinieren
+
+672
+00:23:39.698 --> 00:23:42.330
+von Bild und Textideen.
+
+673
+00:23:42.330 --> 00:23:44.106
+In der Wissenschaft helfen sie bei
+
+674
+00:23:44.106 --> 00:23:45.930
+der automatischen Auswertung von
+
+675
+00:23:45.930 --> 00:23:48.630
+Grafiken, Diagrammen und Tabellen.
+
+676
+00:23:51.833 --> 00:23:55.633
+Praxisbeispiel: Soekia 2.0
+
+677
+00:23:55.633 --> 00:24:00.678
+Und Soekia GPT nachdem bisher
+
+678
+00:24:00.678 --> 00:24:01.622
+die technologischen
+
+679
+00:24:01.622 --> 00:24:03.798
+Grundlagen von KI sowie deren
+
+680
+00:24:03.798 --> 00:24:05.558
+Anwendungen und Herausforderungen
+
+681
+00:24:05.558 --> 00:24:06.662
+betrachtet wurden,
+
+682
+00:24:06.662 --> 00:24:09.286
+stellt sich die Wie kann KI
+
+683
+00:24:09.286 --> 00:24:11.078
+konkret in Bildungskontexten
+
+684
+00:24:11.078 --> 00:24:12.590
+eingesetzt werden?
+
+685
+00:24:12.590 --> 00:24:14.350
+Besonders im schulischen und
+
+686
+00:24:14.350 --> 00:24:16.142
+administrativen Alltag gibt
+
+687
+00:24:16.142 --> 00:24:18.822
+es Potenziale, KI Systeme
+
+688
+00:24:18.822 --> 00:24:20.278
+zur Wissensvermittlung
+
+689
+00:24:20.278 --> 00:24:22.910
+und zur Entlastung einzusetzen.
+
+690
+00:24:22.910 --> 00:24:24.598
+Dabei spielen didaktische
+
+691
+00:24:24.598 --> 00:24:29.018
+Tools wie Soekia und Soekia GPT
+
+692
+00:24:29.018 --> 00:24:30.778
+eine zentrale Rolle.
+
+693
+00:24:30.778 --> 00:24:32.930
+Sie wurden speziell entwickelt,
+
+694
+00:24:32.930 --> 00:24:33.906
+Lehrenden und
+
+695
+00:24:33.906 --> 00:24:36.394
+Lernenden ein besseres Verständnis
+
+696
+00:24:36.394 --> 00:24:37.834
+für die Funktionsweise
+
+697
+00:24:37.834 --> 00:24:39.790
+von KI zu vermitteln.
+
+698
+00:24:40.370 --> 00:24:43.186
+Zoekia funktioniert wie eine
+
+699
+00:24:43.186 --> 00:24:45.346
+spezialisierte Suchmaschine und
+
+700
+00:24:45.346 --> 00:24:47.746
+nutzt semantische Technologien,
+
+701
+00:24:47.746 --> 00:24:49.130
+nicht nur Schlagwörter,
+
+702
+00:24:49.130 --> 00:24:51.098
+sondern Bedeutungszusammenhänge
+
+703
+00:24:51.098 --> 00:24:52.170
+zu erkennen.
+
+704
+00:24:52.170 --> 00:24:54.490
+Dadurch liefert es gezieltere und
+
+705
+00:24:54.490 --> 00:24:57.050
+kontextrelevantere Ergebnisse als
+
+706
+00:24:57.050 --> 00:24:59.618
+eine klassische Volltextsuche.
+
+707
+00:24:59.618 --> 00:25:00.874
+Besonders hilfreich ist,
+
+708
+00:25:00.874 --> 00:25:03.554
+dass Soekia 2.0 mit eigenen
+
+709
+00:25:03.554 --> 00:25:05.194
+Inhalten wie z.B.
+
+710
+00:25:05.194 --> 00:25:07.898
+schulrecht, Verwaltungstexte oder
+
+711
+00:25:07.898 --> 00:25:10.186
+Curricula ergänzt werden kann.
+
+712
+00:25:10.186 --> 00:25:11.370
+Dadurch lässt sich das
+
+713
+00:25:11.370 --> 00:25:12.738
+System an spezifische
+
+714
+00:25:12.738 --> 00:25:14.790
+Informationsbedarfe anpassen.
+
+715
+00:25:16.410 --> 00:25:18.914
+Soekia GPT ist ein didaktisches
+
+716
+00:25:18.914 --> 00:25:19.922
+Sprachmodell,
+
+717
+00:25:19.922 --> 00:25:21.866
+das speziell für den Einsatz im
+
+718
+00:25:21.866 --> 00:25:23.658
+Unterricht entwickelt wurde.
+
+719
+00:25:23.658 --> 00:25:25.866
+Es dient dazu, Lernenden und
+
+720
+00:25:25.866 --> 00:25:27.730
+Mitarbeitenden die Funktionsweise
+
+721
+00:25:27.730 --> 00:25:29.786
+von KI Sprachmodellen wie
+
+722
+00:25:29.786 --> 00:25:32.466
+ChatGPT verständlich zu machen.
+
+723
+00:25:32.466 --> 00:25:34.234
+Das System arbeitet mit einem
+
+724
+00:25:34.234 --> 00:25:36.066
+kontrollierten Textkorpus,
+
+725
+00:25:36.066 --> 00:25:38.314
+der gezielt angepasst werden kann,
+
+726
+00:25:38.314 --> 00:25:39.546
+beispielsweise durch das
+
+727
+00:25:39.546 --> 00:25:41.426
+Hinzufügen eigener Inhalte
+
+728
+00:25:41.426 --> 00:25:44.570
+wie Märchen oder Fachtexte.
+
+729
+00:25:44.570 --> 00:25:47.490
+Dadurch bleibt Soekia GPT bewusst
+
+730
+00:25:47.490 --> 00:25:48.366
+auf einen bestimmten
+
+731
+00:25:48.366 --> 00:25:50.030
+Wissensraum beschränkt.
+
+732
+00:25:50.030 --> 00:25:51.998
+Anders als große Sprachmodelle
+
+733
+00:25:51.998 --> 00:25:53.774
+basiert Soekia GPT
+
+734
+00:25:53.774 --> 00:25:54.894
+nicht auf neuronalen
+
+735
+00:25:54.894 --> 00:25:56.958
+Netzen, sondern auf statistischen
+
+736
+00:25:56.958 --> 00:25:58.462
+Methoden und ermöglicht
+
+737
+00:25:58.462 --> 00:25:59.838
+so einen interaktiven
+
+738
+00:25:59.838 --> 00:26:01.246
+Blick hinter die Kulissen
+
+739
+00:26:01.246 --> 00:26:02.770
+der Textgenerierung.
+
+740
+00:26:06.310 --> 00:26:09.294
+Der didaktische Mehrwert von Soekia 2.0
+
+741
+00:26:09.294 --> 00:26:11.846
+und Soekia GPT liegt vor
+
+742
+00:26:11.846 --> 00:26:13.294
+allem in der intuitiven
+
+743
+00:26:13.294 --> 00:26:15.530
+Bedienung der beiden Systeme.
+
+744
+00:26:15.530 --> 00:26:17.290
+Sie eignen sich besonders zur
+
+745
+00:26:17.290 --> 00:26:19.506
+Förderung von KI Kompetenz
+
+746
+00:26:19.506 --> 00:26:21.890
+in der Aus und Fortbildung.
+
+747
+00:26:21.890 --> 00:26:23.890
+Denn hierbei erleben Nutzende
+
+748
+00:26:23.890 --> 00:26:25.730
+ein praxistaugliches Beispiel
+
+749
+00:26:25.730 --> 00:26:27.426
+für spezialisierte KI
+
+750
+00:26:27.426 --> 00:26:29.498
+Anwendungen und erarbeiten sich,
+
+751
+00:26:29.498 --> 00:26:31.938
+wie ein LLM funktioniert.
+
+752
+00:26:31.938 --> 00:26:34.498
+Dabei werden Kompetenzen gefördert
+
+753
+00:26:34.498 --> 00:26:35.690
+das Verständnis von
+
+754
+00:26:35.690 --> 00:26:37.530
+Funktionsweise und Grenzen von
+
+755
+00:26:37.530 --> 00:26:40.226
+KI, der kritische Umgang mit KI
+
+756
+00:26:40.226 --> 00:26:41.946
+generierten Inhalten, die
+
+757
+00:26:41.946 --> 00:26:43.794
+Reflexion über Datenquellen,
+
+758
+00:26:43.794 --> 00:26:44.776
+Veränderungen, Vertrauen und
+
+759
+00:26:44.776 --> 00:26:47.320
+Transparenz in KI Systemen sowie
+
+760
+00:26:47.320 --> 00:26:48.928
+der Transfer auf den eigenen
+
+761
+00:26:48.928 --> 00:26:50.536
+beruflichen Kontext wie
+
+762
+00:26:50.536 --> 00:26:52.504
+Unterricht, Schulentwicklung oder
+
+763
+00:26:52.504 --> 00:26:53.380
+Verwaltung.
+
+764
+00:26:55.880 --> 00:26:57.936
+Herausforderungen und offene
+
+765
+00:26:57.936 --> 00:27:00.168
+Fragen liefert Grundlagen,
+
+766
+00:27:00.168 --> 00:27:02.744
+KI Entscheidungen rechtssicher und
+
+767
+00:27:02.744 --> 00:27:05.344
+verantwortungsvoll einzuordnen.
+
+768
+00:27:05.344 --> 00:27:07.080
+Lehrkräften und Personen
+
+769
+00:27:07.080 --> 00:27:11.330
+in der Verwaltung die
+
+770
+00:27:11.330 --> 00:27:13.178
+Weiterentwicklung und der Einsatz
+
+771
+00:27:13.178 --> 00:27:15.242
+von KI Systemen bringen
+
+772
+00:27:15.242 --> 00:27:16.906
+zahlreiche Herausforderungen
+
+773
+00:27:16.906 --> 00:27:18.546
+mit sich, sowohl auf
+
+774
+00:27:18.546 --> 00:27:20.706
+technischer, ethischer als
+
+775
+00:27:20.706 --> 00:27:22.442
+auch rechtlicher Ebene.
+
+776
+00:27:22.994 --> 00:27:25.162
+KI verantwortungsvoll zu nutzen
+
+777
+00:27:25.162 --> 00:27:26.650
+und weiterzuentwickeln,
+
+778
+00:27:26.650 --> 00:27:28.210
+ist ein kritischer Blick auf
+
+779
+00:27:28.210 --> 00:27:30.350
+diese Aspekte unerlässlich.
+
+780
+00:27:31.090 --> 00:27:32.538
+Eine erste wichtige
+
+781
+00:27:32.538 --> 00:27:33.962
+technische Herausforderung
+
+782
+00:27:33.962 --> 00:27:35.860
+ist der Ressourcenbedarf.
+
+783
+00:27:35.860 --> 00:27:37.532
+Das Training großer Modelle
+
+784
+00:27:37.532 --> 00:27:39.564
+erfordert immense Rechenleistung,
+
+785
+00:27:39.564 --> 00:27:40.780
+was mit hohem Strom
+
+786
+00:27:40.780 --> 00:27:42.844
+und Kühlbedarf einhergeht.
+
+787
+00:27:42.844 --> 00:27:43.716
+Das hat nicht nur
+
+788
+00:27:43.716 --> 00:27:45.316
+ökologische, sondern auch
+
+789
+00:27:45.316 --> 00:27:47.324
+finanzielle Auswirkungen.
+
+790
+00:27:47.324 --> 00:27:49.132
+Doch auch die Nutzung von KI
+
+791
+00:27:49.132 --> 00:27:51.004
+Modellen, also das Erstellen
+
+792
+00:27:51.004 --> 00:27:52.892
+von Antworten in Echtzeit,
+
+793
+00:27:52.892 --> 00:27:54.780
+ist energieintensiv.
+
+794
+00:27:54.780 --> 00:27:57.644
+Jede einzelne Anfrage an ein LLM
+
+795
+00:27:57.644 --> 00:27:59.876
+löst komplexe Rechenprozesse auf
+
+796
+00:27:59.876 --> 00:28:02.116
+spezialisierten Servern aus.
+
+797
+00:28:02.116 --> 00:28:03.928
+Diese benötigen viel Strom
+
+798
+00:28:03.928 --> 00:28:06.736
+und erzeugen CO, insbesondere bei
+
+799
+00:28:06.736 --> 00:28:08.920
+häufigen oder langen Anfragen.
+
+800
+00:28:08.920 --> 00:28:10.728
+Leichtgewichtigere Varianten
+
+801
+00:28:10.728 --> 00:28:12.176
+wie Distilbert oder
+
+802
+00:28:12.176 --> 00:28:14.264
+sparsames fine tuning helfen,
+
+803
+00:28:14.264 --> 00:28:16.640
+Ressourcen zu sparen.
+
+804
+00:28:16.640 --> 00:28:18.712
+Robustheit bezieht sich im Kontext
+
+805
+00:28:18.712 --> 00:28:20.576
+von KI Systemen auf die
+
+806
+00:28:20.576 --> 00:28:22.480
+Fähigkeit eines Algorithmus oder
+
+807
+00:28:22.480 --> 00:28:24.416
+Modells, seine Leistung und
+
+808
+00:28:24.416 --> 00:28:26.488
+Stabilität unter verschiedenen
+
+809
+00:28:26.488 --> 00:28:28.640
+Bedingungen aufrechtzuerhalten.
+
+810
+00:28:28.640 --> 00:28:30.782
+Viele KI Modelle reagieren
+
+811
+00:28:30.782 --> 00:28:32.782
+empfindlich auf kleine Änderungen
+
+812
+00:28:32.782 --> 00:28:34.646
+in der Eingabe, also
+
+813
+00:28:34.646 --> 00:28:36.790
+auf minimale Variationen in den
+
+814
+00:28:36.790 --> 00:28:39.214
+Prompts, die Nutzende eingeben.
+
+815
+00:28:39.214 --> 00:28:40.798
+Schon ein anders formulierter
+
+816
+00:28:40.798 --> 00:28:41.966
+Satz kann eine deutlich
+
+817
+00:28:41.966 --> 00:28:44.414
+abweichende Antwort hervorrufen.
+
+818
+00:28:44.414 --> 00:28:46.174
+Je robuster ein Modell,
+
+819
+00:28:46.174 --> 00:28:47.766
+desto verlässlicher sind die
+
+820
+00:28:47.766 --> 00:28:49.806
+Vorhersagen des Modells.
+
+821
+00:28:49.806 --> 00:28:51.606
+Ebenso können Modelle bei
+
+822
+00:28:51.606 --> 00:28:53.030
+unbekannten Daten oder
+
+823
+00:28:53.030 --> 00:28:54.478
+Inhalten außerhalb ihres
+
+824
+00:28:54.478 --> 00:28:56.534
+Trainingskorpus unsicher
+
+825
+00:28:56.534 --> 00:28:58.774
+oder fehlerhaft reagieren.
+
+826
+00:28:58.774 --> 00:29:01.294
+Ihre Leistung nimmt dann rapide ab.
+
+827
+00:29:01.294 --> 00:29:02.654
+Das ist nicht nur für
+
+828
+00:29:02.654 --> 00:29:04.662
+sicherheitskritische Kontexte
+
+829
+00:29:04.662 --> 00:29:06.526
+problematisch, sondern auch
+
+830
+00:29:06.526 --> 00:29:08.166
+im schulischen Bereich.
+
+831
+00:29:08.166 --> 00:29:10.198
+Daher ist die Überprüfung aller
+
+832
+00:29:10.198 --> 00:29:12.650
+Ausgaben von hoher Relevanz.
+
+833
+00:29:13.390 --> 00:29:15.238
+Eine weitere wichtige technische
+
+834
+00:29:15.238 --> 00:29:16.702
+Herausforderung ist der
+
+835
+00:29:16.702 --> 00:29:19.126
+sogenannte Model Collapse.
+
+836
+00:29:19.126 --> 00:29:20.934
+Wenn Modelle mit synthetisch
+
+837
+00:29:20.934 --> 00:29:23.206
+generierten Daten, also mit KI
+
+838
+00:29:23.206 --> 00:29:24.326
+generierten Inhalten,
+
+839
+00:29:24.326 --> 00:29:26.426
+weitertrainiert werden, kann es zu
+
+840
+00:29:26.426 --> 00:29:28.386
+einem Qualitätsverlust kommen.
+
+841
+00:29:28.386 --> 00:29:30.242
+Die künstliche Sprache
+
+842
+00:29:30.242 --> 00:29:32.306
+wird dann zur Trainingsbasis,
+
+843
+00:29:32.306 --> 00:29:33.746
+was das Modell weniger
+
+844
+00:29:33.746 --> 00:29:36.066
+nuanciert und kreativ macht.
+
+845
+00:29:36.066 --> 00:29:37.720
+Dieses Phänomen wurde z.B.
+
+846
+00:29:37.720 --> 00:29:39.874
+in Studien zur Weiterverwendung
+
+847
+00:29:39.874 --> 00:29:42.778
+von KI generierten Texten bei Open
+
+848
+00:29:42.778 --> 00:29:44.754
+Source Modellen untersucht.
+
+849
+00:29:44.754 --> 00:29:46.410
+Dabei zeigte sich, dass
+
+850
+00:29:46.410 --> 00:29:48.026
+Modelle, die zunehmend auf
+
+851
+00:29:48.026 --> 00:29:49.610
+synthetisch erzeugten Daten
+
+852
+00:29:49.610 --> 00:29:51.170
+basieren, dazu neigen,
+
+853
+00:29:51.170 --> 00:29:53.306
+weniger präzise, vielfältig
+
+854
+00:29:53.306 --> 00:29:55.550
+oder robust zu antworten.
+
+855
+00:29:58.210 --> 00:29:59.898
+Kommen wir zu den ethischen
+
+856
+00:29:59.898 --> 00:30:01.626
+Herausforderungen und starten
+
+857
+00:30:01.626 --> 00:30:03.110
+mit der Frage nach der
+
+858
+00:30:04.050 --> 00:30:06.146
+wer haftet für Entscheidungen, die
+
+859
+00:30:06.146 --> 00:30:08.522
+auf KI Empfehlungen beruhen?
+
+860
+00:30:08.522 --> 00:30:09.986
+Die Verantwortungskette ist
+
+861
+00:30:09.986 --> 00:30:12.114
+oft nicht klar, vor allem bei
+
+862
+00:30:12.114 --> 00:30:14.190
+automatisierten Vorgängen.
+
+863
+00:30:14.850 --> 00:30:16.714
+Auch der Punkt Diskriminierung
+
+864
+00:30:16.714 --> 00:30:18.506
+und Bias ist ein besonders
+
+865
+00:30:18.506 --> 00:30:20.370
+wichtiger im Zusammenhang mit
+
+866
+00:30:20.370 --> 00:30:22.306
+ethischen Herausforderungen.
+
+867
+00:30:22.306 --> 00:30:24.868
+KI Modelle übernehmen Verzerrungen
+
+868
+00:30:24.868 --> 00:30:26.676
+aus ihren Trainingsdaten.
+
+869
+00:30:26.676 --> 00:30:28.244
+Das kann zu Benachteiligung
+
+870
+00:30:28.244 --> 00:30:30.372
+bestimmter Gruppen führen, etwa
+
+871
+00:30:30.372 --> 00:30:32.588
+durch stereotype Inhalte oder
+
+872
+00:30:32.588 --> 00:30:34.600
+einseitige Sprachmuster.
+
+873
+00:30:35.260 --> 00:30:37.556
+Aber wie kommt es überhaupt dazu?
+
+874
+00:30:37.556 --> 00:30:39.412
+Trainingsdaten stammen häufig
+
+875
+00:30:39.412 --> 00:30:40.868
+aus öffentlich zugänglichen
+
+876
+00:30:40.868 --> 00:30:43.188
+Quellen wie Foren, sozialen
+
+877
+00:30:43.188 --> 00:30:45.332
+Medien, Nachrichtenartikeln
+
+878
+00:30:45.332 --> 00:30:46.836
+oder Webseiten.
+
+879
+00:30:46.836 --> 00:30:48.468
+Diese Texte spiegeln
+
+880
+00:30:48.468 --> 00:30:50.460
+gesellschaftliche Vorurteile,
+
+881
+00:30:50.460 --> 00:30:52.838
+Machtverhältnisse und kulturelle
+
+882
+00:30:52.838 --> 00:30:54.390
+Dominanzen wider.
+
+883
+00:30:54.390 --> 00:30:55.558
+Wenn bestimmte Gruppen
+
+884
+00:30:55.558 --> 00:30:56.830
+überrepräsentiert oder
+
+885
+00:30:56.830 --> 00:30:58.918
+unterrepräsentiert sind, übernimmt
+
+886
+00:30:58.918 --> 00:31:00.966
+das Modell diese schieflagen
+
+887
+00:31:00.966 --> 00:31:02.970
+oft vollkommen unbewusst.
+
+888
+00:31:03.710 --> 00:31:05.494
+Auch die Art der Auswahl,
+
+889
+00:31:05.494 --> 00:31:07.534
+Filterung und Annotation der Daten
+
+890
+00:31:07.534 --> 00:31:09.798
+beeinflusst, welche Perspektiven
+
+891
+00:31:09.798 --> 00:31:12.190
+ein Modell stärker lernt.
+
+892
+00:31:12.190 --> 00:31:13.942
+Da das Modell keine eigene
+
+893
+00:31:13.942 --> 00:31:15.934
+ethische Reflexion besitzt,
+
+894
+00:31:15.934 --> 00:31:17.280
+übernimmt es diese Muster
+
+895
+00:31:17.280 --> 00:31:19.392
+rein statistisch, unabhängig
+
+896
+00:31:19.392 --> 00:31:21.168
+davon, ob sie angemessen
+
+897
+00:31:21.168 --> 00:31:23.272
+oder diskriminierend sind.
+
+898
+00:31:23.272 --> 00:31:24.864
+Das kann zu Benachteiligung
+
+899
+00:31:24.864 --> 00:31:26.768
+bestimmter Gruppen führen, etwa
+
+900
+00:31:26.768 --> 00:31:28.904
+durch stereotype Inhalte oder
+
+901
+00:31:28.904 --> 00:31:30.660
+einseitige Sprachmuster.
+
+902
+00:31:31.960 --> 00:31:33.840
+Eine weitere Hürde im Kontext
+
+903
+00:31:33.840 --> 00:31:36.120
+Ethik ist die Transparenz.
+
+904
+00:31:36.120 --> 00:31:38.592
+Viele Systeme gelten als black
+
+905
+00:31:38.592 --> 00:31:41.184
+boxes, das heißt, die internen
+
+906
+00:31:41.184 --> 00:31:42.744
+Entscheidungswege sind nicht
+
+907
+00:31:42.744 --> 00:31:45.480
+nachvollziehbar, was gerade z.B.
+
+908
+00:31:45.480 --> 00:31:47.232
+im Bildungsbereich problematisch
+
+909
+00:31:47.232 --> 00:31:49.952
+ist, wenn KI Lernende bewertet
+
+910
+00:31:49.952 --> 00:31:51.820
+oder Empfehlungen gibt.
+
+911
+00:31:52.440 --> 00:31:53.568
+Schauen sie sich dazu
+
+912
+00:31:53.568 --> 00:31:55.408
+gerne auch die Lernangebote
+
+913
+00:31:55.408 --> 00:31:58.304
+in der Wie wirkt KI?
+
+914
+00:31:58.304 --> 00:32:00.528
+An, die sich vertieft mit Ethik
+
+915
+00:32:00.528 --> 00:32:01.576
+und Verantwortung im
+
+916
+00:32:01.576 --> 00:32:03.700
+Zusammenhang mit KI beschäftigen.
+
+917
+00:32:04.280 --> 00:32:05.976
+Die Herausforderungen im
+
+918
+00:32:05.976 --> 00:32:07.424
+Zusammenhang mit KI
+
+919
+00:32:07.424 --> 00:32:08.816
+haben auch eine rechtliche
+
+920
+00:32:08.816 --> 00:32:10.728
+Dimension, wie z.B.
+
+921
+00:32:10.728 --> 00:32:11.660
+den Datenschutz.
+
+922
+00:32:12.280 --> 00:32:14.752
+Personenbezogene Daten unterliegen
+
+923
+00:32:14.752 --> 00:32:16.800
+strengen gesetzlichen Vorgaben,
+
+924
+00:32:16.800 --> 00:32:19.408
+beispielsweise der DSGVO.
+
+925
+00:32:19.408 --> 00:32:22.400
+Der Einsatz von KI darf diese etwa
+
+926
+00:32:22.400 --> 00:32:24.560
+durch unbeabsichtigte Speicherung
+
+927
+00:32:24.560 --> 00:32:27.300
+oder Weitergabe nicht verletzen.
+
+928
+00:32:27.880 --> 00:32:29.552
+Und auch das Urheberrecht
+
+929
+00:32:29.552 --> 00:32:30.744
+muss bei der Nutzung von
+
+930
+00:32:30.744 --> 00:32:32.776
+KI immer bedacht werden.
+
+931
+00:32:32.776 --> 00:32:34.696
+Für das Training von KI werden
+
+932
+00:32:34.696 --> 00:32:36.048
+häufig urheberrechtlich
+
+933
+00:32:36.048 --> 00:32:38.080
+geschützte Werke verwendet.
+
+934
+00:32:38.080 --> 00:32:39.272
+Hier sind rechtliche
+
+935
+00:32:39.272 --> 00:32:40.808
+Klärungen notwendig.
+
+936
+00:32:40.808 --> 00:32:43.816
+Ebenso zur Wem gehören
+
+937
+00:32:43.816 --> 00:32:45.820
+KI generierte Inhalte?
+
+938
+00:32:46.400 --> 00:32:48.072
+Der europäische Rechtsrahmen
+
+939
+00:32:48.072 --> 00:32:50.392
+des EU AI Act stuft
+
+940
+00:32:50.392 --> 00:32:52.176
+bestimmte KI Anwendungen als
+
+941
+00:32:52.176 --> 00:32:54.304
+Hochrisikosysteme ein,
+
+942
+00:32:54.304 --> 00:32:56.024
+etwa wenn sie zur Bewertung
+
+943
+00:32:56.024 --> 00:32:57.744
+von Schülerleistungen oder
+
+944
+00:32:57.744 --> 00:32:59.576
+zur Auswahl von Bewerbenden
+
+945
+00:32:59.576 --> 00:33:01.056
+eingesetzt werden.
+
+946
+00:33:01.056 --> 00:33:03.192
+Diese Einstufung hat Auswirkungen
+
+947
+00:33:03.192 --> 00:33:04.576
+auf die Zulassung und
+
+948
+00:33:04.576 --> 00:33:06.520
+Überwachung solcher Systeme
+
+949
+00:33:06.520 --> 00:33:08.460
+und darf im schulischen Kontext
+
+950
+00:33:08.460 --> 00:33:10.120
+nicht eingesetzt werden.
+
+951
+00:33:10.820 --> 00:33:12.356
+Schauen sie sich dazu die
+
+952
+00:33:12.356 --> 00:33:16.132
+lernangebote Datenschutz
+
+953
+00:33:16.132 --> 00:33:19.556
+und Urheberrecht an, die sich
+
+954
+00:33:19.556 --> 00:33:20.924
+vertiefter mit diesen
+
+955
+00:33:20.924 --> 00:33:22.640
+Themen auseinandersetzen.
+
+956
+00:33:24.900 --> 00:33:26.788
+Die vorangegangenen Informationen
+
+957
+00:33:26.788 --> 00:33:28.580
+sollen dazu beitragen, eine
+
+958
+00:33:28.580 --> 00:33:30.396
+informierte und handlungsfähige
+
+959
+00:33:30.396 --> 00:33:31.812
+Haltung gegenüber KI zu
+
+960
+00:33:31.812 --> 00:33:34.166
+entwickeln, mit dem Fokus auf das
+
+961
+00:33:34.166 --> 00:33:35.614
+technisch Mögliche,
+
+962
+00:33:35.614 --> 00:33:37.350
+gesellschaftlich sinnvolle und
+
+963
+00:33:37.350 --> 00:33:39.342
+bildungspolitisch Relevante,
+
+964
+00:33:39.342 --> 00:33:41.286
+insbesondere im Bildungs und
+
+965
+00:33:41.286 --> 00:33:42.770
+Verwaltungsbereich.
+
+966
+00:33:43.350 --> 00:33:45.534
+Denn für einen sinnvollen Einsatz
+
+967
+00:33:45.534 --> 00:33:46.798
+braucht es nicht nur Wissen
+
+968
+00:33:46.798 --> 00:33:48.614
+über die Technik, sondern auch
+
+969
+00:33:48.614 --> 00:33:50.310
+ein Gespür für ethische und
+
+970
+00:33:50.310 --> 00:33:52.574
+didaktische Herausforderungen.
+
+971
+00:33:52.574 --> 00:33:54.110
+Dieses Video soll helfen,
+
+972
+00:33:54.110 --> 00:33:55.650
+beides zu verbinden.
+
+973
+00:34:04.830 --> 00:34:07.558
+Fun Fact. Es folgt ein Gedicht
+
+974
+00:34:07.558 --> 00:34:09.085
+von Perplexity in
+
+975
+00:34:09.085 --> 00:34:11.050
+Zusammenarbeit mit ChatGPT.
+
+976
+00:34:13.870 --> 00:34:15.717
+Wenn du ein Sprachmodell bittest,
+
+977
+00:34:15.717 --> 00:34:16.889
+ein Gedicht zu schreiben,
+
+978
+00:34:17.630 --> 00:34:19.398
+wird es nicht in Reimen denken
+
+979
+00:34:19.398 --> 00:34:21.630
+oder Erinnerungen treiben.
+
+980
+00:34:21.630 --> 00:34:23.158
+Stattdessen wählt es Wort
+
+981
+00:34:23.158 --> 00:34:24.330
+für Wort geschickt,
+
+982
+00:34:25.150 --> 00:34:27.230
+was statistisch am besten in den
+
+983
+00:34:27.230 --> 00:34:29.790
+Kontext passt und glückt.
+
+984
+00:34:29.790 --> 00:34:31.326
+Es kennt Milliarden von
+
+985
+00:34:31.326 --> 00:34:33.050
+Beispielen, die es studiert.
+
+986
+00:34:33.710 --> 00:34:35.606
+Doch echte Kreativität
+
+987
+00:34:35.606 --> 00:34:37.449
+wird dabei nicht kreiert.
+
+988
+00:34:38.190 --> 00:34:39.782
+Es ist keine Kunst,
+
+989
+00:34:39.782 --> 00:34:41.610
+kein schöpferisches Licht,
+
+990
+00:34:42.190 --> 00:34:44.030
+nur Statistik, die uns
+
+991
+00:34:44.030 --> 00:34:45.429
+beeindruckende Texte verspr.

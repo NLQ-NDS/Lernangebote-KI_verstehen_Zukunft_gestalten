@@ -1,0 +1,4305 @@
+WEBVTT
+
+1
+00:00:07.360 --> 00:00:09.024
+Grundlegendes Verständnis von
+
+2
+00:00:09.024 --> 00:00:11.580
+LLM und maschinellem Lernen.
+
+3
+00:00:14.320 --> 00:00:16.120
+In diesem Video erfahren
+
+4
+00:00:16.120 --> 00:00:17.672
+sie, wie die Technik hinter
+
+5
+00:00:17.672 --> 00:00:19.576
+Sprachmodellen funktioniert,
+
+6
+00:00:19.576 --> 00:00:20.720
+indem ihnen die
+
+7
+00:00:20.720 --> 00:00:22.600
+Funktionsweise von KI
+
+8
+00:00:22.600 --> 00:00:24.232
+und maschinellem Lernen
+
+9
+00:00:24.232 --> 00:00:25.944
+mit anschaulichen Beispielen
+
+10
+00:00:25.944 --> 00:00:26.980
+erläutert wird.
+
+11
+00:00:28.600 --> 00:00:30.296
+Mit diesem Wissen entwickeln sie
+
+12
+00:00:30.296 --> 00:00:32.192
+Strategien für einen kompetenten
+
+13
+00:00:32.192 --> 00:00:34.400
+Umgang mit diesen Werkzeugen.
+
+14
+00:00:34.400 --> 00:00:36.096
+Dadurch nutzen sie KI
+
+15
+00:00:36.096 --> 00:00:37.712
+Anwendungen noch effizienter
+
+16
+00:00:37.712 --> 00:00:39.700
+für ihren eigenen Workflow.
+
+17
+00:00:40.360 --> 00:00:42.296
+Gleichzeitig lernen sie etwas über
+
+18
+00:00:42.296 --> 00:00:44.096
+die Grenzen von Large language
+
+19
+00:00:44.096 --> 00:00:46.864
+Modellen, kurz LLMs genannt.
+
+20
+00:00:46.864 --> 00:00:48.384
+So erfahren sie, wofür
+
+21
+00:00:48.384 --> 00:00:49.504
+sich Sprachmodelle
+
+22
+00:00:49.504 --> 00:00:51.432
+eignen und wofür nicht.
+
+23
+00:00:51.432 --> 00:00:53.080
+Zum Abschluss wird ihnen eine
+
+24
+00:00:53.080 --> 00:00:55.120
+praktische Anwendungsmöglichkeit
+
+25
+00:00:55.120 --> 00:00:56.980
+für den Unterricht erläutert.
+
+26
+00:00:58.180 --> 00:01:00.240
+Warum ist das Thema wichtig?
+
+27
+00:01:02.100 --> 00:01:04.275
+Das Thema ist wichtig, da ein
+
+28
+00:01:04.275 --> 00:01:06.356
+grundlegendes Wissen über KI und
+
+29
+00:01:06.356 --> 00:01:08.836
+ihre Funktionsweise hilfreich ist,
+
+30
+00:01:08.836 --> 00:01:11.036
+zu verstehen, wie ein geeigneter
+
+31
+00:01:11.036 --> 00:01:13.372
+Prompt aussieht, eine möglichst
+
+32
+00:01:13.372 --> 00:01:14.960
+passende Antwort zu erhalten.
+
+33
+00:01:15.780 --> 00:01:18.100
+Das Thema ist ebenso wichtig,
+
+34
+00:01:18.100 --> 00:01:19.468
+sich über die immensen
+
+35
+00:01:19.468 --> 00:01:21.068
+zeitlichen und energetischen
+
+36
+00:01:21.068 --> 00:01:22.844
+Ressourcen klarzuwerden,
+
+37
+00:01:22.844 --> 00:01:24.620
+die in die Trainingsphase eines
+
+38
+00:01:24.620 --> 00:01:26.268
+Modells gesteckt werden.
+
+39
+00:01:26.268 --> 00:01:27.876
+Dies erklärt gleichzeitig
+
+40
+00:01:27.876 --> 00:01:29.444
+auch, warum ein erneutes
+
+41
+00:01:29.444 --> 00:01:30.628
+Trainings wirtschaftlich
+
+42
+00:01:30.628 --> 00:01:32.668
+meist nicht lukrativ ist.
+
+43
+00:01:32.668 --> 00:01:34.852
+Wie aufwendig solch ein Prozess
+
+44
+00:01:34.852 --> 00:01:36.700
+des Training tatsächlich ist,
+
+45
+00:01:36.700 --> 00:01:37.892
+wird innerhalb dieses
+
+46
+00:01:37.892 --> 00:01:39.988
+Videos anhand des Nim Spiels
+
+47
+00:01:39.988 --> 00:01:41.840
+in Ansätzen gezeigt werden.
+
+48
+00:01:42.700 --> 00:01:44.636
+Weiterhin wird deutlich, dass
+
+49
+00:01:44.636 --> 00:01:45.892
+aufgrund des sehr hohen
+
+50
+00:01:45.892 --> 00:01:48.124
+Vernetzungsgrades innerhalb eines
+
+51
+00:01:48.124 --> 00:01:50.338
+bestehenden Modells einzelne
+
+52
+00:01:50.338 --> 00:01:52.754
+inhaltliche Aspekte nicht einfach
+
+53
+00:01:52.754 --> 00:01:54.946
+gelöscht werden können, sondern
+
+54
+00:01:54.946 --> 00:01:57.042
+das Modell jedes mal komplett neu
+
+55
+00:01:57.042 --> 00:01:59.050
+trainiert oder mit Ein und
+
+56
+00:01:59.050 --> 00:02:00.874
+Ausgabefiltern versehen werden
+
+57
+00:02:00.874 --> 00:02:01.590
+muss.
+
+58
+00:02:02.170 --> 00:02:04.026
+Durch geschicktes Prompting ist
+
+59
+00:02:04.026 --> 00:02:05.506
+zumindest in Transformer
+
+60
+00:02:05.506 --> 00:02:07.994
+Modellen wie KI Chatbots und Co.
+
+61
+00:02:07.994 --> 00:02:10.098
+Eine Abweichung vom statistisch
+
+62
+00:02:10.098 --> 00:02:12.230
+wahrscheinlichsten Weg erreichbar.
+
+63
+00:02:12.970 --> 00:02:15.186
+Es ist zudem wichtig zu wissen,
+
+64
+00:02:15.186 --> 00:02:16.978
+dass das Regelwerk, welches
+
+65
+00:02:16.978 --> 00:02:18.242
+der Konzern beim Training
+
+66
+00:02:18.242 --> 00:02:19.866
+vorgibt, maßgeblich die
+
+67
+00:02:19.866 --> 00:02:22.178
+erwartbaren Ausgaben mitbestimmt.
+
+68
+00:02:22.178 --> 00:02:24.066
+Die Ausgaben von Sprachmodellen
+
+69
+00:02:24.066 --> 00:02:25.306
+werden daher immer auch durch
+
+70
+00:02:25.306 --> 00:02:27.114
+kulturelle, politische und
+
+71
+00:02:27.114 --> 00:02:28.818
+wirtschaftliche Rahmenbedingungen
+
+72
+00:02:28.818 --> 00:02:30.514
+geprägt, die sich im Laufe
+
+73
+00:02:30.514 --> 00:02:32.430
+der Zeit verändern können.
+
+74
+00:02:33.530 --> 00:02:35.234
+Es folgen nun die verschiedenen
+
+75
+00:02:35.234 --> 00:02:36.790
+Aspekte im Detail.
+
+76
+00:02:38.490 --> 00:02:40.106
+Der Einstieg erfolgt mit
+
+77
+00:02:40.106 --> 00:02:41.602
+den Grundlagen der künstlichen
+
+78
+00:02:41.602 --> 00:02:43.136
+Intelligenz und des
+
+79
+00:02:43.136 --> 00:02:44.860
+maschinellen Lernens.
+
+80
+00:02:47.520 --> 00:02:49.160
+Was also ist eigentlich
+
+81
+00:02:49.160 --> 00:02:51.360
+künstliche Intelligenz?
+
+82
+00:02:51.360 --> 00:02:54.376
+Dazu folgendes künstliche
+
+83
+00:02:54.376 --> 00:02:55.768
+Intelligenz bezeichnet
+
+84
+00:02:55.768 --> 00:02:56.720
+die Fähigkeit von
+
+85
+00:02:56.720 --> 00:02:58.800
+Computersystemen, auf sie
+
+86
+00:02:58.800 --> 00:03:00.248
+zugeschnittene Aufgaben
+
+87
+00:03:00.248 --> 00:03:02.256
+selbsttätig zu lösen, die
+
+88
+00:03:02.256 --> 00:03:04.120
+aufgrund ihrer Komplexität
+
+89
+00:03:04.120 --> 00:03:05.192
+bislang menschliche
+
+90
+00:03:05.192 --> 00:03:07.020
+Fähigkeiten erforderten.
+
+91
+00:03:07.760 --> 00:03:09.776
+Das Zitat beschreibt demnach die
+
+92
+00:03:09.776 --> 00:03:12.212
+Fähigkeit von KI, menschliche
+
+93
+00:03:12.212 --> 00:03:13.476
+Intelligenz in bestimmten
+
+94
+00:03:13.476 --> 00:03:16.052
+Bereichen zu imitieren oder sogar
+
+95
+00:03:16.052 --> 00:03:18.548
+zu übertreffen, indem sie komplexe
+
+96
+00:03:18.548 --> 00:03:21.080
+Aufgaben automatisch löst.
+
+97
+00:03:22.780 --> 00:03:24.620
+Sie kennen KI sicherlich durch
+
+98
+00:03:24.620 --> 00:03:26.660
+Anwendungen wie ChatGPT
+
+99
+00:03:26.660 --> 00:03:28.860
+oder bildgenerierende Systeme wie
+
+100
+00:03:28.860 --> 00:03:31.508
+DALL E oder Stable Diffusion.
+
+101
+00:03:31.508 --> 00:03:32.852
+Doch das Thema künstliche
+
+102
+00:03:32.852 --> 00:03:35.244
+Intelligenz umfasst weit mehr und
+
+103
+00:03:35.244 --> 00:03:37.028
+lässt sich in verschiedene Ebenen
+
+104
+00:03:37.028 --> 00:03:38.766
+unterteilen, die aufeinander
+
+105
+00:03:38.766 --> 00:03:40.542
+aufbauen und unterschiedliche
+
+106
+00:03:40.542 --> 00:03:42.050
+Funktionen erfüllen.
+
+107
+00:03:42.790 --> 00:03:44.246
+Algorithmen bilden die
+
+108
+00:03:44.246 --> 00:03:46.062
+Grundlage jeder KI.
+
+109
+00:03:46.062 --> 00:03:47.822
+Sie sind schrittweise Anleitungen
+
+110
+00:03:47.822 --> 00:03:49.414
+die es ermöglichen, Daten
+
+111
+00:03:49.414 --> 00:03:51.790
+zu analysieren, Muster zu erkennen
+
+112
+00:03:51.790 --> 00:03:53.990
+und Aufgaben zu lösen.
+
+113
+00:03:53.990 --> 00:03:55.742
+Ohne Algorithmen könnten weder
+
+114
+00:03:55.742 --> 00:03:57.270
+einfache Programme noch
+
+115
+00:03:57.270 --> 00:03:59.810
+komplexe KI Systeme existieren.
+
+116
+00:04:00.470 --> 00:04:02.422
+Darauf aufbauend steht die
+
+117
+00:04:02.422 --> 00:04:03.910
+künstliche Intelligenz als
+
+118
+00:04:03.910 --> 00:04:05.934
+Oberbegriff für Systeme,
+
+119
+00:04:05.934 --> 00:04:07.706
+die Aufgaben lösen können,
+
+120
+00:04:07.706 --> 00:04:08.962
+die früher menschliche
+
+121
+00:04:08.962 --> 00:04:10.790
+Intelligenz erforderten.
+
+122
+00:04:11.370 --> 00:04:12.978
+Das maschinelle Lernen
+
+123
+00:04:12.978 --> 00:04:14.498
+ist ein spezialisierter
+
+124
+00:04:14.498 --> 00:04:16.450
+Bereich innerhalb der KI.
+
+125
+00:04:16.450 --> 00:04:18.106
+Hierbei lernen Systeme aus
+
+126
+00:04:18.106 --> 00:04:19.946
+Daten, ihre Leistung bei
+
+127
+00:04:19.946 --> 00:04:21.058
+bestimmten Aufgaben
+
+128
+00:04:21.058 --> 00:04:22.950
+kontinuierlich zu verbessern.
+
+129
+00:04:23.690 --> 00:04:25.306
+Das Deep Learning ist eine
+
+130
+00:04:25.306 --> 00:04:26.410
+fortgeschrittene Form
+
+131
+00:04:26.410 --> 00:04:28.530
+des maschinellen Lernens.
+
+132
+00:04:28.530 --> 00:04:30.322
+Deep Learning nutzt künstliche
+
+133
+00:04:30.322 --> 00:04:32.418
+neuronale Netze, große
+
+134
+00:04:32.418 --> 00:04:34.314
+Datenmengen zu verarbeiten und
+
+135
+00:04:34.314 --> 00:04:36.470
+komplexe Muster zu erkennen.
+
+136
+00:04:36.470 --> 00:04:38.566
+Es ist besonders leistungsfähig bei
+
+137
+00:04:38.566 --> 00:04:40.494
+Aufgaben wie Sprachverarbeitung
+
+138
+00:04:40.494 --> 00:04:41.970
+oder Bilderkennung.
+
+139
+00:04:42.710 --> 00:04:44.398
+Innerhalb des Deep Learnings
+
+140
+00:04:44.398 --> 00:04:46.062
+hat sich die generative KI
+
+141
+00:04:46.062 --> 00:04:48.062
+entwickelt, eine spezifische
+
+142
+00:04:48.062 --> 00:04:50.750
+Anwendung von KI Technologien.
+
+143
+00:04:50.750 --> 00:04:54.062
+Generative KI Systeme wie ChatGPT
+
+144
+00:04:54.062 --> 00:04:56.294
+oder bildgenerierende Tools wie
+
+145
+00:04:56.294 --> 00:04:58.878
+DALL E erstellen neue Inhalte,
+
+146
+00:04:58.878 --> 00:05:01.374
+sei es Text, Ton oder Bilder,
+
+147
+00:05:01.374 --> 00:05:02.966
+basierend auf den Mustern und
+
+148
+00:05:02.966 --> 00:05:04.686
+Informationen, die sie zuvor
+
+149
+00:05:04.686 --> 00:05:05.790
+gelernt haben.
+
+150
+00:05:05.790 --> 00:05:07.432
+Sie können multimodale
+
+151
+00:05:07.432 --> 00:05:08.728
+Inhalte produzieren,
+
+152
+00:05:08.728 --> 00:05:10.776
+also verschiedene Medien wie Text
+
+153
+00:05:10.776 --> 00:05:12.380
+und Bild kombinieren.
+
+154
+00:05:14.160 --> 00:05:15.976
+Bei der klassischen Programmierung
+
+155
+00:05:15.976 --> 00:05:17.280
+hingegen schreibt eine
+
+156
+00:05:17.280 --> 00:05:18.496
+entwickelnde Person
+
+157
+00:05:18.496 --> 00:05:20.888
+explizite Anweisungen, die genau
+
+158
+00:05:20.888 --> 00:05:22.696
+definieren, wie der Computer
+
+159
+00:05:22.696 --> 00:05:24.880
+eine Aufgabe ausführen soll.
+
+160
+00:05:24.880 --> 00:05:26.824
+Programme basieren auf festen
+
+161
+00:05:26.824 --> 00:05:28.320
+Regeln und Logiken, die
+
+162
+00:05:28.320 --> 00:05:30.864
+deterministisch sind, das heißt,
+
+163
+00:05:30.864 --> 00:05:32.768
+bei gleicher Eingabe wird immer
+
+164
+00:05:32.768 --> 00:05:34.540
+die gleiche Ausgabe erzeugt.
+
+165
+00:05:37.450 --> 00:05:38.722
+Während die klassische
+
+166
+00:05:38.722 --> 00:05:40.514
+Programmierung also auf festen
+
+167
+00:05:40.514 --> 00:05:42.386
+Regeln basiert, ist KI
+
+168
+00:05:42.386 --> 00:05:44.642
+datengetrieben und lernfähig.
+
+169
+00:05:44.642 --> 00:05:46.642
+Klassische Programme sind statisch
+
+170
+00:05:46.642 --> 00:05:48.962
+und vorhersehbar, KI Modelle
+
+171
+00:05:48.962 --> 00:05:51.810
+hingegen dynamisch und flexibel.
+
+172
+00:05:51.810 --> 00:05:54.082
+Beide Ansätze haben ihre Stärken.
+
+173
+00:05:54.082 --> 00:05:55.586
+Die klassische Programmierung
+
+174
+00:05:55.586 --> 00:05:57.474
+eignet sich für klar definierte
+
+175
+00:05:57.474 --> 00:05:59.298
+Aufgaben mit festen Regeln,
+
+176
+00:05:59.298 --> 00:06:01.122
+während KI komplexe,
+
+177
+00:06:01.122 --> 00:06:02.754
+datenbasierte Probleme lösen
+
+178
+00:06:02.754 --> 00:06:04.372
+kann, bei bei denen die Regeln
+
+179
+00:06:04.372 --> 00:06:06.092
+nicht vollständig bekannt sind
+
+180
+00:06:06.092 --> 00:06:08.040
+oder sich ständig ändern.
+
+181
+00:06:10.140 --> 00:06:12.148
+Eine Einführung in das maschinelle
+
+182
+00:06:12.148 --> 00:06:13.844
+Lernen zu geben und dessen
+
+183
+00:06:13.844 --> 00:06:15.292
+Funktionsweise genauer zu
+
+184
+00:06:15.292 --> 00:06:17.732
+verstehen, wird oft das sogenannte
+
+185
+00:06:17.732 --> 00:06:20.308
+Nim Spiel und die Gewinnstrategie,
+
+186
+00:06:20.308 --> 00:06:22.520
+die dahintersteht, herangezogen.
+
+187
+00:06:25.260 --> 00:06:26.732
+Das Nim Spiel ist ein
+
+188
+00:06:26.732 --> 00:06:29.036
+mathematisches Strategiespiel, das
+
+189
+00:06:29.036 --> 00:06:30.748
+seit Jahrhunderten existiert
+
+190
+00:06:30.748 --> 00:06:32.402
+und sich durch seine Einfachheit
+
+191
+00:06:32.402 --> 00:06:34.242
+und Tiefe auszeichnet.
+
+192
+00:06:34.242 --> 00:06:35.706
+Es wird von zwei Personen
+
+193
+00:06:35.706 --> 00:06:38.226
+gespielt, die abwechselnd Objekte,
+
+194
+00:06:38.226 --> 00:06:39.874
+in dem gezeigten Beispiel
+
+195
+00:06:39.874 --> 00:06:41.986
+Streichhölzer, aus mehreren
+
+196
+00:06:41.986 --> 00:06:44.490
+Stapeln oder Reihen entfernen.
+
+197
+00:06:44.490 --> 00:06:46.338
+Jede Person muss mindestens
+
+198
+00:06:46.338 --> 00:06:48.002
+ein Streichholz aus einer Reihe
+
+199
+00:06:48.002 --> 00:06:50.306
+nehmen, kann aber auch mehrere,
+
+200
+00:06:50.306 --> 00:06:51.650
+im gezeigten Beispiel
+
+201
+00:06:51.650 --> 00:06:53.866
+bis zu drei Hölzer aus
+
+202
+00:06:53.866 --> 00:06:55.590
+derselben Reihe entfernen.
+
+203
+00:06:56.420 --> 00:06:58.444
+Die Spielziele variieren
+
+204
+00:06:58.444 --> 00:07:00.188
+je nach Version.
+
+205
+00:07:00.188 --> 00:07:02.060
+In der normalen Variante
+
+206
+00:07:02.060 --> 00:07:04.316
+gewinnt die Person, die das letzte
+
+207
+00:07:04.316 --> 00:07:05.628
+Streichholz nimmt,
+
+208
+00:07:05.628 --> 00:07:07.796
+während in der Misère Variante die
+
+209
+00:07:07.796 --> 00:07:09.316
+Person verliert, die das
+
+210
+00:07:09.316 --> 00:07:11.120
+letzte Streichholz nimmt.
+
+211
+00:07:12.420 --> 00:07:13.884
+Die Geschichte des Nim
+
+212
+00:07:13.884 --> 00:07:15.460
+Spiels reicht bis in die
+
+213
+00:07:15.460 --> 00:07:17.452
+chinesische Antike zurück.
+
+214
+00:07:17.452 --> 00:07:18.668
+Die ersten europäischen
+
+215
+00:07:18.668 --> 00:07:20.100
+Erwähnungen stammen aus dem
+
+216
+00:07:20.100 --> 00:07:21.950
+sechzehnte Jahrhundert.
+
+217
+00:07:21.950 --> 00:07:25.150
+Der Name Nim wurde von Charles L.
+
+218
+00:07:25.150 --> 00:07:27.766
+Bouton von der Harvard University
+
+219
+00:07:27.766 --> 00:07:30.262
+geprägt, der neunzehnhunderteins
+
+220
+00:07:30.262 --> 00:07:31.158
+die vollständige
+
+221
+00:07:31.158 --> 00:07:33.370
+Theorie des Spiels entwickelte.
+
+222
+00:07:35.070 --> 00:07:36.830
+Nim wird oft auf das
+
+223
+00:07:36.830 --> 00:07:39.638
+deutsche Verb nim zurückgeführt,
+
+224
+00:07:39.638 --> 00:07:41.830
+das nehme bedeutet.
+
+225
+00:07:41.830 --> 00:07:43.486
+Dies ist passend, da das
+
+226
+00:07:43.486 --> 00:07:45.126
+Spiel darin besteht, Objekte
+
+227
+00:07:45.126 --> 00:07:46.890
+aus Haufen zu entfernen.
+
+228
+00:07:47.800 --> 00:07:49.424
+Es gibt auch eine Verbindung
+
+229
+00:07:49.424 --> 00:07:50.624
+zu einem veralteten
+
+230
+00:07:50.624 --> 00:07:52.656
+englischen Wort nim,
+
+231
+00:07:52.656 --> 00:07:55.460
+das ebenfalls nehmen bedeutet.
+
+232
+00:07:56.040 --> 00:07:58.216
+Die genaue Herkunft des Namens ist
+
+233
+00:07:58.216 --> 00:08:00.288
+jedoch nicht vollständig geklärt,
+
+234
+00:08:00.288 --> 00:08:01.968
+und es gibt Spekulationen
+
+235
+00:08:01.968 --> 00:08:03.576
+über mögliche Verbindungen zu
+
+236
+00:08:03.576 --> 00:08:05.960
+anderen Spielen oder Wörtern.
+
+237
+00:08:05.960 --> 00:08:08.768
+Trotzdem hat sich der Name Nim
+
+238
+00:08:08.768 --> 00:08:10.688
+etabliert und wird weltweit
+
+239
+00:08:10.688 --> 00:08:12.848
+verwendet, dieses mathematische
+
+240
+00:08:12.848 --> 00:08:14.740
+Strategiespiel zu beschreiben.
+
+241
+00:08:16.660 --> 00:08:18.668
+Aber was hat nun das Nim
+
+242
+00:08:18.668 --> 00:08:21.060
+Spiel mit KI zu tun?
+
+243
+00:08:21.060 --> 00:08:23.076
+Das Nim Spiel ist besonders gut
+
+244
+00:08:23.076 --> 00:08:25.172
+geeignet, lernende KIs zu
+
+245
+00:08:25.172 --> 00:08:27.468
+erklären, da es ein unparteiisches
+
+246
+00:08:27.468 --> 00:08:29.252
+Spiel ist, bei dem beide Personen
+
+247
+00:08:29.252 --> 00:08:31.028
+die gleichen Züge haben.
+
+248
+00:08:31.028 --> 00:08:32.924
+Es ist vollständig gelöst,
+
+249
+00:08:32.924 --> 00:08:34.956
+was bedeutet, dass die optimale
+
+250
+00:08:34.956 --> 00:08:36.107
+Strategie für jede
+
+251
+00:08:36.107 --> 00:08:38.520
+Startkonfiguration bekannt ist.
+
+252
+00:08:39.299 --> 00:08:40.844
+Diese Eigenschaften machen
+
+253
+00:08:40.844 --> 00:08:42.316
+es zu einem idealen Modell
+
+254
+00:08:42.316 --> 00:08:44.348
+für Reinforcement Learning,
+
+255
+00:08:44.348 --> 00:08:45.996
+also verstärkendes Lernen
+
+256
+00:08:45.996 --> 00:08:47.948
+und maschinelles Lernen.
+
+257
+00:08:47.948 --> 00:08:50.124
+KI Systeme können durch das Spielen
+
+258
+00:08:50.124 --> 00:08:52.668
+des Nim Spiels lernen, Strategien
+
+259
+00:08:52.668 --> 00:08:54.880
+zu entwickeln und zu optimieren.
+
+260
+00:08:56.580 --> 00:08:58.652
+Der Lernprozess wird im folgenden
+
+261
+00:08:58.652 --> 00:09:00.100
+auf ganz anschauliche und
+
+262
+00:09:00.100 --> 00:09:02.204
+vereinfachte Weise erklärt.
+
+263
+00:09:02.204 --> 00:09:04.036
+Dafür stellen sie sich vor,
+
+264
+00:09:04.036 --> 00:09:05.772
+sie spielen das Nimmspiel
+
+265
+00:09:05.772 --> 00:09:07.052
+mit einem Computer,
+
+266
+00:09:07.052 --> 00:09:09.652
+der durch Erfahrungswerte lernt.
+
+267
+00:09:09.652 --> 00:09:11.446
+Der Computer hat keine Ahnung
+
+268
+00:09:11.446 --> 00:09:12.534
+von der optimalen
+
+269
+00:09:12.534 --> 00:09:14.510
+Strategie, sondern muss durch
+
+270
+00:09:14.510 --> 00:09:16.410
+Versuch und Irrtum lernen.
+
+271
+00:09:17.070 --> 00:09:18.430
+Der Mensch beginnt und
+
+272
+00:09:18.430 --> 00:09:19.614
+zieht zwischen einem
+
+273
+00:09:19.614 --> 00:09:21.462
+und drei Spielsteinen.
+
+274
+00:09:21.462 --> 00:09:23.254
+Der Computer zählt daraufhin
+
+275
+00:09:23.254 --> 00:09:24.790
+die übrigen Spielsteine
+
+276
+00:09:24.790 --> 00:09:26.366
+und muss entscheiden, wie
+
+277
+00:09:26.366 --> 00:09:27.890
+viele er ziehen soll.
+
+278
+00:09:28.590 --> 00:09:30.510
+Für den Lernprozess hat der
+
+279
+00:09:30.510 --> 00:09:32.566
+Computer eine Art Notizbuch,
+
+280
+00:09:32.566 --> 00:09:33.798
+in dem er all seine
+
+281
+00:09:33.798 --> 00:09:35.342
+Erfahrungen aufschreibt.
+
+282
+00:09:35.342 --> 00:09:37.016
+Jedes Mal, wenn er eine
+
+283
+00:09:37.016 --> 00:09:38.560
+Entscheidung trifft, schreibt
+
+284
+00:09:38.560 --> 00:09:40.620
+er auf, was passiert ist.
+
+285
+00:09:41.320 --> 00:09:43.120
+Wenn der Computer nun den letzten
+
+286
+00:09:43.120 --> 00:09:44.528
+Spielstein zieht und somit
+
+287
+00:09:44.528 --> 00:09:46.460
+verliert, schreibt er in sein
+
+288
+00:09:47.240 --> 00:09:49.136
+diese Entscheidung war schlecht.
+
+289
+00:09:49.136 --> 00:09:50.980
+Vermeide sie in Zukunft.
+
+290
+00:09:51.640 --> 00:09:53.320
+Wenn der Computer jedoch nicht
+
+291
+00:09:53.320 --> 00:09:54.928
+den letzten Spielstein zieht
+
+292
+00:09:54.928 --> 00:09:57.160
+und somit gewinnt, schreibt
+
+293
+00:09:57.160 --> 00:09:59.000
+diese Entscheidung war gut.
+
+294
+00:09:59.000 --> 00:10:00.300
+Wiederhole sie.
+
+295
+00:10:02.930 --> 00:10:04.842
+Mit jedem weiteren Spiel liest
+
+296
+00:10:04.842 --> 00:10:06.458
+der Computer sein Notizbuch
+
+297
+00:10:06.458 --> 00:10:09.794
+durch und Ich erinnere mich,
+
+298
+00:10:09.794 --> 00:10:11.338
+dass ich in dieser Situation
+
+299
+00:10:11.338 --> 00:10:13.466
+letztes Mal verloren habe.
+
+300
+00:10:13.466 --> 00:10:14.626
+Dieses Mal werde ich
+
+301
+00:10:14.626 --> 00:10:16.190
+etwas anderes probieren.
+
+302
+00:10:17.010 --> 00:10:18.666
+Wenn er eine Entscheidung trifft,
+
+303
+00:10:18.666 --> 00:10:20.930
+die zu einem Gewinn führt, denkt
+
+304
+00:10:20.930 --> 00:10:23.434
+super, das hat funktioniert.
+
+305
+00:10:23.434 --> 00:10:24.666
+Ich werde das nächste
+
+306
+00:10:24.666 --> 00:10:25.950
+Mal wieder so handeln.
+
+307
+00:10:26.700 --> 00:10:27.980
+Durch die Wiederholung des
+
+308
+00:10:27.980 --> 00:10:29.316
+Spiels wird der Computer
+
+309
+00:10:29.316 --> 00:10:30.468
+immer besser darin,
+
+310
+00:10:30.468 --> 00:10:31.748
+die richtigen Entscheidungen
+
+311
+00:10:31.748 --> 00:10:33.480
+zu treffen, zu gewinnen.
+
+312
+00:10:34.300 --> 00:10:36.140
+Dieser Ansatz zeigt, wie der
+
+313
+00:10:36.140 --> 00:10:38.004
+Computer durch Erfahrungswerte
+
+314
+00:10:38.004 --> 00:10:39.596
+und Anpassung lernt, die
+
+315
+00:10:39.596 --> 00:10:41.100
+optimale Strategie für das
+
+316
+00:10:41.100 --> 00:10:42.916
+Nim Spiel zu entwickeln.
+
+317
+00:10:42.916 --> 00:10:44.828
+Der Computer wird mit der Zeit
+
+318
+00:10:44.828 --> 00:10:46.852
+immer besser darin, die günstigen
+
+319
+00:10:46.852 --> 00:10:48.196
+Entscheidungen zu treffen,
+
+320
+00:10:48.196 --> 00:10:50.484
+indem er aus seinen Fehlern lernt
+
+321
+00:10:50.484 --> 00:10:52.280
+und seine Erfolge wiederholt.
+
+322
+00:10:52.900 --> 00:10:55.220
+Das Nimm Spiel dient also als
+
+323
+00:10:55.220 --> 00:10:57.708
+ein einfaches, aber effektives
+
+324
+00:10:57.708 --> 00:11:00.004
+Modell, die Fähigkeiten von
+
+325
+00:11:00.004 --> 00:11:01.956
+KI Systemen im Bereich des
+
+326
+00:11:01.956 --> 00:11:03.556
+maschinellen Lernens zu
+
+327
+00:11:03.556 --> 00:11:06.140
+demonstrieren und zu trainieren.
+
+328
+00:11:06.140 --> 00:11:08.508
+Es hilft dabei, die Komplexität
+
+329
+00:11:08.508 --> 00:11:09.564
+von Strategien
+
+330
+00:11:09.564 --> 00:11:11.164
+und Entscheidungsprozessen
+
+331
+00:11:11.164 --> 00:11:12.356
+zu verstehen und zu
+
+332
+00:11:12.356 --> 00:11:14.524
+erklären, wie KI Systeme
+
+333
+00:11:14.524 --> 00:11:15.884
+durch wiederholtes Spielen
+
+334
+00:11:15.884 --> 00:11:17.788
+und lernen ihre Fähigkeiten
+
+335
+00:11:17.788 --> 00:11:18.920
+verbessern können.
+
+336
+00:11:19.810 --> 00:11:21.594
+Für das hier konkret gezeigte
+
+337
+00:11:21.594 --> 00:11:23.178
+Beispiel zum Ende des Spiels
+
+338
+00:11:23.178 --> 00:11:24.690
+heißt das, dass sich der
+
+339
+00:11:24.690 --> 00:11:27.714
+Computer ich erinnere mich,
+
+340
+00:11:27.714 --> 00:11:29.098
+dass ich in dieser Situation
+
+341
+00:11:29.098 --> 00:11:31.266
+letztes Mal verloren habe, als
+
+342
+00:11:31.266 --> 00:11:32.778
+ich ein oder drei Hölzchen
+
+343
+00:11:32.778 --> 00:11:33.834
+genommen habe.
+
+344
+00:11:33.834 --> 00:11:35.106
+Dieses Mal werde ich
+
+345
+00:11:35.106 --> 00:11:37.098
+etwas anderes probieren.
+
+346
+00:11:37.098 --> 00:11:38.778
+Das heißt, beim nächsten
+
+347
+00:11:38.778 --> 00:11:40.194
+Mal wird der Computer zwei
+
+348
+00:11:40.194 --> 00:11:41.970
+Hölzchen nehmen, denn mehr
+
+349
+00:11:41.970 --> 00:11:44.178
+Möglichkeiten bleiben nicht mehr.
+
+350
+00:11:44.178 --> 00:11:45.906
+Mit dieser Strategie wird
+
+351
+00:11:45.906 --> 00:11:47.516
+er gewinnen und sich in
+
+352
+00:11:47.516 --> 00:11:49.740
+sein Notizbuch notieren.
+
+353
+00:11:49.740 --> 00:11:51.436
+Super, zwei Hölzchen zu
+
+354
+00:11:51.436 --> 00:11:52.756
+nehmen hat funktioniert.
+
+355
+00:11:52.756 --> 00:11:54.004
+Ich werde das nächste
+
+356
+00:11:54.004 --> 00:11:55.240
+Mal wieder so handeln.
+
+357
+00:11:56.060 --> 00:11:57.908
+Durch die Wiederholung des Spiels
+
+358
+00:11:57.908 --> 00:11:59.996
+und sämtlicher Kombinationen wird
+
+359
+00:11:59.996 --> 00:12:02.116
+der Computer immer besser darin,
+
+360
+00:12:02.116 --> 00:12:03.412
+die richtigen Entscheidungen
+
+361
+00:12:03.412 --> 00:12:04.920
+zu treffen, zu gewinnen.
+
+362
+00:12:08.700 --> 00:12:10.964
+Trotz des gerade sehr anschaulich
+
+363
+00:12:10.964 --> 00:12:12.004
+und vermenschlicht
+
+364
+00:12:12.004 --> 00:12:13.906
+dargestellten beispielsweise zu
+
+365
+00:12:13.906 --> 00:12:15.994
+maschinellem Lernen unterscheidet
+
+366
+00:12:15.994 --> 00:12:17.898
+sich dieses vom biologischen
+
+367
+00:12:17.898 --> 00:12:19.710
+Lernen dennoch massiv.
+
+368
+00:12:20.450 --> 00:12:22.618
+Denn beide Arten des Lernens
+
+369
+00:12:22.618 --> 00:12:24.122
+unterscheiden sich grundlegend
+
+370
+00:12:24.122 --> 00:12:25.546
+in ihrer Art und Weise,
+
+371
+00:12:25.546 --> 00:12:26.882
+wie sie Informationen
+
+372
+00:12:26.882 --> 00:12:29.178
+verarbeiten und lernen.
+
+373
+00:12:29.178 --> 00:12:31.266
+Beim maschinellen Lernen wird
+
+374
+00:12:31.266 --> 00:12:32.858
+das Lernen durch den Einsatz
+
+375
+00:12:32.858 --> 00:12:34.770
+von Algorithmen erreicht, die
+
+376
+00:12:34.770 --> 00:12:36.666
+systematisch durch eine Menge
+
+377
+00:12:36.666 --> 00:12:38.426
+möglicher Lösungen wiederholt
+
+378
+00:12:38.426 --> 00:12:40.386
+durchlaufen und optimiert
+
+379
+00:12:40.386 --> 00:12:42.642
+werden, die besten Ergebnisse
+
+380
+00:12:42.642 --> 00:12:43.930
+zu finden.
+
+381
+00:12:43.930 --> 00:12:45.866
+Dieser Prozess kann als das
+
+382
+00:12:45.866 --> 00:12:47.434
+schlichte Abarbeiten eines
+
+383
+00:12:47.434 --> 00:12:49.226
+Algorithmus beschrieben werden,
+
+384
+00:12:49.226 --> 00:12:51.202
+bei dem ungeeignete Lösungen
+
+385
+00:12:51.202 --> 00:12:52.634
+eliminiert werden,
+
+386
+00:12:52.634 --> 00:12:54.910
+bis die optimale gefunden ist.
+
+387
+00:12:55.770 --> 00:12:57.986
+Ein interessantes Beispiel dafür
+
+388
+00:12:57.986 --> 00:13:00.474
+ist das eben erklärte NIM Spiel.
+
+389
+00:13:00.474 --> 00:13:02.002
+Obwohl das maschinelle Lernen
+
+390
+00:13:02.002 --> 00:13:03.946
+im NiM Spiel lediglich eine
+
+391
+00:13:03.946 --> 00:13:05.434
+Lösungsmenge ermittelt,
+
+392
+00:13:05.434 --> 00:13:06.820
+kann das Ergebnis für einen
+
+393
+00:13:06.820 --> 00:13:08.732
+ungeschulten Beobachtenden
+
+394
+00:13:08.732 --> 00:13:11.132
+als intelligent erscheinen.
+
+395
+00:13:11.132 --> 00:13:13.476
+Dies liegt daran, dass die KI in
+
+396
+00:13:13.476 --> 00:13:15.548
+der Lage ist, durch systematische
+
+397
+00:13:15.548 --> 00:13:17.548
+Berechnungen die beste Strategie
+
+398
+00:13:17.548 --> 00:13:19.868
+zu finden, ohne dass ein tiefes
+
+399
+00:13:19.868 --> 00:13:22.428
+Verständnis oder eine intuitive
+
+400
+00:13:22.428 --> 00:13:24.200
+Einsicht erforderlich ist.
+
+401
+00:13:24.980 --> 00:13:26.540
+Ein wichtiger Unterschied
+
+402
+00:13:26.540 --> 00:13:28.180
+zwischen maschinellem und
+
+403
+00:13:28.180 --> 00:13:30.676
+biologischem Lernen ist zudem die
+
+404
+00:13:30.676 --> 00:13:33.196
+Komplexität des Lernprozesses.
+
+405
+00:13:33.196 --> 00:13:35.096
+Beim maschinellen Lernen ist
+
+406
+00:13:35.096 --> 00:13:37.072
+das Training oft sehr aufwendig
+
+407
+00:13:37.072 --> 00:13:38.656
+und erfordert große Mengen
+
+408
+00:13:38.656 --> 00:13:40.880
+an Daten und Rechenleistung.
+
+409
+00:13:40.880 --> 00:13:42.736
+Im Gegensatz dazu scheint
+
+410
+00:13:42.736 --> 00:13:45.056
+biologisches Lernen oft intuitiver
+
+411
+00:13:45.056 --> 00:13:47.080
+und weniger aufwendig zu sein,
+
+412
+00:13:47.080 --> 00:13:48.352
+obwohl es tatsächlich
+
+413
+00:13:48.352 --> 00:13:50.688
+auf komplexen neurobiologischen
+
+414
+00:13:50.688 --> 00:13:51.860
+Prozessen basiert.
+
+415
+00:13:52.760 --> 00:13:54.416
+Trotz dieser Unterschiede
+
+416
+00:13:54.416 --> 00:13:55.656
+können beide Formen des
+
+417
+00:13:55.656 --> 00:13:57.248
+Lernens beeindruckende
+
+418
+00:13:57.248 --> 00:13:58.940
+Ergebnisse erzielen.
+
+419
+00:13:58.940 --> 00:14:00.660
+Während biologisches Lernen
+
+420
+00:14:00.660 --> 00:14:02.164
+auf der Fähigkeit basiert,
+
+421
+00:14:02.164 --> 00:14:03.764
+Erfahrungen zu verarbeiten
+
+422
+00:14:03.764 --> 00:14:05.268
+und zu generalisieren,
+
+423
+00:14:05.268 --> 00:14:07.092
+nutzt maschinelles Lernen
+
+424
+00:14:07.092 --> 00:14:08.852
+die systematische Anwendung
+
+425
+00:14:08.852 --> 00:14:10.364
+von Algorithmen,
+
+426
+00:14:10.364 --> 00:14:12.660
+komplexe Probleme zu lösen.
+
+427
+00:14:12.660 --> 00:14:14.140
+Beide Ansätze haben ihre
+
+428
+00:14:14.140 --> 00:14:16.284
+Stärken und Schwächen und können
+
+429
+00:14:16.284 --> 00:14:17.236
+in unterschiedlichen
+
+430
+00:14:17.236 --> 00:14:19.120
+Kontexten eingesetzt werden.
+
+431
+00:14:21.980 --> 00:14:23.356
+Im Folgenden wird eine
+
+432
+00:14:23.356 --> 00:14:25.108
+Darstellung der Grundprinzipien
+
+433
+00:14:25.108 --> 00:14:26.436
+eines stark vereinfachten
+
+434
+00:14:26.436 --> 00:14:28.326
+Ansatzes genutzt, der in
+
+435
+00:14:28.326 --> 00:14:29.806
+modernen Large language
+
+436
+00:14:29.806 --> 00:14:32.326
+Modellen, kurz LLM, nicht mehr
+
+437
+00:14:32.326 --> 00:14:34.182
+verwendet wird, aber genau wie
+
+438
+00:14:34.182 --> 00:14:36.230
+das Nim Spiel einen Einblick in
+
+439
+00:14:36.230 --> 00:14:37.854
+grundlegende Funktionsweisen
+
+440
+00:14:37.854 --> 00:14:38.770
+ermöglicht.
+
+441
+00:14:41.510 --> 00:14:43.110
+Stellen sie sich vor,
+
+442
+00:14:43.110 --> 00:14:44.606
+eine Maschine analysiert
+
+443
+00:14:44.606 --> 00:14:46.822
+verschiedene Märchenanfänge mit
+
+444
+00:14:46.822 --> 00:14:48.446
+Hilfe von Algorithmen.
+
+445
+00:14:48.446 --> 00:14:50.390
+Das Ergebnis können sie sich wie
+
+446
+00:14:50.390 --> 00:14:52.462
+einen großen Baum vorstellen.
+
+447
+00:14:52.462 --> 00:14:54.406
+Anstatt Äste und Blätter hat
+
+448
+00:14:54.406 --> 00:14:56.446
+dieser Baum Wortgruppen, die
+
+449
+00:14:56.446 --> 00:14:58.150
+immer wieder in einer bestimmten
+
+450
+00:14:58.150 --> 00:15:00.250
+Reihenfolge zusammenkommen.
+
+451
+00:15:00.910 --> 00:15:02.870
+Wenn sie nun von oben nach unten
+
+452
+00:15:02.870 --> 00:15:04.726
+durch den Baum gehen, erhalten
+
+453
+00:15:04.726 --> 00:15:06.766
+sie Märchenanfänge, die in
+
+454
+00:15:06.766 --> 00:15:09.090
+ihrer Qualität variieren können.
+
+455
+00:15:09.870 --> 00:15:12.174
+Manche sind gut strukturiert und
+
+456
+00:15:12.174 --> 00:15:14.422
+klingen wie echte Märchen, während
+
+457
+00:15:14.422 --> 00:15:16.478
+andere weniger überzeugend sind
+
+458
+00:15:16.478 --> 00:15:19.094
+oder so gar nicht zusammenpassen.
+
+459
+00:15:19.094 --> 00:15:21.446
+Dies liegt daran, dass der Baum
+
+460
+00:15:21.446 --> 00:15:23.406
+alle möglichen Kombinationen der
+
+461
+00:15:23.406 --> 00:15:25.606
+analysierten Wortgruppen enthält,
+
+462
+00:15:25.606 --> 00:15:27.314
+auch diejenigen, die nicht
+
+463
+00:15:27.314 --> 00:15:29.310
+unbedingt gut funktionieren.
+
+464
+00:15:29.890 --> 00:15:31.746
+Der Baum zeigt ihnen also,
+
+465
+00:15:31.746 --> 00:15:33.506
+wie die Maschine die Struktur von
+
+466
+00:15:33.506 --> 00:15:35.338
+Märchenanfängen versteht
+
+467
+00:15:35.338 --> 00:15:37.666
+und wie sie diese Struktur nutzt,
+
+468
+00:15:37.666 --> 00:15:39.978
+neue Anfänge zu generieren.
+
+469
+00:15:39.978 --> 00:15:41.994
+Je tiefer sie in den Baum gehen
+
+470
+00:15:41.994 --> 00:15:44.330
+würden, desto mehr Variationen
+
+471
+00:15:44.330 --> 00:15:45.650
+und möglicherweise auch
+
+472
+00:15:45.650 --> 00:15:47.578
+weniger gelungene Kombinationen
+
+473
+00:15:47.578 --> 00:15:48.910
+würden sie finden.
+
+474
+00:15:51.580 --> 00:15:53.572
+In der Realität ist die Generierung
+
+475
+00:15:53.572 --> 00:15:55.636
+mit Systemen wie ChatGPT
+
+476
+00:15:55.636 --> 00:15:57.720
+natürlich viel abstrakter.
+
+477
+00:15:58.300 --> 00:16:00.676
+Wenn ein generative pre trained
+
+478
+00:16:00.676 --> 00:16:02.772
+Transformer wie KI Chatbots
+
+479
+00:16:02.772 --> 00:16:04.796
+einen Text verarbeitet, beginnt es
+
+480
+00:16:04.796 --> 00:16:06.076
+nicht mit der Analyse von
+
+481
+00:16:06.076 --> 00:16:08.276
+Wörtern im herkömmlichen Sinne.
+
+482
+00:16:08.276 --> 00:16:09.756
+Stattdessen transformiert es
+
+483
+00:16:09.756 --> 00:16:11.836
+die Eingabe in Tokens, die
+
+484
+00:16:11.836 --> 00:16:13.044
+als bedeutungslose
+
+485
+00:16:13.044 --> 00:16:15.340
+Zeichenfolgen betrachtet werden.
+
+486
+00:16:15.340 --> 00:16:17.172
+Tokens können Wörter,
+
+487
+00:16:17.172 --> 00:16:19.248
+Teile von Wörtern oder sogar
+
+488
+00:16:19.248 --> 00:16:21.552
+einzelne Zeichen sein, die während
+
+489
+00:16:21.552 --> 00:16:23.344
+des Tokenisierungsprozesses
+
+490
+00:16:23.344 --> 00:16:24.460
+erstellt werden.
+
+491
+00:16:25.160 --> 00:16:26.688
+Diese Tokenisierung
+
+492
+00:16:26.688 --> 00:16:27.872
+ist ein entscheidender
+
+493
+00:16:27.872 --> 00:16:29.632
+Schritt im Verarbeitungsprozess
+
+494
+00:16:29.632 --> 00:16:31.552
+von GPT Modellen.
+
+495
+00:16:31.552 --> 00:16:33.160
+Anstatt Wörter wörtlich zu
+
+496
+00:16:33.160 --> 00:16:34.776
+interpretieren, werden sie in
+
+497
+00:16:34.776 --> 00:16:36.680
+Token ids umgewandelt, die
+
+498
+00:16:36.680 --> 00:16:39.192
+lediglich eine Kennziffer haben.
+
+499
+00:16:39.192 --> 00:16:41.456
+Diese IDs repräsentieren häufig
+
+500
+00:16:41.456 --> 00:16:43.552
+auftretende Zeichenreihenfolgen,
+
+501
+00:16:43.552 --> 00:16:44.276
+die während des
+
+502
+00:16:44.276 --> 00:16:47.060
+Trainingsprozesses gelernt wurden.
+
+503
+00:16:47.060 --> 00:16:48.908
+Alle weiteren Verarbeitungsschritte
+
+504
+00:16:48.908 --> 00:16:50.524
+basieren auf diesen Token
+
+505
+00:16:50.524 --> 00:16:52.516
+ids und nicht etwa auf der
+
+506
+00:16:52.516 --> 00:16:54.636
+semantischen Bedeutung der Wörter.
+
+507
+00:16:54.636 --> 00:16:56.588
+Das heißt, dass GPT
+
+508
+00:16:56.588 --> 00:16:58.252
+die Sprache nicht im menschlichen
+
+509
+00:16:58.252 --> 00:16:59.516
+Sinne versteht,
+
+510
+00:16:59.516 --> 00:17:01.564
+sondern lediglich statistische
+
+511
+00:17:01.564 --> 00:17:02.276
+Muster in den
+
+512
+00:17:02.276 --> 00:17:05.076
+Tokenfolgen erkennt und nutzt,
+
+513
+00:17:05.076 --> 00:17:06.523
+wahrscheinliche Ausgaben
+
+514
+00:17:06.523 --> 00:17:07.599
+zu generieren.
+
+515
+00:17:08.339 --> 00:17:09.964
+Wenn sie selbst einmal sehen
+
+516
+00:17:09.964 --> 00:17:12.359
+wollen, wie der Satzanfang es war
+
+517
+00:17:12.359 --> 00:17:14.560
+einmal ein Müller, der in die Welt
+
+518
+00:17:14.560 --> 00:17:17.407
+zog durch ein GPT in Tokens
+
+519
+00:17:17.407 --> 00:17:20.208
+zergliedert und individuellen IDs
+
+520
+00:17:20.208 --> 00:17:22.056
+zugeordnet wird, nutzen sie
+
+521
+00:17:22.056 --> 00:17:23.880
+spezielle Websites, die das
+
+522
+00:17:23.880 --> 00:17:25.664
+Prinzip veranschaulichen.
+
+523
+00:17:25.664 --> 00:17:27.400
+Einen Link dazu finden sie auch
+
+524
+00:17:27.400 --> 00:17:29.620
+im Kurs unter Vertiefung.
+
+525
+00:17:32.200 --> 00:17:34.056
+Stellen sie sich nun vor,
+
+526
+00:17:34.056 --> 00:17:36.112
+sie haben ein einfaches Modell,
+
+527
+00:17:36.112 --> 00:17:38.470
+das Märchenanfänge generiert.
+
+528
+00:17:38.470 --> 00:17:40.206
+Wenn sie dieses Modell viele
+
+529
+00:17:40.206 --> 00:17:42.486
+Male laufen und die Ergebnisse von
+
+530
+00:17:42.486 --> 00:17:44.374
+Menschen bewerten lassen, können
+
+531
+00:17:44.374 --> 00:17:46.270
+sie sehen, wie wahrscheinlich
+
+532
+00:17:46.270 --> 00:17:48.010
+bestimmte Pfade sind.
+
+533
+00:17:48.630 --> 00:17:50.550
+Die Verbindungslinien zwischen den
+
+534
+00:17:50.550 --> 00:17:52.558
+Elementen zeigen ihnen, wie oft
+
+535
+00:17:52.558 --> 00:17:54.998
+ein bestimmter Weg gewählt wird.
+
+536
+00:17:54.998 --> 00:17:56.462
+Wenn zwei Pfade gleich
+
+537
+00:17:56.462 --> 00:17:58.078
+wahrscheinlich sind, entscheidet
+
+538
+00:17:58.078 --> 00:18:00.250
+der Zufall, welcher genommen wird.
+
+539
+00:18:00.870 --> 00:18:02.950
+Deshalb kann es passieren, dass
+
+540
+00:18:02.950 --> 00:18:04.878
+bei gleicher Eingabe in ein großes
+
+541
+00:18:04.878 --> 00:18:07.062
+Sprachmodell unterschiedliche
+
+542
+00:18:07.062 --> 00:18:08.810
+Ergebnisse entstehen.
+
+543
+00:18:09.390 --> 00:18:11.486
+Je vager die Anfrage ist,
+
+544
+00:18:11.486 --> 00:18:13.462
+desto eher wird der Modellpfad
+
+545
+00:18:13.462 --> 00:18:15.382
+gewählt, der das statistische
+
+546
+00:18:15.382 --> 00:18:16.886
+Optimum darstellt.
+
+547
+00:18:16.886 --> 00:18:18.822
+Das bedeutet, dass das Modell
+
+548
+00:18:18.822 --> 00:18:20.838
+auf die am häufigsten vorkommenden
+
+549
+00:18:20.838 --> 00:18:22.454
+Muster zurückgreift.
+
+550
+00:18:22.454 --> 00:18:24.038
+Wenn man jedoch spezifische
+
+551
+00:18:24.038 --> 00:18:26.302
+Elemente wie Fantasiewesen in
+
+552
+00:18:26.302 --> 00:18:28.214
+das Märchen einbauen möchte,
+
+553
+00:18:28.214 --> 00:18:29.870
+muss dies explizit in der
+
+554
+00:18:29.870 --> 00:18:32.320
+Prompteingabe angegeben werden.
+
+555
+00:18:32.320 --> 00:18:34.016
+Auf diese Weise kann man
+
+556
+00:18:34.016 --> 00:18:35.856
+die Grundprogrammierung des
+
+557
+00:18:35.856 --> 00:18:38.648
+Modells sozusagen überschreiben
+
+558
+00:18:38.648 --> 00:18:40.024
+und sicherstellen,
+
+559
+00:18:40.024 --> 00:18:41.464
+dass die gewünschten Elemente
+
+560
+00:18:41.464 --> 00:18:43.180
+im Märchen vorkommen.
+
+561
+00:18:43.920 --> 00:18:46.360
+Dieses Verfahren zeigt, wie wichtig
+
+562
+00:18:46.360 --> 00:18:48.320
+es ist, klare Anweisungen zu
+
+563
+00:18:48.320 --> 00:18:50.648
+geben, die gewünschten Ergebnisse
+
+564
+00:18:50.648 --> 00:18:53.016
+zu erzielen, und wie der Zufall
+
+565
+00:18:53.016 --> 00:18:54.872
+eine Rolle spielt, wenn mehrere
+
+566
+00:18:54.872 --> 00:18:56.900
+Pfade gleich wahrscheinlich sind.
+
+567
+00:18:57.930 --> 00:18:59.210
+Wenn sie sich wieder den
+
+568
+00:18:59.210 --> 00:19:01.530
+Märchenbaum vorstellen, der durch
+
+569
+00:19:01.530 --> 00:19:03.146
+algorithmische Analyse von
+
+570
+00:19:03.146 --> 00:19:05.634
+Märchenanfängen entsteht, sehen
+
+571
+00:19:05.634 --> 00:19:07.706
+sie, dass die Ergebnisse stark von
+
+572
+00:19:07.706 --> 00:19:09.830
+menschlichen Eingriffen abhängen.
+
+573
+00:19:10.410 --> 00:19:12.482
+Der Baum selbst ist ein Produkt
+
+574
+00:19:12.482 --> 00:19:13.930
+von Algorithmen, die
+
+575
+00:19:13.930 --> 00:19:16.018
+Wortgruppen und ihre Reihenfolge
+
+576
+00:19:16.018 --> 00:19:17.938
+analysieren, typische
+
+577
+00:19:17.938 --> 00:19:20.150
+Märchenanfänge zu generieren.
+
+578
+00:19:20.970 --> 00:19:22.722
+Doch bevor diese Algorithmen
+
+579
+00:19:22.722 --> 00:19:24.846
+überhaupt arbeiten können, sind
+
+580
+00:19:24.846 --> 00:19:27.134
+Menschen notwendig, die Daten zu
+
+581
+00:19:27.134 --> 00:19:29.558
+annotieren und zu etikettieren,
+
+582
+00:19:29.558 --> 00:19:31.782
+die Daten also mit zusätzlichen
+
+583
+00:19:31.782 --> 00:19:33.782
+Informationen zu versehen.
+
+584
+00:19:33.782 --> 00:19:35.246
+Diese Arbeit wird oft von
+
+585
+00:19:35.246 --> 00:19:37.686
+Clickworkern und anderen Mikrojob
+
+586
+00:19:37.686 --> 00:19:39.094
+Plattformen durchgeführt,
+
+587
+00:19:39.094 --> 00:19:40.270
+die in Schwellen oder
+
+588
+00:19:40.270 --> 00:19:42.686
+Entwicklungsländern tätig sind.
+
+589
+00:19:42.686 --> 00:19:44.286
+Diese Menschen spielen eine
+
+590
+00:19:44.286 --> 00:19:46.222
+entscheidende Rolle, indem sie
+
+591
+00:19:46.222 --> 00:19:48.014
+sicherstellen, dass die Daten
+
+592
+00:19:48.014 --> 00:19:50.150
+korrekt und konsistent sind,
+
+593
+00:19:50.150 --> 00:19:51.680
+was wiederum die Qualität
+
+594
+00:19:51.680 --> 00:19:54.340
+der KI Ergebnisse beeinflusst.
+
+595
+00:19:54.920 --> 00:19:56.912
+Neben der Datenannotation
+
+596
+00:19:56.912 --> 00:19:58.376
+sind auch Fachkräfte wie
+
+597
+00:19:58.376 --> 00:19:59.656
+Datenwissenschaftler und
+
+598
+00:19:59.656 --> 00:20:01.968
+Ingenieure unverzichtbar.
+
+599
+00:20:01.968 --> 00:20:03.712
+Sie entwickeln und optimieren
+
+600
+00:20:03.712 --> 00:20:04.856
+die Algorithmen, die
+
+601
+00:20:04.856 --> 00:20:07.088
+den Märchenbaum generieren.
+
+602
+00:20:07.088 --> 00:20:09.168
+Diese Experten sind verantwortlich
+
+603
+00:20:09.168 --> 00:20:10.296
+für die Architektur der
+
+604
+00:20:10.296 --> 00:20:11.832
+Modelle und passen sie an
+
+605
+00:20:11.832 --> 00:20:14.296
+spezifische Anforderungen an.
+
+606
+00:20:14.296 --> 00:20:15.736
+Sie entscheiden, wie der
+
+607
+00:20:15.736 --> 00:20:17.472
+Baum strukturiert wird und
+
+608
+00:20:17.472 --> 00:20:19.192
+welche Pfade am wahrscheinlichsten
+
+609
+00:20:19.192 --> 00:20:20.260
+genommen werden.
+
+610
+00:20:20.880 --> 00:20:22.552
+Ein weiterer wichtiger Aspekt
+
+611
+00:20:22.552 --> 00:20:24.616
+ist die Governance und Ethik.
+
+612
+00:20:24.616 --> 00:20:27.160
+AI Ethiker und Experten,
+
+613
+00:20:27.160 --> 00:20:28.856
+politische Entscheidungsträger
+
+614
+00:20:28.856 --> 00:20:30.632
+und Regulierungsbehörden,
+
+615
+00:20:30.632 --> 00:20:32.240
+Unternehmensleitende und
+
+616
+00:20:32.240 --> 00:20:33.896
+Compliance Teams,
+
+617
+00:20:33.896 --> 00:20:36.568
+Datenschutzbeauftragte, interne
+
+618
+00:20:36.568 --> 00:20:39.192
+Ethikkomitees und viele andere
+
+619
+00:20:39.192 --> 00:20:41.016
+tragen Verantwortung dafür,
+
+620
+00:20:41.016 --> 00:20:43.376
+dass KI Systeme ethisch und
+
+621
+00:20:43.376 --> 00:20:45.208
+rechtlich einwandfrei betrieben
+
+622
+00:20:45.208 --> 00:20:46.210
+werden.
+
+623
+00:20:46.210 --> 00:20:47.898
+Dies umfasst unter anderem
+
+624
+00:20:47.898 --> 00:20:49.610
+die Überwachung von Bias
+
+625
+00:20:49.610 --> 00:20:51.562
+in den Daten und die Einhaltung
+
+626
+00:20:51.562 --> 00:20:53.730
+von Datenschutzbestimmungen.
+
+627
+00:20:53.730 --> 00:20:55.514
+Im Kontext des Märchenbaums
+
+628
+00:20:55.514 --> 00:20:57.482
+bedeutet dies, dass die Ergebnisse
+
+629
+00:20:57.482 --> 00:20:59.946
+frei von unerwünschten Stereotypen
+
+630
+00:20:59.946 --> 00:21:02.458
+oder Vorurteilen sein sollten.
+
+631
+00:21:02.458 --> 00:21:04.066
+Allerdings ist es wichtig zu
+
+632
+00:21:04.066 --> 00:21:06.218
+betonen, dass eine vollständige
+
+633
+00:21:06.218 --> 00:21:07.906
+Sicherstellung der ethischen und
+
+634
+00:21:07.906 --> 00:21:09.730
+rechtlichen Unbedenklichkeit von
+
+635
+00:21:09.730 --> 00:21:12.794
+LLMs nicht garantiert werden kann.
+
+636
+00:21:12.794 --> 00:21:14.788
+Bias in den Modellen ist oft
+
+637
+00:21:14.788 --> 00:21:16.308
+tief in den Trainingsdaten
+
+638
+00:21:16.308 --> 00:21:17.908
+verankert und kann sogar
+
+639
+00:21:17.908 --> 00:21:19.756
+gezielt eingesetzt werden,
+
+640
+00:21:19.756 --> 00:21:21.880
+bestimmte Ergebnisse zu fördern.
+
+641
+00:21:22.620 --> 00:21:24.876
+Schließlich spielt der Human in the
+
+642
+00:21:24.876 --> 00:21:27.524
+loop Ansatz eine wichtige Rolle.
+
+643
+00:21:27.524 --> 00:21:29.164
+Hier arbeiten Menschen eng
+
+644
+00:21:29.164 --> 00:21:31.420
+mit den KI Systemen zusammen,
+
+645
+00:21:31.420 --> 00:21:32.796
+deren Entscheidungen zu
+
+646
+00:21:32.796 --> 00:21:35.268
+überwachen und zu korrigieren.
+
+647
+00:21:35.268 --> 00:21:37.220
+Dies verbessert die Genauigkeit
+
+648
+00:21:37.220 --> 00:21:39.320
+und Zuverlässigkeit der Modelle.
+
+649
+00:21:40.020 --> 00:21:42.276
+Im Märchenbaum bedeutet dies,
+
+650
+00:21:42.276 --> 00:21:43.788
+dass Menschen die generierten
+
+651
+00:21:43.788 --> 00:21:45.580
+Märchenanfänge überprüfen
+
+652
+00:21:45.580 --> 00:21:47.876
+und gegebenenfalls anpassen,
+
+653
+00:21:47.876 --> 00:21:49.700
+sicherzustellen, dass sie den
+
+654
+00:21:49.700 --> 00:21:51.620
+Erwartungen entsprechen.
+
+655
+00:21:51.620 --> 00:21:53.756
+Die Ausgaben von Large language
+
+656
+00:21:53.756 --> 00:21:55.796
+Modellen wirken oft so, als ob
+
+657
+00:21:55.796 --> 00:21:57.196
+sie von einem intelligenten
+
+658
+00:21:57.196 --> 00:21:58.916
+System stammen, doch in
+
+659
+00:21:58.916 --> 00:22:00.740
+Wirklichkeit basieren sie auf
+
+660
+00:22:00.740 --> 00:22:02.724
+statistischen Berechnungen, die
+
+661
+00:22:02.724 --> 00:22:04.508
+komplexe Muster aus großen
+
+662
+00:22:04.508 --> 00:22:06.570
+Datenmengen erkennen und darauf
+
+663
+00:22:06.570 --> 00:22:08.990
+aufbauend Ergebnisse generieren.
+
+664
+00:22:09.570 --> 00:22:11.850
+Diese Ergebnisse sind für Menschen
+
+665
+00:22:11.850 --> 00:22:13.706
+oft beeindruckend, ähnlich
+
+666
+00:22:13.706 --> 00:22:15.554
+wie für eine Person, die das
+
+667
+00:22:15.554 --> 00:22:17.586
+Nim Spiel nicht gewinnen kann
+
+668
+00:22:17.586 --> 00:22:19.450
+und glaubt, der Gegner,
+
+669
+00:22:19.450 --> 00:22:22.430
+also die KI, sei besonders clever.
+
+670
+00:22:23.330 --> 00:22:25.186
+Diese Annahme entsteht durch
+
+671
+00:22:25.186 --> 00:22:27.210
+die Anthropomorphisierung.
+
+672
+00:22:27.210 --> 00:22:29.226
+Dies bezeichnet im Allgemeinen
+
+673
+00:22:29.226 --> 00:22:30.202
+das Zuschreiben
+
+674
+00:22:30.202 --> 00:22:31.498
+menschlicher Eigenschaften
+
+675
+00:22:31.498 --> 00:22:33.660
+gegenüber Tieren, Göttern,
+
+676
+00:22:33.660 --> 00:22:36.500
+Naturgewalten und ähnlichem.
+
+677
+00:22:36.500 --> 00:22:38.276
+Anthropomorphisierung im
+
+678
+00:22:38.276 --> 00:22:40.364
+Zusammenhang mit KI bedeutet,
+
+679
+00:22:40.364 --> 00:22:41.788
+dass typisch menschliche
+
+680
+00:22:41.788 --> 00:22:43.884
+Eigenschaften wie Emotionen,
+
+681
+00:22:43.884 --> 00:22:46.332
+Intentionen oder Verhaltensweisen
+
+682
+00:22:46.332 --> 00:22:47.356
+nichtmenschlichen
+
+683
+00:22:47.356 --> 00:22:49.292
+Systemen wie künstlichen
+
+684
+00:22:49.292 --> 00:22:51.084
+Intelligenzen oder Robotern
+
+685
+00:22:51.084 --> 00:22:52.440
+zugeschrieben werden.
+
+686
+00:22:53.140 --> 00:22:54.740
+Dies kann dazu führen, dass
+
+687
+00:22:54.740 --> 00:22:56.500
+nutzende KI Systeme als
+
+688
+00:22:56.500 --> 00:22:58.876
+intelligent oder sogar emotional
+
+689
+00:22:58.876 --> 00:23:01.036
+empfinden, obwohl sie lediglich
+
+690
+00:23:01.036 --> 00:23:03.420
+komplexe Algorithmen ausführen.
+
+691
+00:23:03.420 --> 00:23:05.740
+Diese Tendenz kann sowohl positive
+
+692
+00:23:05.740 --> 00:23:07.436
+als auch negative Auswirkungen
+
+693
+00:23:07.436 --> 00:23:09.452
+haben, wie etwa die Überbewertung
+
+694
+00:23:09.452 --> 00:23:11.540
+der Fähigkeiten von KI oder
+
+695
+00:23:11.540 --> 00:23:13.692
+die Verzerrung moralischer Urteile
+
+696
+00:23:13.692 --> 00:23:15.280
+über deren Verantwortung.
+
+697
+00:23:16.980 --> 00:23:19.468
+Die Begriffe künstliche Intelligenz
+
+698
+00:23:19.468 --> 00:23:21.916
+und Lernen sind in der Informatik
+
+699
+00:23:21.916 --> 00:23:24.012
+seit Jahrzehnten fest etabliert.
+
+700
+00:23:24.012 --> 00:23:25.964
+Sie dienen dazu, komplexe
+
+701
+00:23:25.964 --> 00:23:27.766
+Konzepte zu beschreiben, wie
+
+702
+00:23:27.766 --> 00:23:29.678
+etwa die Fähigkeit von Computern,
+
+703
+00:23:29.678 --> 00:23:31.534
+aus Datenmuster zu erkennen
+
+704
+00:23:31.534 --> 00:23:33.490
+und Aufgaben zu lösen.
+
+705
+00:23:34.070 --> 00:23:35.918
+Diese Fachbegriffe sind tief
+
+706
+00:23:35.918 --> 00:23:37.350
+in der akademischen und
+
+707
+00:23:37.350 --> 00:23:39.486
+industriellen Praxis verwurzelt
+
+708
+00:23:39.486 --> 00:23:41.390
+und schwer zu ersetzen.
+
+709
+00:23:41.390 --> 00:23:42.806
+Gleichzeitig tragen sie
+
+710
+00:23:42.806 --> 00:23:44.534
+jedoch auch dazu bei, dass
+
+711
+00:23:44.534 --> 00:23:46.006
+KI Systeme oft als
+
+712
+00:23:46.006 --> 00:23:47.374
+selbstständig denkende
+
+713
+00:23:47.374 --> 00:23:49.270
+Entitäten wahrgenommen werden
+
+714
+00:23:49.270 --> 00:23:50.470
+eine Vorstellung, die
+
+715
+00:23:50.470 --> 00:23:52.286
+durch die Anthropomorphisierung
+
+716
+00:23:52.286 --> 00:23:53.370
+verstärkt wird.
+
+717
+00:23:54.720 --> 00:23:57.056
+Folgen der Anthropomorphisierung im
+
+718
+00:23:57.056 --> 00:23:59.448
+Zusammenhang mit KI können demnach
+
+719
+00:23:59.448 --> 00:24:01.264
+sein, dass die Betreiber von
+
+720
+00:24:01.264 --> 00:24:03.536
+KI Systemen möglicherweise von
+
+721
+00:24:03.536 --> 00:24:05.720
+dieser Wahrnehmung profitieren.
+
+722
+00:24:05.720 --> 00:24:08.680
+Wenn KI Systeme als intelligent
+
+723
+00:24:08.680 --> 00:24:10.944
+gelten und ihre Ergebnisse als
+
+724
+00:24:10.944 --> 00:24:12.896
+autonom angesehen werden, kann
+
+725
+00:24:12.896 --> 00:24:14.640
+dies dazu führen, dass die
+
+726
+00:24:14.640 --> 00:24:16.640
+Verantwortung für Fehler oder
+
+727
+00:24:16.640 --> 00:24:18.968
+Falschaussagen auf die Systeme
+
+728
+00:24:18.968 --> 00:24:20.738
+selbst verschoben wird, anstatt
+
+729
+00:24:20.738 --> 00:24:21.866
+auf die Entwickler und
+
+730
+00:24:21.866 --> 00:24:23.730
+Entwicklerinnen oder Betreiber
+
+731
+00:24:23.730 --> 00:24:25.346
+und Betreiberinnen.
+
+732
+00:24:25.346 --> 00:24:27.210
+Auch die Nutzenden selbst sind
+
+733
+00:24:27.210 --> 00:24:28.970
+immer in der Verpflichtung, die
+
+734
+00:24:28.970 --> 00:24:31.746
+Ausgaben eines LLMs zu überprüfen.
+
+735
+00:24:31.746 --> 00:24:33.842
+Die Öffentlichkeit könnte dadurch
+
+736
+00:24:33.842 --> 00:24:35.458
+glauben, dass die Systeme
+
+737
+00:24:35.458 --> 00:24:37.466
+unabhängig handeln und nicht von
+
+738
+00:24:37.466 --> 00:24:39.386
+Menschen kontrolliert werden.
+
+739
+00:24:39.386 --> 00:24:41.290
+Dies birgt das Risiko einer
+
+740
+00:24:41.290 --> 00:24:42.546
+mangelnden Transparenz
+
+741
+00:24:42.546 --> 00:24:44.338
+und Verantwortlichkeit.
+
+742
+00:24:44.338 --> 00:24:46.266
+In Wirklichkeit sind jedoch die
+
+743
+00:24:46.266 --> 00:24:48.002
+Entwickler und Entwicklerinnen
+
+744
+00:24:48.002 --> 00:24:50.122
+und Betreiber und Betreiberinnen
+
+745
+00:24:50.122 --> 00:24:51.568
+für die Qualität und Sicherheit
+
+746
+00:24:51.568 --> 00:24:54.020
+der KI Systeme verantwortlich.
+
+747
+00:24:54.680 --> 00:24:56.632
+Insgesamt zeigt sich also,
+
+748
+00:24:56.632 --> 00:24:58.032
+dass die Art und Weise,
+
+749
+00:24:58.032 --> 00:25:00.016
+wie wir über KI sprechen,
+
+750
+00:25:00.016 --> 00:25:02.008
+insbesondere durch Begriffe wie
+
+751
+00:25:02.008 --> 00:25:04.080
+Intelligenz und Lernen,
+
+752
+00:25:04.080 --> 00:25:06.340
+unsere Wahrnehmung beeinflussen.
+
+753
+00:25:07.000 --> 00:25:08.840
+Es ist wichtig, zwischen der
+
+754
+00:25:08.840 --> 00:25:10.760
+tatsächlichen Funktionsweise von
+
+755
+00:25:10.760 --> 00:25:12.984
+KI Systemen und der durch
+
+756
+00:25:12.984 --> 00:25:15.024
+Anthropomorphisierung geprägten
+
+757
+00:25:15.024 --> 00:25:17.060
+Vorstellung zu unterscheiden.
+
+758
+00:25:17.060 --> 00:25:19.316
+Nur so kann sichergestellt werden,
+
+759
+00:25:19.316 --> 00:25:21.316
+dass Verantwortung für Fehler und
+
+760
+00:25:21.316 --> 00:25:22.860
+Entscheidungen klar den Menschen
+
+761
+00:25:22.860 --> 00:25:25.228
+zugewiesen wird, die diese Systeme
+
+762
+00:25:25.228 --> 00:25:28.080
+entwickeln, betreiben und nutzen.
+
+763
+00:25:30.820 --> 00:25:32.276
+Herausforderungen bei der
+
+764
+00:25:32.276 --> 00:25:35.452
+Verwendung von LLMs Die Verwendung
+
+765
+00:25:35.452 --> 00:25:37.388
+von LLMs bietet viele
+
+766
+00:25:37.388 --> 00:25:39.796
+Möglichkeiten, komplexe Texte zu
+
+767
+00:25:39.796 --> 00:25:41.836
+generieren und zu bearbeiten.
+
+768
+00:25:41.836 --> 00:25:43.788
+Doch trotz ihrer beeindruckenden
+
+769
+00:25:43.788 --> 00:25:45.300
+Fähigkeiten gibt es
+
+770
+00:25:45.300 --> 00:25:47.220
+einige Herausforderungen, die
+
+771
+00:25:47.220 --> 00:25:48.800
+beachtet werden müssen.
+
+772
+00:25:51.520 --> 00:25:53.592
+Eine der größten Herausforderungen
+
+773
+00:25:53.592 --> 00:25:54.976
+ist die Abhängigkeit von
+
+774
+00:25:54.976 --> 00:25:57.936
+der Eingabequalität, denn die
+
+775
+00:25:57.936 --> 00:26:00.232
+Qualität der Ausgaben hängt
+
+776
+00:26:00.232 --> 00:26:01.696
+stark von der Qualität und
+
+777
+00:26:01.696 --> 00:26:04.128
+Detailliertheit der Eingaben ab.
+
+778
+00:26:04.128 --> 00:26:05.840
+Zudem sind die Ausgaben von
+
+779
+00:26:05.840 --> 00:26:08.152
+LLMs nicht immer konsistent,
+
+780
+00:26:08.152 --> 00:26:10.072
+was bedeutet, dass dieselbe
+
+781
+00:26:10.072 --> 00:26:11.432
+Eingabe unterschiedliche
+
+782
+00:26:11.432 --> 00:26:13.060
+Ergebnisse liefern kann.
+
+783
+00:26:14.160 --> 00:26:15.696
+Diese Herausforderungen zu
+
+784
+00:26:15.696 --> 00:26:17.256
+meistern, ist es wichtig,
+
+785
+00:26:17.256 --> 00:26:18.992
+die Eingaben sorgfältig zu
+
+786
+00:26:18.992 --> 00:26:21.012
+gestalten und die Ergebnisse
+
+787
+00:26:21.012 --> 00:26:22.440
+kritisch zu bewerten.
+
+788
+00:26:23.340 --> 00:26:24.796
+Im Folgenden wird sich mit
+
+789
+00:26:24.796 --> 00:26:26.116
+diesen Herausforderungen
+
+790
+00:26:26.116 --> 00:26:28.324
+auseinandergesetzt und Strategien
+
+791
+00:26:28.324 --> 00:26:29.676
+erörtert, wie man die
+
+792
+00:26:29.676 --> 00:26:31.516
+Qualität und Konsistenz der
+
+793
+00:26:31.516 --> 00:26:33.280
+Ausgaben verbessern kann.
+
+794
+00:26:33.900 --> 00:26:35.436
+Wenn sie beispielsweise eine
+
+795
+00:26:35.436 --> 00:26:37.252
+Rede in Ihrem persönlichen Stil
+
+796
+00:26:37.252 --> 00:26:38.884
+erstellen lassen möchten,
+
+797
+00:26:38.884 --> 00:26:41.356
+ist es ratsam, dem LLM drei
+
+798
+00:26:41.356 --> 00:26:43.108
+bis vier ihrer eigenen Texte
+
+799
+00:26:43.108 --> 00:26:44.868
+zur Verfügung zu stellen.
+
+800
+00:26:44.868 --> 00:26:46.946
+Auf dieser Grundlage kann das
+
+801
+00:26:46.946 --> 00:26:49.146
+Modell ihren Stil besser verstehen
+
+802
+00:26:49.146 --> 00:26:51.066
+und eine neue Rede erstellen,
+
+803
+00:26:51.066 --> 00:26:53.070
+die ihren Erwartungen entspricht.
+
+804
+00:26:53.730 --> 00:26:55.842
+Da die Ausgaben von LMS nicht
+
+805
+00:26:55.842 --> 00:26:57.658
+immer konsistent sind, empfiehlt
+
+806
+00:26:57.658 --> 00:26:58.586
+es sich, den gleichen
+
+807
+00:26:58.586 --> 00:27:00.410
+Eingabeprompt mehrmals,
+
+808
+00:27:00.410 --> 00:27:01.586
+gegebenenfalls auch in
+
+809
+00:27:01.586 --> 00:27:03.354
+unterschiedlichen Sprachmodellen
+
+810
+00:27:03.354 --> 00:27:04.946
+zu verwenden und aus den
+
+811
+00:27:04.946 --> 00:27:06.786
+verschiedenen Ergebnissen das
+
+812
+00:27:06.786 --> 00:27:08.730
+beste auszuwählen.
+
+813
+00:27:08.730 --> 00:27:10.226
+Dieser Ansatz hilft, die
+
+814
+00:27:10.226 --> 00:27:12.746
+beste mögliche Ausgabe zu erzielen
+
+815
+00:27:12.746 --> 00:27:14.086
+und die Konsistenz der
+
+816
+00:27:14.086 --> 00:27:15.810
+Ergebnisse zu verbessern.
+
+817
+00:27:17.030 --> 00:27:19.174
+Perplexity bietet z.B.
+
+818
+00:27:19.174 --> 00:27:21.502
+an, mit Hilfe des gleichen Prompts
+
+819
+00:27:21.502 --> 00:27:23.006
+Ausgaben mit unterschiedlichen
+
+820
+00:27:23.006 --> 00:27:25.310
+Sprachmodellen zu erstellen.
+
+821
+00:27:25.310 --> 00:27:27.110
+Auch hierdurch können sehr
+
+822
+00:27:27.110 --> 00:27:29.570
+unterschiedliche Texte entstehen.
+
+823
+00:27:32.790 --> 00:27:34.926
+Die Verwendung von Large language
+
+824
+00:27:34.926 --> 00:27:36.470
+Modellen zur Generierung von
+
+825
+00:27:36.470 --> 00:27:38.006
+Feedback und Bewertungen für
+
+826
+00:27:38.006 --> 00:27:40.036
+Schülerinnen und Schüler ist ein
+
+827
+00:27:40.036 --> 00:27:42.028
+komplexes Thema, das sowohl
+
+828
+00:27:42.028 --> 00:27:43.620
+durch Automatisierung von
+
+829
+00:27:43.620 --> 00:27:45.636
+Prozessen Vorteile und
+
+830
+00:27:45.636 --> 00:27:47.844
+Arbeitserleichterungen als auch
+
+831
+00:27:47.844 --> 00:27:49.220
+Herausforderungen und
+
+832
+00:27:49.220 --> 00:27:51.100
+Einschränkungen mit sich bringt,
+
+833
+00:27:51.100 --> 00:27:52.548
+die berücksichtigt werden
+
+834
+00:27:52.548 --> 00:27:53.360
+müssen.
+
+835
+00:27:53.940 --> 00:27:57.228
+Bitte beachten KI Systeme
+
+836
+00:27:57.228 --> 00:27:58.764
+zur Leistungsbeurteilung
+
+837
+00:27:58.764 --> 00:28:01.876
+werden gemäß EU AI Act als
+
+838
+00:28:01.876 --> 00:28:03.996
+hochriskant eingestuft.
+
+839
+00:28:03.996 --> 00:28:05.540
+Bitte prüfen sie die für
+
+840
+00:28:05.540 --> 00:28:07.280
+sie gängigen Vorgaben.
+
+841
+00:28:08.040 --> 00:28:09.712
+Die Verwendung von Large
+
+842
+00:28:09.712 --> 00:28:11.616
+language Modellen zur Generierung
+
+843
+00:28:11.616 --> 00:28:13.136
+von Feedback und Bewertungen
+
+844
+00:28:13.136 --> 00:28:14.768
+für Schülerinnen und Schüler
+
+845
+00:28:14.768 --> 00:28:16.520
+ist problematisch, da
+
+846
+00:28:16.520 --> 00:28:19.016
+ihre Ausgaben instabil sind.
+
+847
+00:28:19.016 --> 00:28:20.696
+Sowohl das Feedback als auch
+
+848
+00:28:20.696 --> 00:28:22.160
+die Bewertungen variieren
+
+849
+00:28:22.160 --> 00:28:24.512
+stark, was zu inkonsistenten
+
+850
+00:28:24.512 --> 00:28:26.160
+Ergebnissen führt.
+
+851
+00:28:26.160 --> 00:28:27.976
+Ein häufiges Argument ist,
+
+852
+00:28:27.976 --> 00:28:29.008
+dass auch menschliche
+
+853
+00:28:29.008 --> 00:28:31.192
+Bewertungen variieren können.
+
+854
+00:28:31.192 --> 00:28:33.560
+Wenn man diesem Argument zustimmt,
+
+855
+00:28:33.560 --> 00:28:35.118
+bieten LLMs in diesem
+
+856
+00:28:35.118 --> 00:28:36.702
+Bereich keinen wesentlichen
+
+857
+00:28:36.702 --> 00:28:38.846
+Vorteil, außer möglicherweise
+
+858
+00:28:38.846 --> 00:28:40.542
+eine Arbeitserleichterung
+
+859
+00:28:40.542 --> 00:28:42.130
+durch die Automatisierung.
+
+860
+00:28:43.030 --> 00:28:44.870
+Ein entscheidender Nachteil von
+
+861
+00:28:44.870 --> 00:28:46.966
+LLMs ist jedoch, dass sie im
+
+862
+00:28:46.966 --> 00:28:48.622
+Zweifelsfall nicht erklären
+
+863
+00:28:48.622 --> 00:28:50.654
+können, wie eine bestimmte Ausgabe
+
+864
+00:28:50.654 --> 00:28:52.438
+zustande gekommen ist.
+
+865
+00:28:52.438 --> 00:28:54.150
+Wenn eine Rechtfertigung oder
+
+866
+00:28:54.150 --> 00:28:56.230
+Begründung erforderlich ist, kann
+
+867
+00:28:56.230 --> 00:28:58.638
+dies sogar mehr Arbeit erfordern
+
+868
+00:28:58.638 --> 00:28:59.998
+als eine eigenständige
+
+869
+00:28:59.998 --> 00:29:02.150
+Bewertung durch einen Menschen.
+
+870
+00:29:02.150 --> 00:29:04.734
+Dies liegt daran, dass LLMs
+
+871
+00:29:04.734 --> 00:29:06.326
+nicht in der Lage sind, den
+
+872
+00:29:06.326 --> 00:29:08.270
+entscheidungsprozess transparent
+
+873
+00:29:08.270 --> 00:29:10.382
+zu machen oder die zugrunde
+
+874
+00:29:10.382 --> 00:29:11.526
+liegenden Gründe für ihre
+
+875
+00:29:11.526 --> 00:29:13.486
+Bewertungen zu erläutern.
+
+876
+00:29:13.486 --> 00:29:15.726
+Daher können sie in Situationen,
+
+877
+00:29:15.726 --> 00:29:17.350
+in denen Transparenz und
+
+878
+00:29:17.350 --> 00:29:19.494
+Nachvollziehbarkeit wichtig sind,
+
+879
+00:29:19.494 --> 00:29:21.606
+nicht vollständig als Ersatz für
+
+880
+00:29:21.606 --> 00:29:23.758
+menschliche Bewertungen dienen.
+
+881
+00:29:23.758 --> 00:29:25.190
+Letztendlich bleibt die
+
+882
+00:29:25.190 --> 00:29:26.966
+Verantwortung für die Nutzung und
+
+883
+00:29:26.966 --> 00:29:29.150
+die Ergebnisse solcher Systeme
+
+884
+00:29:29.150 --> 00:29:30.550
+immer beim Menschen.
+
+885
+00:29:33.290 --> 00:29:35.426
+Die Verwendung von Large language
+
+886
+00:29:35.426 --> 00:29:37.074
+Modellen im Bildungsbereich
+
+887
+00:29:37.074 --> 00:29:38.826
+bietet viele Möglichkeiten,
+
+888
+00:29:38.826 --> 00:29:40.810
+den Unterricht zu bereichern und
+
+889
+00:29:40.810 --> 00:29:43.394
+die Lernergebnisse zu verbessern.
+
+890
+00:29:43.394 --> 00:29:45.090
+Doch auch hier existieren
+
+891
+00:29:45.090 --> 00:29:46.634
+Herausforderungen, die
+
+892
+00:29:46.634 --> 00:29:48.890
+beachtet werden müssen.
+
+893
+00:29:48.890 --> 00:29:50.642
+Die Ausgaben von Large
+
+894
+00:29:50.642 --> 00:29:52.370
+Language Modellen basieren
+
+895
+00:29:52.370 --> 00:29:53.906
+auf riesigen Datenmengen
+
+896
+00:29:53.906 --> 00:29:55.698
+und sind sehr umfassend.
+
+897
+00:29:55.698 --> 00:29:57.650
+Sie klingen oft so, als ob sie
+
+898
+00:29:57.650 --> 00:29:59.226
+genau das sagen, was Schüler
+
+899
+00:29:59.226 --> 00:30:00.778
+und Schülerinnen glauben,
+
+900
+00:30:00.778 --> 00:30:03.082
+dass eine Lehrkraft hören möchte.
+
+901
+00:30:03.082 --> 00:30:05.162
+Die Qualität dieser Ausgaben
+
+902
+00:30:05.162 --> 00:30:06.962
+übertrifft zudem häufig das,
+
+903
+00:30:06.962 --> 00:30:08.826
+was Schüler und Schülerinnen
+
+904
+00:30:08.826 --> 00:30:10.310
+selbst erreichen können.
+
+905
+00:30:10.930 --> 00:30:12.906
+Dies kann jedoch problematisch
+
+906
+00:30:12.906 --> 00:30:15.090
+sein, da die reine Ausgabe eines
+
+907
+00:30:15.090 --> 00:30:17.338
+Produkts wichtige Prozessschritte
+
+908
+00:30:17.338 --> 00:30:18.990
+beim Lernen überspringt.
+
+909
+00:30:19.730 --> 00:30:21.570
+Entscheidend beim Lernen ist nicht
+
+910
+00:30:21.570 --> 00:30:23.406
+nur das Endprodukt, sondern
+
+911
+00:30:23.406 --> 00:30:25.302
+vielmehr der Prozess, der zu
+
+912
+00:30:25.302 --> 00:30:27.414
+diesem Produkt führt, da dieser
+
+913
+00:30:27.414 --> 00:30:29.606
+Prozess die Fähigkeiten und das
+
+914
+00:30:29.606 --> 00:30:31.222
+Verständnis der Schüler und
+
+915
+00:30:31.222 --> 00:30:32.974
+Schülerinnen entwickelt.
+
+916
+00:30:32.974 --> 00:30:34.886
+Wenn LLMs die Schüler und
+
+917
+00:30:34.886 --> 00:30:36.286
+Schülerinnen bei der Erstellung
+
+918
+00:30:36.286 --> 00:30:38.014
+von Texten unterstützen,
+
+919
+00:30:38.014 --> 00:30:39.534
+könnte dies die tiefere
+
+920
+00:30:39.534 --> 00:30:41.030
+Auseinandersetzung mit
+
+921
+00:30:41.030 --> 00:30:42.850
+dem Lernstoff behindern.
+
+922
+00:30:45.750 --> 00:30:47.694
+Trotz aller Herausforderungen,
+
+923
+00:30:47.694 --> 00:30:49.422
+die mit der Verwendung von KI
+
+924
+00:30:49.422 --> 00:30:51.626
+Technologien verbunden sind, gibt
+
+925
+00:30:51.626 --> 00:30:53.706
+es auch erhebliche Vorteile, die
+
+926
+00:30:53.706 --> 00:30:55.670
+sie dem Bildungsbereich bieten.
+
+927
+00:30:58.330 --> 00:31:00.722
+Denn die Stärken von KI Tools
+
+928
+00:31:00.722 --> 00:31:01.930
+zeigen sich vor allem in
+
+929
+00:31:01.930 --> 00:31:03.450
+Bereichen, in denen die
+
+930
+00:31:03.450 --> 00:31:05.450
+Ausgaben klar strukturiert und
+
+931
+00:31:05.450 --> 00:31:07.498
+statistisch konsistent sind,
+
+932
+00:31:07.498 --> 00:31:09.050
+wie beispielsweise bei
+
+933
+00:31:09.050 --> 00:31:10.250
+formalisierten oder
+
+934
+00:31:10.250 --> 00:31:11.314
+standardisierten
+
+935
+00:31:11.314 --> 00:31:12.550
+Aufgabenstellungen.
+
+936
+00:31:13.290 --> 00:31:15.794
+So können LLMs unstrukturierte
+
+937
+00:31:15.794 --> 00:31:17.530
+Texte in Tabellen oder
+
+938
+00:31:17.530 --> 00:31:19.354
+Spreadsheets umwandeln,
+
+939
+00:31:19.354 --> 00:31:21.420
+standardisierte Formulare oder
+
+940
+00:31:21.420 --> 00:31:23.436
+Fragebögen generieren, die
+
+941
+00:31:23.436 --> 00:31:25.476
+bestimmten Vorlagen entsprechen,
+
+942
+00:31:25.476 --> 00:31:27.940
+oder lange Dokumente in präzise
+
+943
+00:31:27.940 --> 00:31:30.052
+und organisierte Zusammenfassungen
+
+944
+00:31:30.052 --> 00:31:32.052
+umwandeln, die wichtige Punkte
+
+945
+00:31:32.052 --> 00:31:33.240
+hervorheben.
+
+946
+00:31:35.900 --> 00:31:37.820
+Im folgenden Abschnitt wird eine
+
+947
+00:31:37.820 --> 00:31:39.756
+praktische Anwendung von KI im
+
+948
+00:31:39.756 --> 00:31:41.740
+Bildungsbereich vorgestellt.
+
+949
+00:31:41.740 --> 00:31:43.828
+Weitere Verweise auf konkrete
+
+950
+00:31:43.828 --> 00:31:46.184
+Praxisbeispiele finden sie in den
+
+951
+00:31:46.184 --> 00:31:48.180
+Anschlüssen zu diesem Kurs.
+
+952
+00:31:48.920 --> 00:31:51.024
+Die Erstellung von differenziertem
+
+953
+00:31:51.024 --> 00:31:52.376
+Übungsmaterial im
+
+954
+00:31:52.376 --> 00:31:54.648
+Fremdsprachenunterricht kann z.B.
+
+955
+00:31:54.648 --> 00:31:56.176
+durch den Einsatz von KI
+
+956
+00:31:56.176 --> 00:31:58.288
+Technologien erheblich erleichtert
+
+957
+00:31:58.288 --> 00:31:59.660
+und erweitert werden.
+
+958
+00:32:00.440 --> 00:32:01.888
+Eine Möglichkeit hierfür
+
+959
+00:32:01.888 --> 00:32:03.760
+sind Hörverstehensübungen,
+
+960
+00:32:03.760 --> 00:32:05.016
+die in Kombination mit
+
+961
+00:32:05.016 --> 00:32:06.608
+verschiedenen generativen
+
+962
+00:32:06.608 --> 00:32:08.140
+Systemen erstellt werden.
+
+963
+00:32:08.920 --> 00:32:10.416
+Mit Hilfe von gezielten
+
+964
+00:32:10.416 --> 00:32:12.390
+Prompts werden Texte z.B.
+
+965
+00:32:12.390 --> 00:32:15.352
+zum Thema Reisen durch Frankreich
+
+966
+00:32:15.352 --> 00:32:16.152
+für verschiedene
+
+967
+00:32:16.152 --> 00:32:17.824
+Anforderungsniveaus mit
+
+968
+00:32:17.824 --> 00:32:20.080
+KI Chatbots generiert.
+
+969
+00:32:20.080 --> 00:32:21.584
+Diese Texte dienen dann
+
+970
+00:32:21.584 --> 00:32:22.720
+als Grundlage für
+
+971
+00:32:22.720 --> 00:32:24.300
+Hörverstehensübungen.
+
+972
+00:32:25.296 --> 00:32:26.872
+Die Übungen noch interaktiver
+
+973
+00:32:26.872 --> 00:32:28.624
+zu gestalten, nutzen sie
+
+974
+00:32:28.624 --> 00:32:31.216
+generative Audio KI Systeme,
+
+975
+00:32:31.216 --> 00:32:34.240
+die Texte in Hörtexte umzuwandeln.
+
+976
+00:32:34.240 --> 00:32:36.416
+Auch diese KI Systeme stehen auf
+
+977
+00:32:36.416 --> 00:32:38.664
+vielen Plattformen zur Verfügung.
+
+978
+00:32:38.664 --> 00:32:40.584
+Solche angepassten Hörtexte
+
+979
+00:32:40.584 --> 00:32:42.168
+ermöglichen es den Schülerinnen
+
+980
+00:32:42.168 --> 00:32:43.874
+und Schülern, ihre Fähigkeiten
+
+981
+00:32:43.874 --> 00:32:45.890
+im Hörverstehen zu üben.
+
+982
+00:32:45.890 --> 00:32:47.706
+Alternativ sprechen sie die
+
+983
+00:32:47.706 --> 00:32:50.426
+Texte ein, wollen sie die
+
+984
+00:32:50.426 --> 00:32:52.234
+Übungen und Texte dazu weiter
+
+985
+00:32:52.234 --> 00:32:53.694
+vereinfachen oder z.B.
+
+986
+00:32:53.694 --> 00:32:56.890
+auf ein a Niveau anpassen.
+
+987
+00:32:56.890 --> 00:32:58.266
+Hier kann zusätzlich ein
+
+988
+00:32:58.266 --> 00:33:00.634
+textvereinfacher Tool oder ein
+
+989
+00:33:00.634 --> 00:33:02.578
+einfacher Prompt helfen.
+
+990
+00:33:02.578 --> 00:33:04.490
+Die Inhalte der Texte werden
+
+991
+00:33:04.490 --> 00:33:05.586
+durch die Umwandlung
+
+992
+00:33:05.586 --> 00:33:08.026
+kondensierter und strukturierter,
+
+993
+00:33:08.026 --> 00:33:09.362
+sie für die Schüler besser
+
+994
+00:33:09.362 --> 00:33:10.882
+zugänglich zu machen.
+
+995
+00:33:10.882 --> 00:33:12.210
+Einen Link dazu zum
+
+996
+00:33:12.210 --> 00:33:13.586
+Ausprobieren finden sie im
+
+997
+00:33:13.586 --> 00:33:15.390
+Kurs unter Vertiefung.
+
+998
+00:33:15.970 --> 00:33:17.562
+Entwickeln sie zusätzliche
+
+999
+00:33:17.562 --> 00:33:19.050
+Hörverstehensübungen,
+
+1000
+00:33:19.050 --> 00:33:20.234
+die auf die generierten
+
+1001
+00:33:20.234 --> 00:33:22.114
+Hörtexte abgestimmt sind.
+
+1002
+00:33:22.114 --> 00:33:24.650
+Beispiele könnten Multiple Choice
+
+1003
+00:33:24.650 --> 00:33:26.618
+Fragen, Lückenfüllübungen
+
+1004
+00:33:26.618 --> 00:33:28.630
+oder Diskussionsfragen sein.
+
+1005
+00:33:29.410 --> 00:33:30.842
+Durch Diese Kombination
+
+1006
+00:33:30.842 --> 00:33:32.450
+von Technologien können
+
+1007
+00:33:32.450 --> 00:33:34.362
+Lehrkräfte ein breites Spektrum
+
+1008
+00:33:34.362 --> 00:33:35.818
+an Übungsmaterialien
+
+1009
+00:33:35.818 --> 00:33:37.232
+erstellen, das auf die
+
+1010
+00:33:37.232 --> 00:33:38.728
+unterschiedlichen Bedürfnisse
+
+1011
+00:33:38.728 --> 00:33:39.592
+ihrer Schüler
+
+1012
+00:33:39.592 --> 00:33:41.860
+und Schülerinnen abgestimmt ist.
+
+1013
+00:33:43.760 --> 00:33:45.928
+Das Video bietet einen umfassenden
+
+1014
+00:33:45.928 --> 00:33:47.512
+Überblick über die Grundlagen
+
+1015
+00:33:47.512 --> 00:33:49.340
+der künstlichen Intelligenz
+
+1016
+00:33:50.000 --> 00:33:52.520
+und des maschinellen Lernens.
+
+1017
+00:33:52.520 --> 00:33:53.744
+Ein wichtiger Teil des
+
+1018
+00:33:53.744 --> 00:33:55.200
+Videos beschäftigt sich mit
+
+1019
+00:33:55.200 --> 00:33:56.984
+Large language Modellen.
+
+1020
+00:33:56.984 --> 00:33:59.224
+LLMs sind in der Lage, Texte
+
+1021
+00:33:59.224 --> 00:34:01.144
+zu generieren und zu verstehen,
+
+1022
+00:34:01.144 --> 00:34:02.328
+basierend auf riesigen
+
+1023
+00:34:02.328 --> 00:34:03.962
+Datenmengen, die sie während
+
+1024
+00:34:03.962 --> 00:34:04.938
+eines langwierigen
+
+1025
+00:34:04.938 --> 00:34:07.074
+Trainingsprozesses gelernt haben.
+
+1026
+00:34:07.074 --> 00:34:08.306
+Allerdings verstehen sie
+
+1027
+00:34:08.306 --> 00:34:09.722
+Sprache nicht im menschlichen
+
+1028
+00:34:09.722 --> 00:34:11.562
+Sinne, sondern verarbeiten
+
+1029
+00:34:11.562 --> 00:34:13.870
+lediglich statistische Muster.
+
+1030
+00:34:14.530 --> 00:34:17.050
+Das Nim Spiel wird als Beispiel
+
+1031
+00:34:17.050 --> 00:34:19.313
+genutzt, die Funktionsweise des
+
+1032
+00:34:19.313 --> 00:34:21.562
+maschinellen Lernens zu erklären.
+
+1033
+00:34:21.562 --> 00:34:23.969
+Es zeigt, wie KI Systeme durch
+
+1034
+00:34:23.969 --> 00:34:26.210
+Trial and Error lernen können,
+
+1035
+00:34:26.210 --> 00:34:28.350
+optimale Strategien zu entwickeln.
+
+1036
+00:34:29.260 --> 00:34:31.516
+Das Video erklärt zudem, wie im
+
+1037
+00:34:31.516 --> 00:34:33.764
+Rahmen der KI Verarbeitung Texte
+
+1038
+00:34:33.764 --> 00:34:35.500
+in Tokens zerlegt werden,
+
+1039
+00:34:35.500 --> 00:34:37.908
+statistische Muster zu erkennen.
+
+1040
+00:34:37.908 --> 00:34:39.755
+Als anschauliches Beispiel für
+
+1041
+00:34:39.755 --> 00:34:41.732
+die Anwendung dieser Technologie
+
+1042
+00:34:41.732 --> 00:34:43.012
+wird ein Märchenbaum
+
+1043
+00:34:43.012 --> 00:34:44.772
+genutzt, der durch die Analyse
+
+1044
+00:34:44.772 --> 00:34:47.000
+von Märchenanfängen entsteht.
+
+1045
+00:34:47.659 --> 00:34:49.235
+Weiterhin werden praktische
+
+1046
+00:34:49.235 --> 00:34:51.428
+Anwendungen von KI vor allem
+
+1047
+00:34:51.428 --> 00:34:52.684
+die Unterstützung bei der
+
+1048
+00:34:52.684 --> 00:34:54.324
+Planung eines differenzierten
+
+1049
+00:34:54.324 --> 00:34:56.284
+Fremdsprachenunterrichts.
+
+1050
+00:34:56.284 --> 00:34:58.054
+Durch das Video wird klar,
+
+1051
+00:34:58.054 --> 00:34:58.910
+dass sowohl ein
+
+1052
+00:34:58.910 --> 00:35:00.510
+grundlegendes Verständnis von
+
+1053
+00:35:00.510 --> 00:35:02.582
+KI und maschinellem Lernen
+
+1054
+00:35:02.582 --> 00:35:03.790
+als auch das Wissen
+
+1055
+00:35:03.790 --> 00:35:05.774
+ihre Grenzen notwendig ist,
+
+1056
+00:35:05.774 --> 00:35:07.046
+diese Technologien
+
+1057
+00:35:07.046 --> 00:35:08.890
+effizient zu nutzen.
+
+1058
+00:35:15.390 --> 00:35:18.822
+Fun Fact, einige aufmerksame
+
+1059
+00:35:18.822 --> 00:35:20.758
+Beobachter haben festgestellt,
+
+1060
+00:35:20.758 --> 00:35:22.916
+dass das Wort nimmt, wenn man es
+
+1061
+00:35:22.916 --> 00:35:24.556
+auf den Kopf stellt und rückwärts
+
+1062
+00:35:24.556 --> 00:35:27.172
+liest, zum englischen Wort win,
+
+1063
+00:35:27.172 --> 00:35:29.684
+zu deutsch gewinnen wird.
+
+1064
+00:35:29.684 --> 00:35:30.748
+Diese interessante
+
+1065
+00:35:30.748 --> 00:35:32.268
+sprachliche Symmetrie
+
+1066
+00:35:32.268 --> 00:35:34.620
+passt perfekt zur Natur des Nim
+
+1067
+00:35:34.620 --> 00:35:35.876
+Spiels, bei dem es
+
+1068
+00:35:35.876 --> 00:35:37.388
+letztendlich darum geht,
+
+1069
+00:35:37.388 --> 00:35:38.876
+durch strategisches Denken
+
+1070
+00:35:38.876 --> 00:35:40.276
+und geschickte Züge den
+
+1071
+00:35:40.276 --> 00:35:41.820
+Sieg zu erringen.
+
+1072
+00:35:41.820 --> 00:35:43.820
+Diese visuelle Wortspielerei
+
+1073
+00:35:43.820 --> 00:35:44.676
+unterstreicht die
+
+1074
+00:35:44.676 --> 00:35:46.172
+elegante Verbindung zwischen
+
+1075
+00:35:46.172 --> 00:35:47.876
+dem Namen des Spiels und
+
+1076
+00:35:47.876 --> 00:35:49.500
+seinem ultimativen Ziel.

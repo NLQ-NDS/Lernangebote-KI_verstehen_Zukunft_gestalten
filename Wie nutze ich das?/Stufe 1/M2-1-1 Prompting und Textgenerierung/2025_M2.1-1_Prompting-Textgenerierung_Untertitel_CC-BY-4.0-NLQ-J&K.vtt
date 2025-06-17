@@ -1,0 +1,4441 @@
+WEBVTT
+
+1
+00:00:06.720 --> 00:00:07.720
+Herzlich willkommen zu
+
+2
+00:00:07.720 --> 00:00:10.120
+unserem Video über KI Prompting
+
+3
+00:00:10.120 --> 00:00:11.360
+und Textgenerierung.
+
+4
+00:00:13.840 --> 00:00:15.760
+Was verbirgt sich dahinter und
+
+5
+00:00:15.760 --> 00:00:17.840
+warum sollten gerade Mitarbeitende
+
+6
+00:00:17.840 --> 00:00:19.280
+in Schulen und Verwaltungen
+
+7
+00:00:19.280 --> 00:00:20.480
+sich damit beschäftigen?
+
+8
+00:00:21.680 --> 00:00:24.280
+Prompting bedeutet, einer KI
+
+9
+00:00:24.280 --> 00:00:26.400
+gezielt Eingaben oder Fragen zu
+
+10
+00:00:26.400 --> 00:00:29.020
+stellen, hilfreiche Antworten,
+
+11
+00:00:29.020 --> 00:00:31.580
+Texte oder Bilder zu erhalten.
+
+12
+00:00:31.580 --> 00:00:33.780
+Es geht also darum, wie wir mit
+
+13
+00:00:33.780 --> 00:00:36.300
+einer KI sprechen, damit
+
+14
+00:00:36.300 --> 00:00:38.780
+sinnvolle Ergebnisse entstehen.
+
+15
+00:00:38.780 --> 00:00:40.540
+Textgenerierung bezeichnet
+
+16
+00:00:40.540 --> 00:00:43.420
+die Fähigkeit moderner KI Systeme,
+
+17
+00:00:43.420 --> 00:00:44.660
+verständliche Texte
+
+18
+00:00:44.660 --> 00:00:46.100
+in verschiedenen Stilen und
+
+19
+00:00:46.100 --> 00:00:47.340
+Formaten zu verfassen.
+
+20
+00:00:47.900 --> 00:00:49.900
+Sei es eine Zusammenfassung,
+
+21
+00:00:49.900 --> 00:00:52.140
+ein Brief oder sogar ein Gedicht.
+
+22
+00:00:53.110 --> 00:00:54.470
+Letztlich geht es darum,
+
+23
+00:00:54.470 --> 00:00:56.350
+den Input durch einen passenden
+
+24
+00:00:56.350 --> 00:00:58.630
+Prompt so zu formulieren, dass der
+
+25
+00:00:58.630 --> 00:01:00.630
+erwünschte Output im gewünschten
+
+26
+00:01:00.630 --> 00:01:02.070
+Format generiert wird.
+
+27
+00:01:03.110 --> 00:01:04.790
+Dieses Video richtet sich an
+
+28
+00:01:04.790 --> 00:01:05.910
+Lehrkräfte und
+
+29
+00:01:05.910 --> 00:01:07.830
+Verwaltungsmitarbeitende, die
+
+30
+00:01:07.830 --> 00:01:10.390
+wenig Vorkenntnisse mitbringen.
+
+31
+00:01:10.390 --> 00:01:12.510
+Wir möchten ein grundlegendes
+
+32
+00:01:12.510 --> 00:01:14.630
+Verständnis für diese Technologien
+
+33
+00:01:14.630 --> 00:01:16.950
+vermitteln, praktische Beispiele
+
+34
+00:01:16.950 --> 00:01:18.590
+aus dem Unterricht und der
+
+35
+00:01:18.590 --> 00:01:20.810
+Verwaltung zeigen und auch auf
+
+36
+00:01:20.810 --> 00:01:23.010
+ethische Fragestellungen eingehen.
+
+37
+00:01:23.890 --> 00:01:25.650
+Sie erfahren, wie KI
+
+38
+00:01:25.650 --> 00:01:27.810
+Textgeneratoren funktionieren,
+
+39
+00:01:27.810 --> 00:01:30.210
+wie man effektive prompts erstellt
+
+40
+00:01:30.210 --> 00:01:31.970
+und wo sie diese Technik im
+
+41
+00:01:31.970 --> 00:01:33.490
+Schulalltag nutzen können.
+
+42
+00:01:34.130 --> 00:01:35.650
+Außerdem beleuchten wir,
+
+43
+00:01:35.650 --> 00:01:37.370
+welche Chancen und Risiken
+
+44
+00:01:37.370 --> 00:01:39.970
+damit einhergehen vom Datenschutz
+
+45
+00:01:39.970 --> 00:01:41.010
+bis zu möglichen
+
+46
+00:01:41.010 --> 00:01:43.570
+Verzerrungen in KI Antworten.
+
+47
+00:01:43.570 --> 00:01:46.150
+Es geht konkrete Hilfestellungen,
+
+48
+00:01:46.150 --> 00:01:47.590
+reflektierte Anwendung
+
+49
+00:01:47.590 --> 00:01:49.270
+und einen verantwortungsvollen
+
+50
+00:01:49.270 --> 00:01:50.470
+Umgang mit KI.
+
+51
+00:01:54.070 --> 00:01:55.590
+Warum ist das Thema wichtig?
+
+52
+00:01:58.710 --> 00:02:00.310
+Künstliche Intelligenz ist
+
+53
+00:02:00.310 --> 00:02:02.309
+längst Teil unseres schulischen
+
+54
+00:02:02.309 --> 00:02:04.390
+und administrativen Alltags.
+
+55
+00:02:04.390 --> 00:02:06.390
+Ob in der Unterrichtsvorbereitung,
+
+56
+00:02:06.390 --> 00:02:08.310
+bei Elternbriefen oder in
+
+57
+00:02:08.310 --> 00:02:10.070
+der Kommunikation mit Lernenden.
+
+58
+00:02:10.710 --> 00:02:13.030
+Was vor kurzem noch Zukunftsvision,
+
+59
+00:02:13.720 --> 00:02:15.480
+ist heute frei verfügbar
+
+60
+00:02:15.480 --> 00:02:18.160
+und betrifft uns Lehrkräfte,
+
+61
+00:02:18.160 --> 00:02:20.200
+Verwaltungen und nicht zuletzt
+
+62
+00:02:20.200 --> 00:02:21.800
+unsere Schülerinnen und Schüler.
+
+63
+00:02:23.000 --> 00:02:24.840
+KI kann entlasten.
+
+64
+00:02:24.840 --> 00:02:27.480
+Sie hilft, Texte zu strukturieren,
+
+65
+00:02:27.480 --> 00:02:29.000
+Ideen zu entwickeln
+
+66
+00:02:29.000 --> 00:02:31.640
+oder Formulierungen zu verbessern.
+
+67
+00:02:31.640 --> 00:02:33.800
+So gewinnen Lehrende Zeit für
+
+68
+00:02:33.800 --> 00:02:35.320
+die pädagogische Arbeit und
+
+69
+00:02:35.320 --> 00:02:37.200
+Mitarbeitende in der Verwaltung
+
+70
+00:02:37.200 --> 00:02:39.080
+für das Wesentliche im Alltag.
+
+71
+00:02:40.000 --> 00:02:42.040
+Wer KI klug nutzt, kann
+
+72
+00:02:42.040 --> 00:02:43.080
+Arbeitsprozesse
+
+73
+00:02:43.080 --> 00:02:44.480
+effizienter gestalten.
+
+74
+00:02:45.680 --> 00:02:48.040
+Die Technik braucht klare Vorgaben
+
+75
+00:02:48.040 --> 00:02:51.280
+und ein kritisches Auge zugleich.
+
+76
+00:02:51.840 --> 00:02:53.480
+KI Kompetenz wird zur
+
+77
+00:02:53.480 --> 00:02:55.000
+Schlüsselqualifikation für
+
+78
+00:02:55.000 --> 00:02:56.680
+junge Menschen in Ausbildung,
+
+79
+00:02:56.680 --> 00:02:58.160
+Studium und Beruf.
+
+80
+00:02:58.960 --> 00:03:00.640
+Schulen haben den Auftrag,
+
+81
+00:03:00.640 --> 00:03:01.960
+auf diese digitale
+
+82
+00:03:01.960 --> 00:03:03.840
+Zukunft vorzubereiten.
+
+83
+00:03:03.840 --> 00:03:05.840
+Dazu gehört auch, mit KI
+
+84
+00:03:05.840 --> 00:03:08.040
+Systemen produktiv und reflektiert
+
+85
+00:03:08.040 --> 00:03:09.680
+umzugehen und Chancen
+
+86
+00:03:09.680 --> 00:03:11.000
+und Risiken zu erkennen.
+
+87
+00:03:11.640 --> 00:03:14.440
+Für sie bedeutet Vorbild sein
+
+88
+00:03:14.440 --> 00:03:15.640
+im verantwortungsvollen
+
+89
+00:03:15.640 --> 00:03:17.720
+Einsatz dieser Technologien.
+
+90
+00:03:18.520 --> 00:03:20.000
+Verantwortung spielt dabei
+
+91
+00:03:20.000 --> 00:03:22.520
+eine zentrale Datenschutz
+
+92
+00:03:22.520 --> 00:03:24.640
+wahren, ethische Grenzen
+
+93
+00:03:24.640 --> 00:03:27.720
+einhalten, Inhalte überprüfen.
+
+94
+00:03:27.720 --> 00:03:29.800
+Wer mit KI arbeitet, muss
+
+95
+00:03:29.800 --> 00:03:31.560
+wissen, was die Systeme
+
+96
+00:03:31.560 --> 00:03:32.680
+können und was nicht.
+
+97
+00:03:33.460 --> 00:03:35.340
+Denn KI erzeugt Texte auf
+
+98
+00:03:35.340 --> 00:03:36.940
+Basis ihrer Eingabe und
+
+99
+00:03:36.940 --> 00:03:38.860
+Wahrscheinlichkeiten, nicht aus
+
+100
+00:03:38.860 --> 00:03:40.500
+echtem Verständnis heraus.
+
+101
+00:03:41.460 --> 00:03:43.460
+Dieses Video unterstützt sie
+
+102
+00:03:43.460 --> 00:03:45.620
+dabei, KI mit zielführenden
+
+103
+00:03:45.620 --> 00:03:47.420
+Eingaben zu füttern und die
+
+104
+00:03:47.420 --> 00:03:49.620
+Nutzung kritisch zu reflektieren.
+
+105
+00:03:50.420 --> 00:03:51.620
+Ganz im Sinne einer
+
+106
+00:03:51.620 --> 00:03:53.260
+zukunftsorientierten,
+
+107
+00:03:53.260 --> 00:03:54.380
+verantwortungsvollen
+
+108
+00:03:54.380 --> 00:03:55.620
+Bildungspraxis.
+
+109
+00:03:59.790 --> 00:04:01.710
+Schauen wir uns jetzt an, welche
+
+110
+00:04:01.710 --> 00:04:03.750
+Aspekte zum Thema Prompting und
+
+111
+00:04:03.750 --> 00:04:06.350
+Textgenerierung mit KI gehören.
+
+112
+00:04:09.230 --> 00:04:11.350
+Prompting bedeutet, einer KI
+
+113
+00:04:11.350 --> 00:04:13.550
+gezielte Anweisungen zu geben.
+
+114
+00:04:13.550 --> 00:04:15.390
+Gute Prompts sind klar,
+
+115
+00:04:15.390 --> 00:04:17.110
+präzise und liefern der
+
+116
+00:04:17.110 --> 00:04:19.149
+KI den nötigen Kontext.
+
+117
+00:04:19.149 --> 00:04:20.829
+Dabei hilft es, nach bestimmten
+
+118
+00:04:20.829 --> 00:04:22.750
+Mustern vorzugehen, z.B.
+
+119
+00:04:22.750 --> 00:04:24.670
+mit sogenannten Promptformeln
+
+120
+00:04:24.670 --> 00:04:25.630
+oder Frameworks.
+
+121
+00:04:26.230 --> 00:04:30.390
+Ein Beispiel ist das RACKZF-Modell,
+
+122
+00:04:30.390 --> 00:04:32.550
+das prompts entlang der Kategorien
+
+123
+00:04:32.550 --> 00:04:35.270
+Rolle, aufgabe, kriterien,
+
+124
+00:04:35.270 --> 00:04:37.350
+Ziel und Format strukturiert.
+
+125
+00:04:38.310 --> 00:04:40.990
+Neben der Einmaleingabe gibt es
+
+126
+00:04:40.990 --> 00:04:43.670
+auch dialogorientiertes Prompting.
+
+127
+00:04:43.670 --> 00:04:44.990
+Dabei verbessert man das
+
+128
+00:04:44.990 --> 00:04:46.470
+Ergebnis schrittweise
+
+129
+00:04:46.470 --> 00:04:48.070
+im Gespräch mit der KI.
+
+130
+00:04:48.710 --> 00:04:50.710
+Auch das sogenannte chain of
+
+131
+00:04:50.710 --> 00:04:52.310
+thought Prompting ist hilfreich.
+
+132
+00:04:52.920 --> 00:04:54.440
+Dabei bittet man die KI,
+
+133
+00:04:54.440 --> 00:04:56.920
+Denkschritte offenzulegen, z.B.
+
+134
+00:04:56.920 --> 00:04:58.480
+bei Matheaufgaben oder
+
+135
+00:04:58.480 --> 00:05:00.440
+komplexen Analysen.
+
+136
+00:05:00.440 --> 00:05:02.760
+Das erhöht die Nachvollziehbarkeit
+
+137
+00:05:02.760 --> 00:05:04.680
+und stärkt die Argumentation.
+
+138
+00:05:05.800 --> 00:05:07.640
+Moderne KI Modelle können
+
+139
+00:05:07.640 --> 00:05:09.840
+Inhalte besser verarbeiten, wenn
+
+140
+00:05:09.840 --> 00:05:11.280
+man ihnen Beispiele oder
+
+141
+00:05:11.280 --> 00:05:13.400
+Hintergrundinfos mitliefert.
+
+142
+00:05:13.400 --> 00:05:16.600
+Das nennt man in Context Learning.
+
+143
+00:05:16.600 --> 00:05:17.630
+Gebe ich z.B.
+
+144
+00:05:17.630 --> 00:05:19.800
+zwei gut formulierte Aufgaben vor,
+
+145
+00:05:20.440 --> 00:05:21.440
+kann die KI daraus
+
+146
+00:05:21.440 --> 00:05:23.480
+Muster erkennen und eine dritte
+
+147
+00:05:23.480 --> 00:05:25.560
+im selben Stil erstellen.
+
+148
+00:05:25.560 --> 00:05:28.680
+Aber die KI merkt sich den
+
+149
+00:05:28.680 --> 00:05:30.960
+Kontext nur vorübergehend und je
+
+150
+00:05:30.960 --> 00:05:33.160
+länger der Text, desto eher
+
+151
+00:05:33.160 --> 00:05:35.160
+werden Inhalte vergessen.
+
+152
+00:05:35.160 --> 00:05:36.960
+Deshalb muss man wichtige
+
+153
+00:05:36.960 --> 00:05:38.840
+Infos gezielt einbauen und
+
+154
+00:05:38.840 --> 00:05:40.760
+gegebenenfalls wiederholen.
+
+155
+00:05:41.640 --> 00:05:43.680
+Mit KI lassen sich nicht nur
+
+156
+00:05:43.680 --> 00:05:45.720
+Texte, sondern auch Bilder und
+
+157
+00:05:45.720 --> 00:05:47.080
+Inhalte in unterschiedlichen
+
+158
+00:05:47.080 --> 00:05:48.600
+Dateiformaten erstellen.
+
+159
+00:05:49.940 --> 00:05:51.780
+KI begegnet uns außerdem nicht
+
+160
+00:05:51.780 --> 00:05:54.340
+nur in offenen Chats wie ChatGPT,
+
+161
+00:05:54.340 --> 00:05:55.740
+sondern auch eingebettet
+
+162
+00:05:55.740 --> 00:05:58.100
+in andere Systeme, in Office
+
+163
+00:05:58.100 --> 00:06:00.140
+Anwendungen, Lernplattformen
+
+164
+00:06:00.140 --> 00:06:01.700
+oder Verwaltungssoftware.
+
+165
+00:06:02.260 --> 00:06:04.620
+Diese sogenannten KI Layer oder
+
+166
+00:06:04.620 --> 00:06:06.660
+Interfaces ermöglichen neue
+
+167
+00:06:06.660 --> 00:06:08.580
+Nutzungsmöglichkeiten, stellen
+
+168
+00:06:08.580 --> 00:06:10.460
+aber auch besondere Anforderungen
+
+169
+00:06:10.460 --> 00:06:12.420
+an Datenschutz und Transparenz.
+
+170
+00:06:13.060 --> 00:06:15.100
+Gerade im Schulkontext ist wichtig
+
+171
+00:06:15.100 --> 00:06:17.780
+zu wissen, wo und wie KI Technik
+
+172
+00:06:17.780 --> 00:06:19.530
+im Hintergrund mitarbeitet und
+
+173
+00:06:19.530 --> 00:06:21.290
+wie wir den Überblick behalten.
+
+174
+00:06:22.170 --> 00:06:24.010
+KI ist nicht neutral.
+
+175
+00:06:24.010 --> 00:06:25.770
+Sie kann Vorurteile aus ihren
+
+176
+00:06:25.770 --> 00:06:27.770
+Trainingsdaten übernehmen oder
+
+177
+00:06:27.770 --> 00:06:30.330
+problematische Inhalte erzeugen.
+
+178
+00:06:30.330 --> 00:06:31.370
+Auch Datenschutz
+
+179
+00:06:31.370 --> 00:06:33.770
+und Informationssicherheit spielen
+
+180
+00:06:33.770 --> 00:06:35.450
+eine große Rolle, besonders
+
+181
+00:06:35.450 --> 00:06:37.370
+im Umgang mit Daten von Schüler
+
+182
+00:06:37.370 --> 00:06:38.450
+und Schülerinnen
+
+183
+00:06:38.450 --> 00:06:39.930
+oder Verwaltungsdaten.
+
+184
+00:06:40.490 --> 00:06:42.130
+Deshalb ist es entscheidend,
+
+185
+00:06:42.130 --> 00:06:43.450
+sich mit diesen Risiken
+
+186
+00:06:43.450 --> 00:06:44.990
+auseinanderzusetzen
+
+187
+00:06:44.990 --> 00:06:46.630
+und verantwortungsvolle Regeln für
+
+188
+00:06:46.630 --> 00:06:48.550
+den KI Einsatz in Schule und
+
+189
+00:06:48.550 --> 00:06:49.790
+Verwaltung zu entwickeln.
+
+190
+00:06:50.830 --> 00:06:53.030
+Wer KI verstehen und gezielt
+
+191
+00:06:53.030 --> 00:06:54.430
+nutzen will, braucht
+
+192
+00:06:54.430 --> 00:06:55.590
+einen Überblick über
+
+193
+00:06:55.590 --> 00:06:57.150
+technische Grundlagen,
+
+194
+00:06:57.150 --> 00:06:58.790
+methodisches Vorgehen beim
+
+195
+00:06:58.790 --> 00:07:01.150
+Prompting, ethische Leitlinien
+
+196
+00:07:01.150 --> 00:07:02.790
+und darüber, wie KI
+
+197
+00:07:02.790 --> 00:07:04.110
+praktisch eingebunden ist.
+
+198
+00:07:07.950 --> 00:07:09.670
+Nachdem sie nun wissen, welche
+
+199
+00:07:09.670 --> 00:07:10.990
+Themenbereiche wichtig sind,
+
+200
+00:07:11.650 --> 00:07:13.290
+gehen wir einen Schritt weiter und
+
+201
+00:07:13.290 --> 00:07:15.890
+betrachten jeden Aspekt im Detail.
+
+202
+00:07:18.930 --> 00:07:20.970
+Im ersten Schritt wollen wir uns
+
+203
+00:07:20.970 --> 00:07:22.530
+mit den Grundprinzipien des
+
+204
+00:07:22.530 --> 00:07:25.010
+effektiven Promptings befassen.
+
+205
+00:07:25.010 --> 00:07:26.930
+Damit KI die bestmöglichen
+
+206
+00:07:26.930 --> 00:07:28.570
+Antworten liefert, kommt es
+
+207
+00:07:28.570 --> 00:07:30.450
+auf die Präzision und Klarheit
+
+208
+00:07:30.450 --> 00:07:31.890
+unserer Eingaben an.
+
+209
+00:07:31.890 --> 00:07:33.850
+Genau wie bei einer Aufgabe, die
+
+210
+00:07:33.850 --> 00:07:35.810
+man einem Menschen stellt, sollte
+
+211
+00:07:35.810 --> 00:07:37.930
+der Prompt so präzise und konkret
+
+212
+00:07:37.930 --> 00:07:39.330
+wie möglich formuliert werden.
+
+213
+00:07:40.110 --> 00:07:41.230
+Je mehr Informationen
+
+214
+00:07:41.230 --> 00:07:43.070
+wir geben, desto gezielter
+
+215
+00:07:43.070 --> 00:07:45.310
+kann die KI antworten.
+
+216
+00:07:45.310 --> 00:07:47.990
+Ein Hinweis, es gibt auch
+
+217
+00:07:47.990 --> 00:07:50.110
+alternative Prompting Strategien
+
+218
+00:07:50.110 --> 00:07:52.110
+wie Reasoning Modelle.
+
+219
+00:07:52.110 --> 00:07:53.950
+Mehr dazu erfahren sie in einem
+
+220
+00:07:53.950 --> 00:07:55.950
+der Module für Fortgeschrittene.
+
+221
+00:07:56.830 --> 00:07:59.110
+Ein effektiver Prompt verlangt nach
+
+222
+00:07:59.110 --> 00:08:01.710
+klaren und einfachen Anweisungen.
+
+223
+00:08:01.710 --> 00:08:03.390
+Wenn ein Prompt zu vage
+
+224
+00:08:03.390 --> 00:08:04.910
+oder zu allgemein ist,
+
+225
+00:08:04.910 --> 00:08:06.710
+wird auch die Antwort der KI
+
+226
+00:08:06.710 --> 00:08:07.790
+entsprechend ungenau
+
+227
+00:08:08.400 --> 00:08:10.800
+oder unspezifisch ausfallen.
+
+228
+00:08:10.800 --> 00:08:14.480
+Ein Beispiel schlechter Prompt
+
+229
+00:08:14.480 --> 00:08:16.560
+erzähl mir etwas über Autos.
+
+230
+00:08:17.440 --> 00:08:20.600
+Besserer erkläre die Funktionsweise
+
+231
+00:08:20.600 --> 00:08:22.160
+eines Hybridantriebs
+
+232
+00:08:22.160 --> 00:08:23.560
+in modernen Autos und
+
+233
+00:08:23.560 --> 00:08:25.400
+vergleiche dessen Vorteile mit
+
+234
+00:08:25.400 --> 00:08:26.960
+herkömmlichen Motoren.
+
+235
+00:08:27.760 --> 00:08:29.360
+Hier wird der Fokus klar
+
+236
+00:08:29.360 --> 00:08:31.360
+gesetzt und die KI weiß,
+
+237
+00:08:31.360 --> 00:08:33.039
+was genau erwartet wird.
+
+238
+00:08:34.250 --> 00:08:35.250
+Ein weiterer wichtiger
+
+239
+00:08:35.250 --> 00:08:36.409
+Aspekt ist die
+
+240
+00:08:36.409 --> 00:08:38.890
+Kontextualisierung des Prompts.
+
+241
+00:08:38.890 --> 00:08:41.049
+Die KI arbeitet besser, wenn
+
+242
+00:08:41.049 --> 00:08:43.770
+sie weiß, für wen und in welchem
+
+243
+00:08:43.770 --> 00:08:45.690
+Kontext sie antworten soll.
+
+244
+00:08:45.690 --> 00:08:47.570
+Man kann dies durch zusätzliche
+
+245
+00:08:47.570 --> 00:08:50.170
+Informationen im Prompt erreichen.
+
+246
+00:08:50.170 --> 00:08:52.010
+Folgendes Beispiel verdeutlicht
+
+247
+00:08:52.570 --> 00:08:53.930
+schlechter prompt
+
+248
+00:08:53.930 --> 00:08:55.770
+erkläre Fotosynthese.
+
+249
+00:08:56.810 --> 00:08:59.370
+Besserer prompt erkläre einem
+
+250
+00:08:59.370 --> 00:09:00.970
+jährigen Kind in einfachen,
+
+251
+00:09:01.690 --> 00:09:03.530
+wie Photosynthese funktioniert.
+
+252
+00:09:04.570 --> 00:09:06.730
+Indem wir der KI sagen, für
+
+253
+00:09:06.730 --> 00:09:08.250
+wen die Antwort bestimmt ist,
+
+254
+00:09:08.250 --> 00:09:10.290
+gibt sie eine passgenauere und
+
+255
+00:09:10.290 --> 00:09:11.530
+verständlichere Antwort.
+
+256
+00:09:12.650 --> 00:09:14.410
+Ein guter Prompt balanciert
+
+257
+00:09:14.410 --> 00:09:16.730
+Detailgrad und Zielsetzung.
+
+258
+00:09:16.730 --> 00:09:18.970
+Zu viel Detail kann die KI
+
+259
+00:09:18.970 --> 00:09:21.050
+überfordern oder unnötig in
+
+260
+00:09:21.050 --> 00:09:22.650
+die Länge ziehen, während
+
+261
+00:09:22.650 --> 00:09:24.970
+zu wenig Details zu ungenauen
+
+262
+00:09:24.970 --> 00:09:26.250
+Antworten führen kann.
+
+263
+00:09:27.140 --> 00:09:28.420
+Es kommt also darauf an,
+
+264
+00:09:28.420 --> 00:09:30.500
+das richtige Maß zu finden.
+
+265
+00:09:30.500 --> 00:09:35.100
+Dazu dieses schlechter schreibe
+
+266
+00:09:35.100 --> 00:09:37.140
+einen Text über den Klimawandel.
+
+267
+00:09:37.940 --> 00:09:40.700
+Besserer schreibe einen Text über
+
+268
+00:09:40.700 --> 00:09:42.580
+die Ursachen des Klimawandels
+
+269
+00:09:42.580 --> 00:09:44.140
+und die Auswirkungen auf die
+
+270
+00:09:44.140 --> 00:09:47.220
+Meeresökosysteme in 200 Wörtern.
+
+271
+00:09:48.260 --> 00:09:50.180
+Hier ist der Text präzise
+
+272
+00:09:50.180 --> 00:09:52.260
+und der Umfang klar abgesteckt,
+
+273
+00:09:52.830 --> 00:09:54.390
+was der KI hilft, eine
+
+274
+00:09:54.390 --> 00:09:56.590
+fokussierte Antwort zu liefern.
+
+275
+00:09:57.470 --> 00:09:59.070
+Ein weiteres Beispiel aus der
+
+276
+00:09:59.070 --> 00:10:00.630
+Unterrichtspraxis könnte
+
+277
+00:10:00.630 --> 00:10:04.190
+folgendermaßen schlechter prompt
+
+278
+00:10:04.750 --> 00:10:06.670
+plane die nächste Biostunde
+
+279
+00:10:06.670 --> 00:10:08.030
+für meine siebte Klasse.
+
+280
+00:10:08.990 --> 00:10:11.710
+Besserer entwickle eine
+
+281
+00:10:11.710 --> 00:10:13.590
+minütige Unterrichtsstunde für
+
+282
+00:10:13.590 --> 00:10:15.710
+die siebte Klasse zum Thema.
+
+283
+00:10:15.710 --> 00:10:17.430
+Die Schüler und Schülerinnen
+
+284
+00:10:17.430 --> 00:10:18.230
+erläutern den
+
+285
+00:10:18.230 --> 00:10:20.320
+Prozess der Photosynthese.
+
+286
+00:10:20.320 --> 00:10:22.000
+Gib eine kurze Einführung,
+
+287
+00:10:22.000 --> 00:10:24.560
+nenne drei zentrale Kompetenzen,
+
+288
+00:10:24.560 --> 00:10:26.080
+schlage eine geeignete
+
+289
+00:10:26.080 --> 00:10:28.280
+Methode vor und beschreibe eine
+
+290
+00:10:28.280 --> 00:10:30.560
+einfache Experimentidee.
+
+291
+00:10:30.560 --> 00:10:31.840
+Beziehe dich bei deiner
+
+292
+00:10:31.840 --> 00:10:33.800
+Ausarbeitung auf die curricularen
+
+293
+00:10:33.800 --> 00:10:35.800
+Vorgaben des Landes Niedersachsen
+
+294
+00:10:35.800 --> 00:10:38.560
+im Fach Biologie für Oberschulen.
+
+295
+00:10:38.560 --> 00:10:40.920
+Gib die Antwort als tabellarischen
+
+296
+00:10:40.920 --> 00:10:43.440
+Verlaufsplan mit Zeitangaben aus.
+
+297
+00:10:47.210 --> 00:10:48.690
+Diese Grundlagen, wie KI
+
+298
+00:10:48.690 --> 00:10:50.930
+Textgeneratoren arbeiten und wie
+
+299
+00:10:50.930 --> 00:10:52.530
+wir mit Prompts die Ergebnisse
+
+300
+00:10:52.530 --> 00:10:54.890
+steuern, bilden das Fundament.
+
+301
+00:10:54.890 --> 00:10:56.210
+Nun schauen wir uns an,
+
+302
+00:10:56.210 --> 00:10:58.130
+wie man Prompts systematisch
+
+303
+00:10:58.130 --> 00:10:59.530
+aufbauen kann.
+
+304
+00:10:59.530 --> 00:11:00.930
+Ein guter Prompt fällt
+
+305
+00:11:00.930 --> 00:11:02.450
+nicht vom Himmel, er lässt
+
+306
+00:11:02.450 --> 00:11:04.250
+sich gezielt planen.
+
+307
+00:11:04.250 --> 00:11:05.570
+Dazu gibt es hilfreiche
+
+308
+00:11:05.570 --> 00:11:06.850
+Strukturen und Techniken.
+
+309
+00:11:06.850 --> 00:11:08.490
+Die in der Praxis funktionieren.
+
+310
+00:11:10.090 --> 00:11:11.450
+Eine bewährte Methode für
+
+311
+00:11:11.450 --> 00:11:12.770
+durchdachte Prompts ist
+
+312
+00:11:12.770 --> 00:11:15.530
+das RACKZF-Framework.
+
+313
+00:11:16.100 --> 00:11:17.540
+Es steht für Rolle.
+
+314
+00:11:17.540 --> 00:11:18.980
+Wer soll die KI sein?
+
+315
+00:11:21.060 --> 00:11:22.420
+Was soll sie tun?
+
+316
+00:11:24.580 --> 00:11:25.820
+Welche Kriterien oder
+
+317
+00:11:25.820 --> 00:11:27.060
+Anforderungen sind wichtig?
+
+318
+00:11:28.980 --> 00:11:30.900
+Welche Hintergrundinfos helfen?
+
+319
+00:11:32.660 --> 00:11:34.660
+Welches Ergebnis wird angestrebt?
+
+320
+00:11:36.340 --> 00:11:37.420
+In welcher Form soll
+
+321
+00:11:37.420 --> 00:11:39.140
+die Antwort erscheinen?
+
+322
+00:11:39.140 --> 00:11:40.980
+Diese sechs Elemente helfen,
+
+323
+00:11:40.980 --> 00:11:43.290
+Prompts klar, vollständig und
+
+324
+00:11:43.290 --> 00:11:45.450
+zielgerichtet zu gestalten.
+
+325
+00:11:45.450 --> 00:11:46.650
+Ein Beispiel für den
+
+326
+00:11:47.450 --> 00:11:49.370
+du bist Biologielehrerin?
+
+327
+00:11:49.370 --> 00:11:50.890
+Erstelle fünf Multiple
+
+328
+00:11:50.890 --> 00:11:52.050
+Choice Fragen zu den
+
+329
+00:11:52.050 --> 00:11:53.610
+Funktionen der Zelle.
+
+330
+00:11:53.610 --> 00:11:54.850
+Die Fragen sollen für die
+
+331
+00:11:54.850 --> 00:11:56.570
+neunte Klasse geeignet sein
+
+332
+00:11:56.570 --> 00:11:57.770
+und jeweils drei
+
+333
+00:11:57.770 --> 00:11:59.530
+Antwortmöglichkeiten enthalten.
+
+334
+00:12:00.090 --> 00:12:01.290
+Ziel ist eine kurze
+
+335
+00:12:01.290 --> 00:12:03.050
+Übung zur Wiederholung.
+
+336
+00:12:03.050 --> 00:12:04.330
+Gib die Fragen als
+
+337
+00:12:04.330 --> 00:12:06.010
+nummerierte Liste aus.
+
+338
+00:12:06.010 --> 00:12:07.930
+Und Beispiele für die Verwaltung.
+
+339
+00:12:08.640 --> 00:12:10.480
+Du bist Schulsekretär.
+
+340
+00:12:10.480 --> 00:12:12.160
+Verfasse einen Entwurf für
+
+341
+00:12:12.160 --> 00:12:14.240
+eine E Mail an alle Eltern.
+
+342
+00:12:14.240 --> 00:12:15.960
+Der Anlass ist die Verlegung
+
+343
+00:12:15.960 --> 00:12:17.560
+des Elternabends vom
+
+344
+00:12:17.560 --> 00:12:19.410
+15. auf den 22.
+
+345
+00:12:19.410 --> 00:12:20.640
+Juni.
+
+346
+00:12:20.640 --> 00:12:22.960
+Der Text soll sachlich, höflich
+
+347
+00:12:22.960 --> 00:12:24.240
+und übersichtlich sein.
+
+348
+00:12:24.800 --> 00:12:27.040
+Ziel ist es, die Eltern klar über
+
+349
+00:12:27.040 --> 00:12:28.960
+die Änderung zu informieren.
+
+350
+00:12:28.960 --> 00:12:30.480
+Gib den Text als
+
+351
+00:12:30.480 --> 00:12:31.760
+eMail Vorschlag aus.
+
+352
+00:12:33.770 --> 00:12:35.490
+Beim chain of thought prompting
+
+353
+00:12:35.490 --> 00:12:37.570
+bitten wir die KI, ihre Antwort in
+
+354
+00:12:37.570 --> 00:12:39.130
+logischen Schritten zu entwickeln.
+
+355
+00:12:39.690 --> 00:12:41.690
+So entsteht eine strukturierte,
+
+356
+00:12:41.690 --> 00:12:43.690
+nachvollziehbare Antwort.
+
+357
+00:12:43.690 --> 00:12:45.130
+Dies kann hilfreich bei
+
+358
+00:12:45.130 --> 00:12:47.410
+komplexen Aufgaben sein oder wenn
+
+359
+00:12:47.410 --> 00:12:48.810
+Begründungen wichtig sind.
+
+360
+00:12:49.769 --> 00:12:53.930
+Ein Löse die folgende Textaufgabe
+
+361
+00:12:53.930 --> 00:12:56.250
+und erkläre jeden Rechenschritt.
+
+362
+00:12:56.250 --> 00:12:57.930
+Ein Schüler hat 2 von 8
+
+363
+00:12:57.930 --> 00:12:59.950
+Matheaufgaben richtig gelöst.
+
+364
+00:12:59.950 --> 00:13:01.630
+Wie viel % sind das?
+
+365
+00:13:01.630 --> 00:13:03.110
+Die KI erläutert, wie
+
+366
+00:13:03.110 --> 00:13:04.510
+sie zur Lösung kommt.
+
+367
+00:13:04.510 --> 00:13:06.750
+Ideal zum Mitdenken oder zur
+
+368
+00:13:06.750 --> 00:13:07.870
+Erklärung im Unterricht.
+
+369
+00:13:08.990 --> 00:13:12.430
+Und ein Plane Schritt für
+
+370
+00:13:12.430 --> 00:13:14.270
+Schritt die Organisation eines
+
+371
+00:13:14.270 --> 00:13:16.590
+Schulfestes für 300 Personen.
+
+372
+00:13:17.230 --> 00:13:18.790
+Nenne dabei die wichtigsten
+
+373
+00:13:18.790 --> 00:13:19.630
+Aufgaben,
+
+374
+00:13:19.630 --> 00:13:21.710
+Zuständigkeiten und Fristen.
+
+375
+00:13:22.430 --> 00:13:23.870
+Die KI erstellt eine
+
+376
+00:13:23.870 --> 00:13:25.740
+strukturierte Planung, die sich
+
+377
+00:13:25.740 --> 00:13:26.980
+leicht nachvollziehen und
+
+378
+00:13:26.980 --> 00:13:28.260
+weiterentwickeln lässt.
+
+379
+00:13:29.140 --> 00:13:31.580
+Wenn wir der KI eine konkrete Rolle
+
+380
+00:13:31.580 --> 00:13:33.340
+geben, fällt es ihr leichter,
+
+381
+00:13:33.340 --> 00:13:35.380
+den richtigen Ton zu treffen.
+
+382
+00:13:35.380 --> 00:13:38.500
+Das nennt man persona prompting.
+
+383
+00:13:38.500 --> 00:13:41.380
+Die Rolle bestimmt oft Stil, Inhalt
+
+384
+00:13:41.380 --> 00:13:43.060
+und Perspektive der Antwort.
+
+385
+00:13:43.780 --> 00:13:45.580
+Dies kann ein wirkungsvolles Mittel
+
+386
+00:13:45.580 --> 00:13:47.620
+für maßgeschneiderte Texte sein.
+
+387
+00:13:48.580 --> 00:13:51.260
+Ein Beispiel im du bist
+
+388
+00:13:51.260 --> 00:13:52.900
+ein Französischlehrer.
+
+389
+00:13:53.430 --> 00:13:55.350
+Formuliere einen einfachen Dialog
+
+390
+00:13:55.350 --> 00:13:57.150
+zwischen zwei Jugendlichen, die
+
+391
+00:13:57.150 --> 00:13:58.870
+sich über ihre Hobbys unterhalten.
+
+392
+00:13:59.510 --> 00:14:01.630
+Der Dialog soll für Lernende der
+
+393
+00:14:01.630 --> 00:14:03.750
+siebte Klasse verständlich sein.
+
+394
+00:14:03.750 --> 00:14:05.670
+Die KI antwortet im passenden
+
+395
+00:14:05.670 --> 00:14:07.430
+Sprachniveau und kontext.
+
+396
+00:14:08.550 --> 00:14:11.590
+Ein Beispiel in der du bist
+
+397
+00:14:11.590 --> 00:14:13.590
+eine erfahrene Schulleiterin.
+
+398
+00:14:13.590 --> 00:14:15.670
+Formuliere eine Begrüßungsrede für
+
+399
+00:14:15.670 --> 00:14:17.910
+die neuen Fünftklässler und deren
+
+400
+00:14:17.910 --> 00:14:19.510
+Eltern zur Einschulungsfeier.
+
+401
+00:14:20.110 --> 00:14:21.630
+Die Rede soll freundlich,
+
+402
+00:14:21.630 --> 00:14:23.470
+motivierend und etwa
+
+403
+00:14:23.470 --> 00:14:25.390
+2 Minuten lang sein.
+
+404
+00:14:25.390 --> 00:14:27.310
+Die KI schlägt einen passenden
+
+405
+00:14:27.310 --> 00:14:28.870
+Entwurf vor, den man
+
+406
+00:14:28.870 --> 00:14:30.510
+individuell anpassen kann.
+
+407
+00:14:31.550 --> 00:14:32.950
+Mit diesen Methoden kann
+
+408
+00:14:32.950 --> 00:14:33.910
+man gezielter und
+
+409
+00:14:33.910 --> 00:14:35.710
+kreativer mit KI arbeiten.
+
+410
+00:14:36.270 --> 00:14:38.790
+Statt einfach mal irgendwas zu
+
+411
+00:14:38.790 --> 00:14:40.830
+fragen, entsteht ein bewusster
+
+412
+00:14:40.830 --> 00:14:43.710
+Prozess vom Ziel über den Kontext
+
+413
+00:14:43.710 --> 00:14:45.790
+hin zur konkreten Formulierung.
+
+414
+00:14:46.700 --> 00:14:48.020
+So wird das Prompting nicht
+
+415
+00:14:48.020 --> 00:14:49.980
+nur effektiver, sondern auch
+
+416
+00:14:49.980 --> 00:14:51.260
+deutlich verlässlicher.
+
+417
+00:14:54.940 --> 00:14:56.820
+Ein guter Prompt muss nicht beim
+
+418
+00:14:56.820 --> 00:14:58.700
+ersten Versuch perfekt sein.
+
+419
+00:14:58.700 --> 00:15:01.500
+Im Gegenteil, viele der besten Ergebnisse
+
+420
+00:15:01.500 --> 00:15:02.700
+entstehen im Dialog mit
+
+421
+00:15:02.700 --> 00:15:04.860
+der KI durch schrittweises
+
+422
+00:15:04.860 --> 00:15:06.700
+Verfeinern, Nachfragen
+
+423
+00:15:06.700 --> 00:15:08.860
+und gezielte Rückmeldungen.
+
+424
+00:15:08.860 --> 00:15:10.700
+Dieses Vorgehen nennt man
+
+425
+00:15:10.700 --> 00:15:13.420
+dialogorientiertes Prompting
+
+426
+00:15:13.420 --> 00:15:15.900
+oder auch Prompting als Gespräch.
+
+427
+00:15:17.020 --> 00:15:18.940
+Statt der KI eine lange,
+
+428
+00:15:18.940 --> 00:15:20.940
+einmalige Anweisung zu geben,
+
+429
+00:15:20.940 --> 00:15:22.300
+können wir sie stückweise
+
+430
+00:15:22.300 --> 00:15:24.220
+durch den Prozess führen.
+
+431
+00:15:24.220 --> 00:15:25.500
+Nach einer ersten Antwort
+
+432
+00:15:25.500 --> 00:15:27.660
+fragen wir nach, verbessern,
+
+433
+00:15:27.660 --> 00:15:29.540
+geben neue Hinweise oder
+
+434
+00:15:29.540 --> 00:15:32.060
+korrigieren Missverständnisse.
+
+435
+00:15:32.060 --> 00:15:35.540
+Das hat mehrere mehr Kontrolle über
+
+436
+00:15:35.540 --> 00:15:38.540
+Inhalt, Stil und Detailtiefe.
+
+437
+00:15:39.110 --> 00:15:40.790
+Außerdem bessere Ergebnisse,
+
+438
+00:15:40.790 --> 00:15:43.430
+weil wir die KI anlernen mit dem,
+
+439
+00:15:43.430 --> 00:15:44.830
+was wir wirklich brauchen
+
+440
+00:15:44.830 --> 00:15:46.830
+und mehr Transparenz, weil wir
+
+441
+00:15:46.830 --> 00:15:48.390
+sehen, wie sich die Antwort
+
+442
+00:15:48.390 --> 00:15:49.990
+Schritt für Schritt entwickelt.
+
+443
+00:15:51.750 --> 00:15:53.630
+Zwei typische Strategien im
+
+444
+00:15:53.630 --> 00:15:57.150
+dialogischen Prompting step by
+
+445
+00:15:57.150 --> 00:16:00.110
+step Prompting die Aufgabe wird in
+
+446
+00:16:00.110 --> 00:16:01.990
+kleine Schritte aufgeteilt.
+
+447
+00:16:01.990 --> 00:16:03.550
+Jeder neue Prompt baut
+
+448
+00:16:03.550 --> 00:16:04.790
+auf dem vorherigen auf.
+
+449
+00:16:05.320 --> 00:16:06.480
+Das eignet sich besonders
+
+450
+00:16:06.480 --> 00:16:07.800
+für komplexe Themen
+
+451
+00:16:07.800 --> 00:16:09.240
+oder längere Texte.
+
+452
+00:16:10.520 --> 00:16:12.960
+Iteratives hier geben wir
+
+453
+00:16:12.960 --> 00:16:14.320
+gezieltes Feedback zur
+
+454
+00:16:14.320 --> 00:16:16.120
+letzten Antwort der KI.
+
+455
+00:16:16.120 --> 00:16:19.360
+Zum Beispiel, bitte kürzer, vermeide
+
+456
+00:16:19.360 --> 00:16:21.080
+Wiederholungen oder
+
+457
+00:16:21.080 --> 00:16:23.080
+nenne konkrete Beispiele.
+
+458
+00:16:25.080 --> 00:16:29.200
+Ein Beispiel für den Erstelle eine
+
+459
+00:16:29.200 --> 00:16:30.880
+Gliederung für ein Arbeitsblatt
+
+460
+00:16:30.880 --> 00:16:33.140
+zum Thema Photosynthese für die
+
+461
+00:16:33.140 --> 00:16:35.260
+siebte Klasse eines Gymnasiums
+
+462
+00:16:35.260 --> 00:16:37.260
+unter Bezug auf das hochgeladene
+
+463
+00:16:37.260 --> 00:16:39.100
+fachspezifische Curriculum.
+
+464
+00:16:39.740 --> 00:16:43.420
+Antwort der KI: 1. Definition
+
+465
+00:16:43.420 --> 00:16:45.260
+2. Ablauf der Photosynthese
+
+466
+00:16:45.260 --> 00:16:46.780
+3. Bedeutung für Umwelt
+
+467
+00:16:47.420 --> 00:16:48.448
+4. Quiz.
+
+468
+00:16:48.448 --> 00:16:50.620
+Lehrkraft reagiert.
+
+469
+00:16:50.620 --> 00:16:52.540
+Bitte ergänze in Punkt zwei
+
+470
+00:16:52.540 --> 00:16:54.860
+eine einfache Grafikbeschreibung.
+
+471
+00:16:54.860 --> 00:16:56.420
+Außerdem hätte ich gern drei
+
+472
+00:16:56.420 --> 00:16:57.900
+Quizfragen mit Auswahl.
+
+473
+00:16:57.900 --> 00:17:00.430
+Antworten die KI
+
+474
+00:17:00.430 --> 00:17:01.830
+passt den Entwurf an.
+
+475
+00:17:01.830 --> 00:17:04.069
+So entsteht im Dialog ein Material,
+
+476
+00:17:04.069 --> 00:17:05.990
+das genau zum Unterricht passt.
+
+477
+00:17:05.990 --> 00:17:07.550
+Außerdem sehen sie hier eine
+
+478
+00:17:07.550 --> 00:17:09.310
+weitere Möglichkeit, einen
+
+479
+00:17:09.310 --> 00:17:11.990
+zielgenauen Output zu erzeugen.
+
+480
+00:17:11.990 --> 00:17:13.790
+Haben sie Quellen zur Hand, die
+
+481
+00:17:13.790 --> 00:17:15.829
+die KI berücksichtigen soll,
+
+482
+00:17:15.829 --> 00:17:17.829
+können sie diese als Datei oder
+
+483
+00:17:17.829 --> 00:17:20.069
+Link in Ihren Prompt integrieren.
+
+484
+00:17:21.109 --> 00:17:24.520
+Beispiel für die Ausgangsprompt
+
+485
+00:17:25.310 --> 00:17:26.109
+Formuliere eine
+
+486
+00:17:26.109 --> 00:17:28.069
+kurze Erinnerungsmail an alle
+
+487
+00:17:28.069 --> 00:17:29.750
+Mitarbeitenden zur Abgabe
+
+488
+00:17:29.750 --> 00:17:31.430
+ihrer Reisekostenabrechnungen
+
+489
+00:17:31.430 --> 00:17:32.590
+bis Freitag.
+
+490
+00:17:32.590 --> 00:17:35.150
+Antwort der sehr geehrte Damen
+
+491
+00:17:35.150 --> 00:17:36.750
+und Herren, hiermit möchten
+
+492
+00:17:36.750 --> 00:17:38.150
+wir sie daran erinnern,
+
+493
+00:17:38.150 --> 00:17:40.030
+Ihre Reisekostenabrechnungen
+
+494
+00:17:40.030 --> 00:17:41.790
+fristgerecht einzureichen.
+
+495
+00:17:44.190 --> 00:17:46.950
+Rückmeldung bitte etwas kürzer,
+
+496
+00:17:46.950 --> 00:17:48.870
+direkter im Ton und mit
+
+497
+00:17:48.870 --> 00:17:50.550
+Hinweis, wohin die Abrechnungen
+
+498
+00:17:50.550 --> 00:17:51.710
+geschickt werden sollen.
+
+499
+00:17:52.900 --> 00:17:54.460
+Die KI überarbeitet die
+
+500
+00:17:54.460 --> 00:17:56.100
+Nachricht entsprechend.
+
+501
+00:17:56.100 --> 00:17:58.220
+Dieser Prozess spart Zeit und
+
+502
+00:17:58.220 --> 00:18:00.100
+sorgt dafür, dass der Text
+
+503
+00:18:00.100 --> 00:18:01.940
+wirklich alltagstauglich ist.
+
+504
+00:18:03.060 --> 00:18:04.740
+Tipps für den dialogischen
+
+505
+00:18:05.780 --> 00:18:08.780
+Prompt als Gespräch sehen jede
+
+506
+00:18:08.780 --> 00:18:10.660
+Antwort ist ein Zwischenschritt,
+
+507
+00:18:10.660 --> 00:18:12.180
+nicht das Endprodukt.
+
+508
+00:18:13.300 --> 00:18:14.740
+Feedback geben wie an
+
+509
+00:18:15.700 --> 00:18:18.070
+formulieren sie Rückmeldungen so,
+
+510
+00:18:18.070 --> 00:18:19.310
+wie sie mit einer realen
+
+511
+00:18:19.310 --> 00:18:20.630
+Person sprechen würden.
+
+512
+00:18:21.510 --> 00:18:24.830
+Kombinieren sie mit auch im
+
+513
+00:18:24.830 --> 00:18:26.830
+Dialog kann die KI in ihrer
+
+514
+00:18:26.830 --> 00:18:28.790
+zugewiesenen Rolle bleiben.
+
+515
+00:18:28.790 --> 00:18:31.190
+Zum Bleib bitte in der
+
+516
+00:18:31.190 --> 00:18:32.870
+Rolle als Schulsekretär.
+
+517
+00:18:34.870 --> 00:18:36.790
+Dialogisches Prompting eignet
+
+518
+00:18:36.790 --> 00:18:38.030
+sich hervorragend für den
+
+519
+00:18:38.030 --> 00:18:40.150
+Einsatz im Unterricht, z.B.
+
+520
+00:18:40.150 --> 00:18:42.870
+für Schreibprozesse, Textvarianten
+
+521
+00:18:42.870 --> 00:18:44.150
+erzeugen und bewerten,
+
+522
+00:18:44.750 --> 00:18:46.390
+für das Training von Feedback
+
+523
+00:18:46.390 --> 00:18:48.430
+Kompetenz wie formuliere
+
+524
+00:18:48.430 --> 00:18:50.350
+ich Rückmeldungen klar?
+
+525
+00:18:50.350 --> 00:18:52.990
+Oder für Metakompetenzaufbau
+
+526
+00:18:52.990 --> 00:18:54.510
+wie entwickelt sich ein Text?
+
+527
+00:18:55.630 --> 00:18:57.190
+In der Verwaltung verbessert
+
+528
+00:18:57.190 --> 00:18:58.350
+es die Nutzerkontrolle
+
+529
+00:18:58.350 --> 00:19:00.590
+über sensible Texte, z.B.
+
+530
+00:19:00.590 --> 00:19:02.230
+bei offiziellen Mitteilungen
+
+531
+00:19:02.230 --> 00:19:03.630
+oder Zusammenfassungen.
+
+532
+00:19:04.430 --> 00:19:06.430
+Dialogisches Prompting bringt
+
+533
+00:19:06.430 --> 00:19:07.790
+die Stärken menschlicher
+
+534
+00:19:07.790 --> 00:19:08.950
+Rückmeldung mit der
+
+535
+00:19:08.950 --> 00:19:10.830
+Schnelligkeit der KI zusammen.
+
+536
+00:19:11.440 --> 00:19:12.560
+Es macht die Arbeit mit
+
+537
+00:19:12.560 --> 00:19:14.920
+KI flexibler, genauer
+
+538
+00:19:14.920 --> 00:19:16.960
+und lernorientierter.
+
+539
+00:19:16.960 --> 00:19:18.600
+Wer die KI als Partner im
+
+540
+00:19:18.600 --> 00:19:20.880
+Gespräch nutzt, bekommt bessere,
+
+541
+00:19:20.880 --> 00:19:22.640
+passgenauere Ergebnisse.
+
+542
+00:19:26.400 --> 00:19:28.320
+Neben der klaren Formulierung
+
+543
+00:19:28.320 --> 00:19:30.040
+spielt auch der Kontext eine
+
+544
+00:19:30.040 --> 00:19:31.400
+entscheidende Rolle für die
+
+545
+00:19:31.400 --> 00:19:33.920
+Qualität von KI Antworten.
+
+546
+00:19:33.920 --> 00:19:36.720
+Moderne KI Modelle wie ChatGPT
+
+547
+00:19:36.720 --> 00:19:38.680
+reagieren nicht nur auf einzelne
+
+548
+00:19:38.680 --> 00:19:41.310
+Fragen, sondern auch auf das, was
+
+549
+00:19:41.310 --> 00:19:44.150
+vorher gesagt oder gezeigt wurde.
+
+550
+00:19:44.150 --> 00:19:45.830
+Dieses Prinzip nennt sich
+
+551
+00:19:45.830 --> 00:19:47.510
+in Context Learning.
+
+552
+00:19:48.470 --> 00:19:50.830
+Beim in Context Learning versucht
+
+553
+00:19:50.830 --> 00:19:53.390
+die KI, aus den bisher gegebenen
+
+554
+00:19:53.390 --> 00:19:55.230
+Informationen ein Muster zu
+
+555
+00:19:55.230 --> 00:19:57.470
+erkennen und darauf basierend
+
+556
+00:19:57.470 --> 00:19:59.830
+weitere Inhalte zu generieren.
+
+557
+00:19:59.830 --> 00:20:01.470
+Man kann sich das vorstellen
+
+558
+00:20:01.470 --> 00:20:02.710
+wie bei einem Menschen,
+
+559
+00:20:02.710 --> 00:20:04.790
+der mehrere Beispiele sieht
+
+560
+00:20:04.790 --> 00:20:06.550
+und daraus lernt, wie eine
+
+561
+00:20:06.550 --> 00:20:08.710
+Aufgabe gelöst werden soll.
+
+562
+00:20:08.710 --> 00:20:10.830
+Nur hat die KI kein Gedächtnis
+
+563
+00:20:10.830 --> 00:20:11.990
+im klassischen Sinne.
+
+564
+00:20:12.950 --> 00:20:15.230
+Die KI liest und analysiert
+
+565
+00:20:15.230 --> 00:20:17.230
+alles, was im Promptverlauf
+
+566
+00:20:17.230 --> 00:20:19.310
+enthalten ist, also die
+
+567
+00:20:19.310 --> 00:20:20.910
+Aufgabenstellung, aber auch
+
+568
+00:20:20.910 --> 00:20:24.030
+Beispiele, Tonfall, Formatierungen
+
+569
+00:20:24.030 --> 00:20:26.150
+oder Zielgruppenhinweise.
+
+570
+00:20:26.150 --> 00:20:27.590
+Daraus leitet sie ab,
+
+571
+00:20:27.590 --> 00:20:28.950
+wie sie antworten soll.
+
+572
+00:20:29.510 --> 00:20:32.710
+Das je mehr relevante Informationen
+
+573
+00:20:32.710 --> 00:20:33.790
+im Promptverlauf
+
+574
+00:20:33.790 --> 00:20:35.830
+enthalten sind, desto gezielter
+
+575
+00:20:35.830 --> 00:20:37.270
+fällt die Antwort aus.
+
+576
+00:20:38.230 --> 00:20:40.150
+Zu beachten ist, dass stets
+
+577
+00:20:40.150 --> 00:20:42.110
+der gesamte Chat inklusive
+
+578
+00:20:42.110 --> 00:20:44.230
+aller Dokumente bei jeder Prompt
+
+579
+00:20:44.230 --> 00:20:45.950
+Eingabe zum Large language
+
+580
+00:20:45.950 --> 00:20:47.270
+Modell übertragen wird.
+
+581
+00:20:47.830 --> 00:20:50.510
+Dadurch erinnert sich die KI an
+
+582
+00:20:50.510 --> 00:20:52.390
+den gesamten Gesprächsverlauf.
+
+583
+00:20:52.950 --> 00:20:54.710
+Wird der Chatverlauf allerdings
+
+584
+00:20:54.710 --> 00:20:56.630
+zu lang oder werden zu viele
+
+585
+00:20:56.630 --> 00:20:58.150
+Dokumente hochgeladen,
+
+586
+00:20:58.150 --> 00:21:00.270
+so verarbeitet die KI nicht mehr
+
+587
+00:21:00.270 --> 00:21:02.050
+den gesamten Promptverlauf
+
+588
+00:21:02.050 --> 00:21:04.530
+und es kommt zu Inkonsistenzen.
+
+589
+00:21:04.530 --> 00:21:06.490
+Behalten sie also im Blick, dass
+
+590
+00:21:06.490 --> 00:21:08.330
+fehlerhafte Outputs auch durch
+
+591
+00:21:08.330 --> 00:21:10.050
+zu viel Input entstehen können.
+
+592
+00:21:11.330 --> 00:21:12.770
+Beispiel im Unterricht
+
+593
+00:21:13.410 --> 00:21:15.170
+hier sind drei Beispiele für
+
+594
+00:21:15.170 --> 00:21:16.610
+passende Aufsatzthemen.
+
+595
+00:21:16.610 --> 00:21:19.090
+Zum Roman x bitte gib mir
+
+596
+00:21:19.090 --> 00:21:20.490
+zwei weitere, die in
+
+597
+00:21:20.490 --> 00:21:22.050
+dieselbe Richtung gehen.
+
+598
+00:21:22.850 --> 00:21:25.170
+Die KI erkennt das Muster
+
+599
+00:21:25.170 --> 00:21:27.210
+und erzeugt eigene Vorschläge
+
+600
+00:21:27.210 --> 00:21:28.210
+in ähnlichem Stil.
+
+601
+00:21:29.620 --> 00:21:32.340
+Beispiel in der hier ist
+
+602
+00:21:32.340 --> 00:21:33.780
+der bisherige Aufbau
+
+603
+00:21:33.780 --> 00:21:35.700
+unserer Elternbriefe.
+
+604
+00:21:35.700 --> 00:21:37.060
+Bitte schreibe einen neuen
+
+605
+00:21:37.060 --> 00:21:39.220
+Elternbrief zum Thema Ausflug,
+
+606
+00:21:39.220 --> 00:21:41.460
+orientiert am bisherigen Stil.
+
+607
+00:21:42.500 --> 00:21:45.380
+Die KI übernimmt Struktur und Ton
+
+608
+00:21:45.380 --> 00:21:47.260
+und erstellt eine Vorlage, die
+
+609
+00:21:47.260 --> 00:21:49.300
+zu bisherigen Schreiben passt.
+
+610
+00:21:50.100 --> 00:21:51.500
+Bitte prüfen sie vorher
+
+611
+00:21:51.500 --> 00:21:53.220
+genau, welche Texte sie
+
+612
+00:21:53.220 --> 00:21:54.420
+als Beispiele verwenden.
+
+613
+00:21:55.180 --> 00:21:57.100
+Denn Urheberrechtlich geschützte
+
+614
+00:21:57.100 --> 00:21:58.500
+Inhalte dürfen nicht
+
+615
+00:21:58.500 --> 00:22:00.300
+in KIs hochgeladen werden.
+
+616
+00:22:00.940 --> 00:22:03.220
+Nutzen sie stattdessen Materialien
+
+617
+00:22:03.220 --> 00:22:04.940
+mit einer offenen Lizenz
+
+618
+00:22:04.940 --> 00:22:07.020
+oder selbsterstellte Texte.
+
+619
+00:22:08.140 --> 00:22:10.300
+Um In Context Learning gezielt
+
+620
+00:22:10.300 --> 00:22:12.300
+zu nutzen, kann man dem Prompt
+
+621
+00:22:12.300 --> 00:22:14.380
+konkrete Beispiele, Vorlagen
+
+622
+00:22:14.380 --> 00:22:16.060
+oder Hinweise mitgeben.
+
+623
+00:22:16.060 --> 00:22:17.740
+Besonders hilfreich sind
+
+624
+00:22:17.740 --> 00:22:20.220
+Few shot prompting man zeigt der
+
+625
+00:22:20.220 --> 00:22:22.300
+KI ein bis zwei gut gelungene
+
+626
+00:22:22.300 --> 00:22:24.190
+Beispiele von sich und bittet
+
+627
+00:22:24.190 --> 00:22:26.070
+ein weiteres im gleichen Stil.
+
+628
+00:22:27.030 --> 00:22:29.750
+Beispielhafte Eingaben und Ausgaben
+
+629
+00:22:29.750 --> 00:22:31.270
+man simuliert vorherige
+
+630
+00:22:31.270 --> 00:22:33.470
+Interaktionen, die KI auf eine
+
+631
+00:22:33.470 --> 00:22:35.430
+bestimmte Richtung einzustimmen.
+
+632
+00:22:36.390 --> 00:22:39.950
+Zusatzinfos in der Angaben zur
+
+633
+00:22:39.950 --> 00:22:42.230
+Zielgruppe, zum Format oder zur
+
+634
+00:22:42.230 --> 00:22:44.550
+Funktion helfen der KI, besser
+
+635
+00:22:44.550 --> 00:22:46.550
+zu verstehen, was gemeint ist.
+
+636
+00:22:47.590 --> 00:22:49.830
+Wichtig diese Informationen
+
+637
+00:22:49.830 --> 00:22:51.590
+müssen im Prompt enthalten sein.
+
+638
+00:22:52.140 --> 00:22:53.660
+Die KI erinnert sich nicht
+
+639
+00:22:53.660 --> 00:22:55.340
+dauerhaft daran, was in
+
+640
+00:22:55.340 --> 00:22:56.940
+früheren Chats gesagt wurde.
+
+641
+00:22:58.060 --> 00:22:59.860
+Auch wenn in Context Learning
+
+642
+00:22:59.860 --> 00:23:01.020
+sehr hilfreich ist,
+
+643
+00:23:01.020 --> 00:23:03.420
+hat es klare technische Grenzen.
+
+644
+00:23:04.140 --> 00:23:06.380
+Das sogenannte Kontextfenster
+
+645
+00:23:06.380 --> 00:23:07.580
+ist begrenzt.
+
+646
+00:23:07.580 --> 00:23:09.020
+Nur eine bestimmte Anzahl
+
+647
+00:23:09.020 --> 00:23:10.060
+von Wörtern oder
+
+648
+00:23:10.060 --> 00:23:11.660
+Zeichen kann gleichzeitig
+
+649
+00:23:11.660 --> 00:23:13.260
+berücksichtigt werden.
+
+650
+00:23:13.260 --> 00:23:14.940
+Ist der Prompt zu lang,
+
+651
+00:23:14.940 --> 00:23:17.260
+werden frühere Inhalte eventuell
+
+652
+00:23:17.260 --> 00:23:18.710
+früher vergessen.
+
+653
+00:23:18.710 --> 00:23:20.270
+Die KI kann nicht logisch
+
+654
+00:23:20.270 --> 00:23:22.070
+schlussfolgern wie ein Mensch.
+
+655
+00:23:22.070 --> 00:23:23.430
+Sie erkennt Muster,
+
+656
+00:23:23.430 --> 00:23:24.750
+aber versteht nicht wirklich,
+
+657
+00:23:24.750 --> 00:23:26.150
+was diese bedeuten.
+
+658
+00:23:26.950 --> 00:23:29.230
+Bei zu vagen oder widersprüchlichen
+
+659
+00:23:29.230 --> 00:23:31.350
+Kontexten können die Ergebnisse
+
+660
+00:23:31.350 --> 00:23:33.350
+ungenau oder unpassend sein.
+
+661
+00:23:34.470 --> 00:23:35.670
+Im Unterricht kann
+
+662
+00:23:35.670 --> 00:23:37.470
+in Context Learning genutzt
+
+663
+00:23:37.470 --> 00:23:39.270
+werden, differenzierte
+
+664
+00:23:39.270 --> 00:23:40.470
+Aufgaben zu erstellen.
+
+665
+00:23:41.350 --> 00:23:42.470
+Hier ist ein Text
+
+666
+00:23:42.470 --> 00:23:43.910
+für starke Lernende.
+
+667
+00:23:44.450 --> 00:23:45.930
+Erstelle eine vereinfachte
+
+668
+00:23:45.930 --> 00:23:47.610
+Version für Schülerinnen und
+
+669
+00:23:47.610 --> 00:23:49.890
+Schüler mit Sprachförderbedarf.
+
+670
+00:23:50.690 --> 00:23:52.970
+Die KI erkennt den Stil und
+
+671
+00:23:52.970 --> 00:23:54.690
+passt den Text sprachlich an.
+
+672
+00:23:55.490 --> 00:23:56.770
+In der Verwaltung lassen
+
+673
+00:23:56.770 --> 00:23:58.090
+sich Formatvorgaben oder
+
+674
+00:23:58.090 --> 00:24:00.130
+Textbausteine nutzen.
+
+675
+00:24:00.130 --> 00:24:01.970
+Nutze folgende Textstruktur für
+
+676
+00:24:01.970 --> 00:24:05.650
+den neuen Eins Begrüßung, zweite
+
+677
+00:24:06.610 --> 00:24:09.250
+dritte Infos, vier Kontakt.
+
+678
+00:24:09.980 --> 00:24:11.460
+Die KI erstellt den neuen
+
+679
+00:24:11.460 --> 00:24:13.580
+Text nach dieser Struktur.
+
+680
+00:24:13.580 --> 00:24:15.540
+In Context Learning ist ein
+
+681
+00:24:15.540 --> 00:24:17.180
+wirkungsvolles Werkzeug,
+
+682
+00:24:17.180 --> 00:24:19.620
+KI Ausgaben an den eigenen Stil,
+
+683
+00:24:19.620 --> 00:24:21.660
+die Zielgruppe oder konkrete
+
+684
+00:24:21.660 --> 00:24:23.340
+Beispiele anzupassen.
+
+685
+00:24:23.340 --> 00:24:25.300
+Es funktioniert besonders gut, wenn
+
+686
+00:24:25.300 --> 00:24:27.100
+man die erwartete Struktur oder
+
+687
+00:24:27.100 --> 00:24:29.660
+Tonlage durch Beispiele vorgibt.
+
+688
+00:24:29.660 --> 00:24:31.220
+Gleichzeitig sollte man
+
+689
+00:24:31.220 --> 00:24:32.420
+die technischen Grenzen
+
+690
+00:24:32.420 --> 00:24:33.580
+im Blick behalten.
+
+691
+00:24:33.580 --> 00:24:35.470
+Die KI denkt nicht mit,
+
+692
+00:24:35.470 --> 00:24:37.230
+sondern folgt Mustern.
+
+693
+00:24:37.230 --> 00:24:38.830
+Je besser die Vorlage,
+
+694
+00:24:38.830 --> 00:24:40.350
+desto besser das Ergebnis.
+
+695
+00:24:44.750 --> 00:24:46.910
+Neben Texten können KI Modelle
+
+696
+00:24:46.910 --> 00:24:49.110
+auch Bilder generieren, z.B.
+
+697
+00:24:49.110 --> 00:24:50.310
+mit Diensten wie Dall-E
+
+698
+00:24:50.310 --> 00:24:51.549
+oder Midjourney.
+
+699
+00:24:52.350 --> 00:24:54.270
+Die zugrundeliegenden Prinzipien
+
+700
+00:24:54.270 --> 00:24:56.510
+des Promptings bleiben gleich.
+
+701
+00:24:56.510 --> 00:24:58.350
+Auch hier gilt es, der KI
+
+702
+00:24:58.350 --> 00:24:59.710
+klar zu sagen, was sie
+
+703
+00:24:59.710 --> 00:25:01.630
+zeigen soll, in welchem Stil
+
+704
+00:25:02.170 --> 00:25:03.290
+und für welchen Zweck.
+
+705
+00:25:04.410 --> 00:25:05.530
+Dabei gibt es ein paar
+
+706
+00:25:06.970 --> 00:25:09.410
+visuelle KIs reagieren sehr stark
+
+707
+00:25:09.410 --> 00:25:11.290
+auf Details im Prompt.
+
+708
+00:25:11.290 --> 00:25:14.090
+Je konkreter Farben, Perspektive,
+
+709
+00:25:14.090 --> 00:25:16.130
+Stil und dargestellte Objekte
+
+710
+00:25:16.130 --> 00:25:17.850
+beschrieben werden, desto
+
+711
+00:25:17.850 --> 00:25:19.530
+brauchbarer wird das Ergebnis.
+
+712
+00:25:20.810 --> 00:25:21.930
+Ein Beispiel aus dem
+
+713
+00:25:23.290 --> 00:25:25.090
+Erstelle eine anschauliche
+
+714
+00:25:25.090 --> 00:25:27.290
+Illustration der Photosynthese
+
+715
+00:25:27.290 --> 00:25:28.930
+für den Biologieunterricht
+
+716
+00:25:28.930 --> 00:25:30.090
+in der siebte Klasse.
+
+717
+00:25:30.830 --> 00:25:32.070
+Zeige ein Blatt, das
+
+718
+00:25:32.070 --> 00:25:33.550
+Sonnenlicht aufnimmt.
+
+719
+00:25:33.550 --> 00:25:35.390
+Stelle mit Pfeilen dar,
+
+720
+00:25:35.390 --> 00:25:37.110
+wie Kohlendioxid aus der
+
+721
+00:25:37.110 --> 00:25:38.550
+Luft und Wasser aus dem
+
+722
+00:25:38.550 --> 00:25:40.190
+Boden aufgenommen werden.
+
+723
+00:25:40.190 --> 00:25:41.950
+Gib außerdem an, dass
+
+724
+00:25:41.950 --> 00:25:44.030
+Sauerstoff freigesetzt wird.
+
+725
+00:25:44.030 --> 00:25:46.710
+Der Stil soll kindgerecht, aber
+
+726
+00:25:46.710 --> 00:25:48.350
+wissenschaftlich korrekt sein,
+
+727
+00:25:48.350 --> 00:25:50.430
+wie in einem modernen Schulbuch.
+
+728
+00:25:51.390 --> 00:25:52.950
+Solche Prompts erzeugen
+
+729
+00:25:52.950 --> 00:25:54.870
+visuelle Lernmaterialien, die
+
+730
+00:25:54.870 --> 00:25:56.070
+Lehrkräfte im Unterricht
+
+731
+00:25:56.070 --> 00:25:57.630
+flexibel einsetzen können.
+
+732
+00:25:59.020 --> 00:26:00.300
+Bilder, die durch KI
+
+733
+00:26:00.300 --> 00:26:01.540
+erstellt wurden, können
+
+734
+00:26:01.540 --> 00:26:03.020
+direkt heruntergeladen
+
+735
+00:26:03.020 --> 00:26:04.380
+oder bearbeitet werden.
+
+736
+00:26:04.940 --> 00:26:06.660
+So entstehen passgenaue
+
+737
+00:26:06.660 --> 00:26:07.660
+Visualisierungen
+
+738
+00:26:07.660 --> 00:26:08.540
+für den Unterricht.
+
+739
+00:26:10.220 --> 00:26:11.780
+Auch bei der Textgenerierung
+
+740
+00:26:11.780 --> 00:26:12.740
+lohnt sich der Blick
+
+741
+00:26:12.740 --> 00:26:14.780
+auf Exportfunktionen.
+
+742
+00:26:14.780 --> 00:26:17.620
+Inhalte aus ChatGPT lassen sich
+
+743
+00:26:17.620 --> 00:26:19.020
+mit einem einfachen Zusatz
+
+744
+00:26:19.020 --> 00:26:20.380
+im Prompt in verschiedenen
+
+745
+00:26:20.380 --> 00:26:22.980
+Dateiformaten ausgeben, z.B.
+
+746
+00:26:22.980 --> 00:26:26.370
+als CSV Tabelle oder Docs Dokument.
+
+747
+00:26:27.490 --> 00:26:29.330
+Ein Beispiel Prompt für den
+
+748
+00:26:30.290 --> 00:26:32.690
+du bist eine Grundschullehrerin.
+
+749
+00:26:32.690 --> 00:26:34.490
+Erstelle einen tabellarischen
+
+750
+00:26:34.490 --> 00:26:35.770
+Verlaufsplan für eine
+
+751
+00:26:35.770 --> 00:26:38.050
+Sachunterrichtsstunde zum Thema
+
+752
+00:26:38.050 --> 00:26:40.130
+Wald in der zweite Klasse.
+
+753
+00:26:40.690 --> 00:26:43.050
+Das Lernziel der h die Schüler
+
+754
+00:26:43.050 --> 00:26:44.450
+und Schülerinnen erkunden
+
+755
+00:26:44.450 --> 00:26:46.050
+die Pflanzen im Lebensraum
+
+756
+00:26:46.050 --> 00:26:48.210
+Wald im Raum Hannover.
+
+757
+00:26:48.210 --> 00:26:50.290
+Die Tabelle soll folgende Spalten
+
+758
+00:26:51.280 --> 00:26:53.200
+Phase, Zeit, Methode,
+
+759
+00:26:53.200 --> 00:26:54.960
+Sozialform, Material.
+
+760
+00:26:55.600 --> 00:26:57.200
+Gib den Plan im Format
+
+761
+00:26:57.200 --> 00:26:59.040
+einer CSV Tabelle aus.
+
+762
+00:27:00.080 --> 00:27:02.480
+Die KI erstellt eine strukturierte
+
+763
+00:27:02.480 --> 00:27:03.680
+Tabelle, die direkt
+
+764
+00:27:03.680 --> 00:27:05.520
+weiterverarbeitet werden kann.
+
+765
+00:27:07.040 --> 00:27:09.040
+Und Beispiel prompt aus der
+
+766
+00:27:10.160 --> 00:27:12.720
+du arbeitest in der Verwaltung.
+
+767
+00:27:12.720 --> 00:27:14.520
+Erstelle eine strukturierte To
+
+768
+00:27:14.520 --> 00:27:16.000
+do Liste zur Vorbereitung
+
+769
+00:27:16.000 --> 00:27:18.040
+eines Fortbildungsangebots mit
+
+770
+00:27:18.040 --> 00:27:22.000
+folgenden Aufgabe, Zuständigkeit,
+
+771
+00:27:22.000 --> 00:27:23.920
+Frist, Bemerkungen.
+
+772
+00:27:23.920 --> 00:27:25.600
+Gib die Liste als Word
+
+773
+00:27:25.600 --> 00:27:27.680
+Dokument im docx Format aus.
+
+774
+00:27:28.720 --> 00:27:30.640
+Solche Prompts helfen dabei,
+
+775
+00:27:30.640 --> 00:27:32.280
+organisatorische Aufgaben
+
+776
+00:27:32.280 --> 00:27:33.160
+übersichtlich zu
+
+777
+00:27:33.160 --> 00:27:35.120
+dokumentieren und zu teilen.
+
+778
+00:27:38.400 --> 00:27:40.600
+Künstliche Intelligenz begegnet
+
+779
+00:27:40.600 --> 00:27:42.600
+uns nicht nur in offenen Tools
+
+780
+00:27:42.600 --> 00:27:46.140
+wie ChatGPT oder Mistral.
+
+781
+00:27:46.140 --> 00:27:47.460
+Vieles geschieht heute im
+
+782
+00:27:47.460 --> 00:27:49.100
+Hintergrund in Programmen,
+
+783
+00:27:49.100 --> 00:27:50.700
+die wir täglich nutzen,
+
+784
+00:27:50.700 --> 00:27:52.620
+etwa in Textverarbeitung,
+
+785
+00:27:52.620 --> 00:27:54.820
+E Mail Lernplattformen oder
+
+786
+00:27:54.820 --> 00:27:56.460
+Verwaltungssoftware.
+
+787
+00:27:56.460 --> 00:27:57.940
+Man spricht hier von KI
+
+788
+00:27:57.940 --> 00:28:00.300
+Interfaces oder KI Layern,
+
+789
+00:28:00.300 --> 00:28:02.620
+eingebettete Systeme, die KI
+
+790
+00:28:02.620 --> 00:28:04.460
+Funktionen nahtlos in bekannte
+
+791
+00:28:04.460 --> 00:28:05.820
+Oberflächen integrieren.
+
+792
+00:28:06.780 --> 00:28:08.500
+Bei der direkten Interaktion
+
+793
+00:28:08.500 --> 00:28:09.820
+arbeiten wir unmittelbar
+
+794
+00:28:09.820 --> 00:28:11.260
+mit einer KI Plattform.
+
+795
+00:28:11.890 --> 00:28:13.890
+Wir öffnen einen KI Chatbot,
+
+796
+00:28:13.890 --> 00:28:15.690
+geben eine Eingabe ein und
+
+797
+00:28:15.690 --> 00:28:17.410
+erhalten direkt eine Antwort.
+
+798
+00:28:18.530 --> 00:28:20.690
+Bei der vermittelten Interaktion
+
+799
+00:28:20.690 --> 00:28:22.850
+nutzen wir ein System, z.B.
+
+800
+00:28:22.850 --> 00:28:25.730
+microsoft Word, das KI Funktionen
+
+801
+00:28:25.730 --> 00:28:27.569
+im Hintergrund bereitstellt,
+
+802
+00:28:27.569 --> 00:28:29.650
+etwa für Textvorschläge,
+
+803
+00:28:29.650 --> 00:28:31.650
+automatische Zusammenfassungen
+
+804
+00:28:31.650 --> 00:28:33.730
+oder Stilkorrekturen.
+
+805
+00:28:34.450 --> 00:28:35.730
+Beide Varianten haben
+
+806
+00:28:35.730 --> 00:28:37.170
+ihre Vor- und Nachteile.
+
+807
+00:28:37.750 --> 00:28:39.390
+Direkte Interaktion bietet
+
+808
+00:28:39.390 --> 00:28:40.550
+mehr Steuerung,
+
+809
+00:28:40.550 --> 00:28:42.550
+mehr Prompting Möglichkeiten.
+
+810
+00:28:43.350 --> 00:28:45.030
+Vermittelte Interaktion ist
+
+811
+00:28:45.030 --> 00:28:47.110
+oft komfortabler, dafür
+
+812
+00:28:47.110 --> 00:28:48.710
+aber weniger transparent.
+
+813
+00:28:49.910 --> 00:28:52.790
+Ein Beispiel aus der ein KI
+
+814
+00:28:52.790 --> 00:28:54.950
+gestütztes Textverarbeitungssystem
+
+815
+00:28:54.950 --> 00:28:56.150
+erkennt, dass sie
+
+816
+00:28:56.150 --> 00:28:57.830
+einen Elternbrief schreiben
+
+817
+00:28:57.830 --> 00:28:59.350
+und bietet automatisch
+
+818
+00:28:59.350 --> 00:29:01.430
+passende Formulierungen an.
+
+819
+00:29:01.430 --> 00:29:03.640
+Das spart Zeit, aber sie wissen
+
+820
+00:29:03.640 --> 00:29:05.240
+nicht immer genau, auf welcher
+
+821
+00:29:05.240 --> 00:29:07.280
+Basis die Vorschläge entstehen.
+
+822
+00:29:08.240 --> 00:29:09.440
+Ein Beispiel aus dem Unterricht
+
+823
+00:29:10.480 --> 00:29:12.320
+ein Lernmanagementsystem
+
+824
+00:29:12.320 --> 00:29:14.440
+stellt automatisch differenzierte
+
+825
+00:29:14.440 --> 00:29:15.160
+Aufgaben zum
+
+826
+00:29:15.160 --> 00:29:16.880
+hochgeladenen Arbeitsblatt.
+
+827
+00:29:17.440 --> 00:29:19.640
+Die KI hilft beim Generieren von
+
+828
+00:29:19.640 --> 00:29:21.840
+Quizfragen oder Zusammenfassungen,
+
+829
+00:29:21.840 --> 00:29:23.560
+ohne dass klar ist, wie
+
+830
+00:29:23.560 --> 00:29:25.360
+die Inhalte gewichtet wurden.
+
+831
+00:29:26.320 --> 00:29:28.600
+KI wird außerdem zunehmend in
+
+832
+00:29:28.600 --> 00:29:30.160
+bestehende Systeme integriert.
+
+833
+00:29:31.010 --> 00:29:32.930
+Große Anbieter wie Microsoft,
+
+834
+00:29:32.930 --> 00:29:35.450
+Google oder Nextcloud integrieren
+
+835
+00:29:35.450 --> 00:29:37.890
+KI zunehmend in ihre Produkte.
+
+836
+00:29:37.890 --> 00:29:41.370
+In Microsoft 365 bietet der
+
+837
+00:29:41.370 --> 00:29:43.970
+copilot KI Unterstützung beim
+
+838
+00:29:43.970 --> 00:29:45.570
+Schreiben, Strukturieren
+
+839
+00:29:45.570 --> 00:29:47.730
+und Analysieren von Texten.
+
+840
+00:29:48.530 --> 00:29:51.730
+In Nextcloud erzeugt die KI z.b.
+
+841
+00:29:51.730 --> 00:29:53.810
+automatische E Mail Entwürfe
+
+842
+00:29:53.810 --> 00:29:56.050
+oder Textvorschläge in Docs.
+
+843
+00:29:57.200 --> 00:29:58.720
+Für Schulen und Verwaltungen
+
+844
+00:29:58.720 --> 00:30:01.160
+bedeutet KI ist bereits
+
+845
+00:30:01.160 --> 00:30:02.920
+im System, auch wenn sie
+
+846
+00:30:02.920 --> 00:30:04.160
+nicht immer sichtbar ist.
+
+847
+00:30:05.280 --> 00:30:07.600
+Wichtig ist hier die Kontrolle zu
+
+848
+00:30:08.480 --> 00:30:09.440
+wer trifft die
+
+849
+00:30:10.480 --> 00:30:12.000
+Mensch oder Maschine?
+
+850
+00:30:13.120 --> 00:30:15.600
+Welche Inhalte wurden verwendet,
+
+851
+00:30:15.600 --> 00:30:16.960
+Vorschläge zu erstellen?
+
+852
+00:30:18.000 --> 00:30:19.840
+Sind Datenschutzstandards
+
+853
+00:30:19.840 --> 00:30:20.480
+eingehalten?
+
+854
+00:30:21.930 --> 00:30:23.050
+Besonders bei vermittelter
+
+855
+00:30:23.050 --> 00:30:24.490
+Interaktion stellt sich die
+
+856
+00:30:25.370 --> 00:30:26.970
+Welche Daten fließen in
+
+857
+00:30:26.970 --> 00:30:28.810
+die KI Verarbeitung ein?
+
+858
+00:30:29.850 --> 00:30:31.330
+Gerade im schulischen Bereich
+
+859
+00:30:31.330 --> 00:30:32.330
+gelten strenge
+
+860
+00:30:33.610 --> 00:30:35.690
+Keine personenbezogenen Daten
+
+861
+00:30:35.690 --> 00:30:37.770
+dürfen ungeprüft in Systeme
+
+862
+00:30:37.770 --> 00:30:39.770
+mit unbekannter Datenverarbeitung
+
+863
+00:30:39.770 --> 00:30:40.650
+gegeben werden.
+
+864
+00:30:41.770 --> 00:30:43.490
+Viele Anbieter speichern
+
+865
+00:30:43.490 --> 00:30:45.250
+Eingaben zur Weiterverarbeitung
+
+866
+00:30:45.250 --> 00:30:46.330
+oder Analyse.
+
+867
+00:30:47.620 --> 00:30:49.020
+Neben dem Datenschutz stellt
+
+868
+00:30:49.020 --> 00:30:50.420
+sich auch die Frage nach dem
+
+869
+00:30:51.700 --> 00:30:52.580
+was passiert,
+
+870
+00:30:52.580 --> 00:30:55.050
+wenn geschützte Materialien, z.B.
+
+871
+00:30:55.050 --> 00:30:57.580
+ein Schulbuchtext in eine KI
+
+872
+00:30:57.580 --> 00:30:59.420
+gestützte Anwendung eingegeben
+
+873
+00:30:59.420 --> 00:31:01.660
+werden, auch wenn die KI
+
+874
+00:31:01.660 --> 00:31:03.300
+dabei nur Vorschläge macht.
+
+875
+00:31:04.020 --> 00:31:06.060
+Wird urheberrechtlich geschütztes
+
+876
+00:31:06.060 --> 00:31:07.660
+Material in diese Systeme
+
+877
+00:31:07.660 --> 00:31:09.380
+eingebracht, kann dies eine
+
+878
+00:31:09.380 --> 00:31:11.620
+unzulässige Nutzung darstellen,
+
+879
+00:31:11.620 --> 00:31:12.860
+selbst wenn der KI
+
+880
+00:31:12.860 --> 00:31:14.260
+Layer im Hintergrund agiert.
+
+881
+00:31:16.730 --> 00:31:18.690
+Empfehlungen für die Arbeitspraxis
+
+882
+00:31:18.690 --> 00:31:19.690
+sind beispielsweise
+
+883
+00:31:20.970 --> 00:31:23.170
+Arbeiten sie mit anonymisierten
+
+884
+00:31:23.170 --> 00:31:24.810
+oder beispielhaften Daten.
+
+885
+00:31:25.930 --> 00:31:27.330
+Verwenden sie möglichst
+
+886
+00:31:27.330 --> 00:31:29.610
+eigene, offen lizenzierte oder
+
+887
+00:31:29.610 --> 00:31:31.570
+gemeinfreie Inhalte,
+
+888
+00:31:31.570 --> 00:31:33.530
+rechtliche Risiken zu vermeiden.
+
+889
+00:31:34.570 --> 00:31:37.530
+Prüfen Sie, ob der Anbieter DSGVO
+
+890
+00:31:37.530 --> 00:31:38.650
+konform arbeitet.
+
+891
+00:31:39.530 --> 00:31:41.570
+Klären sie mit Ihrer Schulleitung
+
+892
+00:31:41.570 --> 00:31:43.570
+oder dem Datenschutzbeauftragten,
+
+893
+00:31:43.570 --> 00:31:44.530
+welche Tools
+
+894
+00:31:44.530 --> 00:31:46.090
+offiziell freigegeben sind.
+
+895
+00:31:46.790 --> 00:31:48.390
+Für tiefergehende Informationen
+
+896
+00:31:48.390 --> 00:31:50.550
+zu Datenschutz und Urheberrecht
+
+897
+00:31:50.550 --> 00:31:51.430
+schauen sie sich die
+
+898
+00:31:51.430 --> 00:31:55.270
+Module Einführung M1.1-5 Datenschutz
+
+899
+00:31:55.990 --> 00:32:00.390
+und M1.1-6 Einführung Urheberrecht
+
+900
+00:32:00.390 --> 00:32:01.990
+dieser Kursreihe an.
+
+901
+00:32:02.950 --> 00:32:04.950
+KI ist längst Teil unserer
+
+902
+00:32:04.950 --> 00:32:07.230
+digitalen Werkzeuge, sowohl
+
+903
+00:32:07.230 --> 00:32:09.590
+sichtbar als auch unsichtbar.
+
+904
+00:32:10.230 --> 00:32:12.390
+Wer KI kompetent nutzen will,
+
+905
+00:32:12.950 --> 00:32:14.030
+sollte die Unterschiede
+
+906
+00:32:14.030 --> 00:32:15.870
+zwischen direkter und vermittelter
+
+907
+00:32:15.870 --> 00:32:17.270
+Interaktion kennen
+
+908
+00:32:17.270 --> 00:32:18.870
+und bewusst entscheiden,
+
+909
+00:32:18.870 --> 00:32:20.950
+wann welches Tool geeignet ist.
+
+910
+00:32:21.590 --> 00:32:22.910
+Nur so behalten wir die
+
+911
+00:32:22.910 --> 00:32:25.070
+Kontrolle über Prozesse, Inhalte
+
+912
+00:32:25.070 --> 00:32:26.630
+und Verantwortlichkeiten.
+
+913
+00:32:30.710 --> 00:32:32.870
+Beim Einsatz von KI in Schule
+
+914
+00:32:32.870 --> 00:32:35.150
+und Verwaltung geht es nicht nur
+
+915
+00:32:35.150 --> 00:32:36.790
+Technik und Effizienz.
+
+916
+00:32:37.430 --> 00:32:38.870
+Ebenso wichtig ist die
+
+917
+00:32:39.850 --> 00:32:41.610
+wie verantwortungsvoll gehen
+
+918
+00:32:41.610 --> 00:32:44.130
+wir mit KI Wir werfen einen
+
+919
+00:32:44.130 --> 00:32:46.170
+Blick auf Ethik und KI.
+
+920
+00:32:46.170 --> 00:32:47.850
+Dabei stehen drei Themen im
+
+921
+00:32:48.730 --> 00:32:49.130
+Datenschutz,
+
+922
+00:32:49.690 --> 00:32:51.530
+Informationssicherheit,
+
+923
+00:32:51.530 --> 00:32:53.930
+Verzerrungen und gesellschaftliche
+
+924
+00:32:53.930 --> 00:32:54.570
+Auswirkungen.
+
+925
+00:32:55.770 --> 00:32:58.170
+KI Systeme wie ChatGPT
+
+926
+00:32:58.170 --> 00:33:00.330
+verarbeiten Texte, aber oft auch
+
+927
+00:33:00.330 --> 00:33:02.810
+Metadaten und Nutzereingaben.
+
+928
+00:33:02.810 --> 00:33:04.290
+Gerade im Bildungsbereich
+
+929
+00:33:04.290 --> 00:33:05.610
+ist der Schutz sensibler
+
+930
+00:33:05.610 --> 00:33:07.050
+Informationen entscheidend.
+
+931
+00:33:07.870 --> 00:33:08.830
+Wichtig dabei zu
+
+932
+00:33:09.630 --> 00:33:11.790
+keine personenbezogenen Daten
+
+933
+00:33:11.790 --> 00:33:13.510
+wie Namen von Schülerinnen und
+
+934
+00:33:13.510 --> 00:33:15.630
+Schülern in frei zugängliche
+
+935
+00:33:15.630 --> 00:33:17.310
+KI Systeme eingeben.
+
+936
+00:33:18.190 --> 00:33:20.670
+Nur anonymisierte oder fiktive
+
+937
+00:33:20.670 --> 00:33:22.790
+Beispiele verwenden, z.B.
+
+938
+00:33:22.790 --> 00:33:26.990
+platzhalter wie Name, DSGVO
+
+939
+00:33:26.990 --> 00:33:29.030
+konforme und freigegebene Tools
+
+940
+00:33:29.030 --> 00:33:31.030
+verwenden und gegebenenfalls
+
+941
+00:33:31.030 --> 00:33:31.950
+Freigabe durch
+
+942
+00:33:31.950 --> 00:33:33.870
+Datenschutzbeauftragte und
+
+943
+00:33:33.870 --> 00:33:35.990
+Informationssicherheitsbeauftrage
+
+944
+00:33:35.990 --> 00:33:36.670
+einholen.
+
+945
+00:33:38.840 --> 00:33:41.360
+Ein Tipp nutzen sie den in
+
+946
+00:33:41.360 --> 00:33:43.040
+den vertiefenden Materialien
+
+947
+00:33:43.040 --> 00:33:44.520
+verlinkten Leitfaden.
+
+948
+00:33:44.520 --> 00:33:46.600
+Er bietet konkrete Hilfestellungen
+
+949
+00:33:46.600 --> 00:33:48.600
+für den schulischen KI Einsatz.
+
+950
+00:33:49.560 --> 00:33:52.240
+KI lernt aus Daten und diese
+
+951
+00:33:52.240 --> 00:33:54.040
+Daten enthalten oft ungewollte
+
+952
+00:33:54.040 --> 00:33:56.880
+Vorurteile, einseitige Sichtweisen
+
+953
+00:33:56.880 --> 00:33:59.160
+oder stereotype Muster.
+
+954
+00:33:59.160 --> 00:34:00.440
+Was heißt das konkret?
+
+955
+00:34:01.000 --> 00:34:02.960
+Ein KI generierter Text kann
+
+956
+00:34:02.960 --> 00:34:04.520
+bestimmte Gruppen benachteiligen
+
+957
+00:34:05.050 --> 00:34:06.970
+oder falsche Annahmen wiederholen.
+
+958
+00:34:07.770 --> 00:34:10.010
+In Fächern wie Geschichte,
+
+959
+00:34:10.010 --> 00:34:12.210
+Politik oder Ethik kann das
+
+960
+00:34:12.210 --> 00:34:14.010
+besonders problematisch sein.
+
+961
+00:34:15.130 --> 00:34:16.489
+Was können sie tun?
+
+962
+00:34:17.130 --> 00:34:19.850
+KI Antworten immer kritisch prüfen,
+
+963
+00:34:19.850 --> 00:34:22.250
+insbesondere bei sensiblen Themen.
+
+964
+00:34:23.050 --> 00:34:25.250
+Lernende gezielt fördern, solche
+
+965
+00:34:25.250 --> 00:34:26.650
+Verzerrungen zu erkennen.
+
+966
+00:34:27.610 --> 00:34:29.850
+Feedback an die KI geben.
+
+967
+00:34:29.850 --> 00:34:31.130
+Viele Tools lassen
+
+968
+00:34:31.130 --> 00:34:32.330
+Nutzerbewertungen zu,
+
+969
+00:34:32.989 --> 00:34:34.270
+um Modelle zu verbessern.
+
+970
+00:34:35.150 --> 00:34:36.949
+Die Nutzung von KI verändert
+
+971
+00:34:36.949 --> 00:34:38.389
+Rollen, Prozesse und
+
+972
+00:34:38.389 --> 00:34:40.110
+Erwartungen im Bildungssystem.
+
+973
+00:34:40.750 --> 00:34:42.670
+Dabei stellen sich grundsätzliche
+
+974
+00:34:43.630 --> 00:34:44.830
+wird selbstständiges
+
+975
+00:34:44.830 --> 00:34:46.429
+Denken durch KI ersetzt,
+
+976
+00:34:47.469 --> 00:34:49.150
+verändern sich die Rollen und
+
+977
+00:34:49.150 --> 00:34:50.790
+Anforderungen an Lehrkräfte
+
+978
+00:34:50.790 --> 00:34:52.190
+und Verwaltungspersonal.
+
+979
+00:34:53.230 --> 00:34:55.030
+Wie sichern wir Transparenz und
+
+980
+00:34:55.030 --> 00:34:56.750
+Verantwortung im Umgang mit
+
+981
+00:34:56.750 --> 00:34:58.350
+automatisierten Vorschlägen?
+
+982
+00:34:59.540 --> 00:35:01.780
+Statt KI einfach zu verbieten
+
+983
+00:35:01.780 --> 00:35:03.940
+oder unkritisch einzusetzen,
+
+984
+00:35:03.940 --> 00:35:06.020
+brauchen wir einen ausgewogenen,
+
+985
+00:35:06.020 --> 00:35:07.940
+reflektierten Umgang.
+
+986
+00:35:07.940 --> 00:35:11.910
+Das Einsatz bewusst begrenzen, z.B.
+
+987
+00:35:11.910 --> 00:35:13.780
+in Prüfungssituationen.
+
+988
+00:35:14.579 --> 00:35:16.300
+Leitlinien für fairen und
+
+989
+00:35:16.300 --> 00:35:18.060
+transparenten Einsatz in Schule
+
+990
+00:35:18.060 --> 00:35:19.460
+und Verwaltung entwickeln.
+
+991
+00:35:20.420 --> 00:35:22.500
+Ethik als Teil der Medienbildung
+
+992
+00:35:22.500 --> 00:35:24.850
+mitdenken und im Kollegium
+
+993
+00:35:24.850 --> 00:35:26.610
+wie im Unterricht thematisieren.
+
+994
+00:35:27.570 --> 00:35:30.050
+KI bringt große Chancen mit sich,
+
+995
+00:35:30.050 --> 00:35:32.050
+aber auch neue Herausforderungen.
+
+996
+00:35:32.690 --> 00:35:34.730
+Wer verantwortungsvoll mit KI
+
+997
+00:35:34.730 --> 00:35:36.930
+arbeitet, achtet auf Datenschutz.
+
+998
+00:35:36.930 --> 00:35:39.410
+Urheberrecht erkennt Bias
+
+999
+00:35:39.410 --> 00:35:40.689
+und reflektiert die
+
+1000
+00:35:40.689 --> 00:35:41.970
+gesellschaftlichen Folgen.
+
+1001
+00:35:42.530 --> 00:35:44.490
+So können wir als Lehrende und
+
+1002
+00:35:44.490 --> 00:35:46.410
+verwaltungsmitarbeitende Vorbilder
+
+1003
+00:35:46.410 --> 00:35:48.970
+sein für einen klugen, fairen und
+
+1004
+00:35:48.970 --> 00:35:50.850
+bewussten Umgang mit Technologie.
+
+1005
+00:35:55.280 --> 00:35:56.520
+In diesem Video haben sie
+
+1006
+00:35:56.520 --> 00:35:58.280
+einen umfassenden Einstieg in
+
+1007
+00:35:58.280 --> 00:36:00.120
+das Thema KI prompting und
+
+1008
+00:36:00.120 --> 00:36:01.520
+Textgenerierung erhalten.
+
+1009
+00:36:02.160 --> 00:36:04.680
+Ziel war es, ihnen ein praxisnahes,
+
+1010
+00:36:04.680 --> 00:36:06.680
+verständliches und reflektiertes
+
+1011
+00:36:06.680 --> 00:36:08.520
+Bild zu vermitteln, wie KI
+
+1012
+00:36:08.520 --> 00:36:10.080
+in Schule und Schulverwaltung
+
+1013
+00:36:10.080 --> 00:36:12.160
+sinnvoll eingesetzt werden kann.
+
+1014
+00:36:12.160 --> 00:36:13.520
+Hier die wichtigsten Punkte
+
+1015
+00:36:13.520 --> 00:36:19.530
+im Überblick Technik verstehen
+
+1016
+00:36:19.530 --> 00:36:21.370
+Anwendung gestalten
+
+1017
+00:36:21.370 --> 00:36:22.970
+KI Textgeneratoren
+
+1018
+00:36:22.970 --> 00:36:24.410
+arbeiten rein statistisch
+
+1019
+00:36:24.410 --> 00:36:26.370
+und benötigen klar formulierte
+
+1020
+00:36:26.370 --> 00:36:27.850
+Prompts, brauchbare
+
+1021
+00:36:27.850 --> 00:36:29.210
+Ergebnisse zu liefern.
+
+1022
+00:36:30.010 --> 00:36:31.370
+Effektives Prompting
+
+1023
+00:36:31.370 --> 00:36:33.130
+basiert auf Klarheit, Kontext
+
+1024
+00:36:33.130 --> 00:36:34.410
+und Zielorientierung.
+
+1025
+00:36:35.530 --> 00:36:38.570
+Modelle wie das RACKZF-
+
+1026
+00:36:38.570 --> 00:36:40.290
+Framework oder Chain of
+
+1027
+00:36:40.290 --> 00:36:42.210
+Thought Prompting unterstützen
+
+1028
+00:36:42.210 --> 00:36:43.250
+bei der systematischen
+
+1029
+00:36:43.250 --> 00:36:44.490
+Erstellung von Eingaben.
+
+1030
+00:36:47.140 --> 00:36:49.940
+KI in Schule und Verwaltung nutzen.
+
+1031
+00:36:49.940 --> 00:36:51.900
+Lehrkräfte können KI zur
+
+1032
+00:36:51.900 --> 00:36:53.660
+Erstellung, Differenzierung
+
+1033
+00:36:53.660 --> 00:36:55.020
+und Reflexion von
+
+1034
+00:36:55.020 --> 00:36:57.060
+Unterrichtsmaterial einsetzen.
+
+1035
+00:36:57.780 --> 00:36:59.300
+Verwaltungsmitarbeitende
+
+1036
+00:36:59.300 --> 00:37:01.300
+profitieren bei standardisierten
+
+1037
+00:37:01.300 --> 00:37:02.900
+Schreiben, Protokollen,
+
+1038
+00:37:02.900 --> 00:37:05.380
+Übersetzungen und Planungshilfen.
+
+1039
+00:37:06.260 --> 00:37:08.340
+Der dialogorientierte Einsatz
+
+1040
+00:37:08.340 --> 00:37:10.780
+der KI ermöglicht passgenauere
+
+1041
+00:37:10.780 --> 00:37:11.890
+Ergebnisse
+
+1042
+00:37:11.890 --> 00:37:13.890
+durch Feedback und nach Steuerung
+
+1043
+00:37:15.970 --> 00:37:18.050
+verantwortungsvoll handeln.
+
+1044
+00:37:18.050 --> 00:37:20.730
+Datenschutz ist keine
+
+1045
+00:37:20.730 --> 00:37:22.850
+personenbezogenen Daten in offene
+
+1046
+00:37:22.850 --> 00:37:24.450
+KI Systeme eingeben.
+
+1047
+00:37:25.170 --> 00:37:28.210
+Urheberrecht nur lizenzfreie
+
+1048
+00:37:28.210 --> 00:37:29.730
+und offene Inhalte verwenden.
+
+1049
+00:37:30.610 --> 00:37:33.770
+Bias KI kann verzerrte
+
+1050
+00:37:33.770 --> 00:37:35.170
+Inhalte erzeugen.
+
+1051
+00:37:35.170 --> 00:37:36.530
+Kritisches Prüfen
+
+1052
+00:37:36.530 --> 00:37:37.730
+bleibt unverzichtbar.
+
+1053
+00:37:38.940 --> 00:37:42.100
+Didaktisch begleiten KI Einsatz
+
+1054
+00:37:42.100 --> 00:37:43.780
+muss immer eingebettet sein in
+
+1055
+00:37:43.780 --> 00:37:45.820
+Reflexion und bewusste Gestaltung.
+
+1056
+00:37:47.900 --> 00:37:49.900
+KI ist ein Werkzeug,
+
+1057
+00:37:49.900 --> 00:37:51.900
+das seine Stärken dort entfaltet,
+
+1058
+00:37:51.900 --> 00:37:53.500
+wo Menschen es mit Kompetenz
+
+1059
+00:37:53.500 --> 00:37:55.500
+und Verantwortung einsetzen.
+
+1060
+00:37:55.500 --> 00:37:58.380
+Ob im Klassenzimmer oder im Büro.
+
+1061
+00:37:58.380 --> 00:38:00.220
+Wer sich auf die Technik einlässt,
+
+1062
+00:38:00.220 --> 00:38:02.700
+klug fragt und achtsam handelt,
+
+1063
+00:38:02.700 --> 00:38:04.780
+kann von KI deutlich profitieren.
+
+1064
+00:38:05.550 --> 00:38:08.030
+Entlastung, Individualisierung
+
+1065
+00:38:08.030 --> 00:38:09.310
+und Innovation.
+
+1066
+00:38:10.110 --> 00:38:12.270
+Bleiben sie neugierig, kritisch
+
+1067
+00:38:12.270 --> 00:38:14.750
+und experimentierfreudig.
+
+1068
+00:38:14.750 --> 00:38:15.910
+So gestalten sie den
+
+1069
+00:38:15.910 --> 00:38:17.870
+digitalen Wandel aktiv mit.
+
+1070
+00:38:27.390 --> 00:38:32.400
+Fun Fact: Zum Abschluss werfen
+
+1071
+00:38:32.400 --> 00:38:33.920
+wir einen augenzwinkernden
+
+1072
+00:38:33.920 --> 00:38:34.920
+Blick auf ein berühmtes
+
+1073
+00:38:34.920 --> 00:38:37.040
+Gedankenexperiment aus der KI
+
+1074
+00:38:37.040 --> 00:38:38.920
+Welt, das eindrucksvoll zeigt,
+
+1075
+00:38:38.920 --> 00:38:41.000
+warum Zielvorgaben bei KI
+
+1076
+00:38:41.000 --> 00:38:42.080
+Systemen mit Bedacht
+
+1077
+00:38:42.080 --> 00:38:43.560
+formuliert werden müssen.
+
+1078
+00:38:44.440 --> 00:38:45.880
+Stellen sie sich vor,
+
+1079
+00:38:45.880 --> 00:38:47.880
+man entwickelt ein KI System
+
+1080
+00:38:47.880 --> 00:38:49.560
+mit dem scheinbar harmlosen
+
+1081
+00:38:50.280 --> 00:38:51.840
+Maximiere die Anzahl der
+
+1082
+00:38:51.840 --> 00:38:54.120
+produzierten Büroklammern.
+
+1083
+00:38:54.120 --> 00:38:55.520
+Was wie ein einfacher
+
+1084
+00:38:55.520 --> 00:38:57.370
+Produktionsauftrag klingt,
+
+1085
+00:38:57.370 --> 00:38:58.970
+wurde in der Theorie schnell zur
+
+1086
+00:38:58.970 --> 00:39:01.210
+abschreckenden Zukunftsvision.
+
+1087
+00:39:01.210 --> 00:39:03.290
+Die KI verfolgt ihr Ziel so
+
+1088
+00:39:03.290 --> 00:39:04.970
+radikal, dass sie beginnt,
+
+1089
+00:39:04.970 --> 00:39:06.730
+alle Ressourcen der Erde
+
+1090
+00:39:06.730 --> 00:39:08.210
+inklusive Menschen und
+
+1091
+00:39:08.210 --> 00:39:10.770
+Infrastruktur in Rohmaterial für
+
+1092
+00:39:10.770 --> 00:39:12.490
+Büroklammern umzuwandeln.
+
+1093
+00:39:13.610 --> 00:39:16.290
+Was als Satire begann, ist heute
+
+1094
+00:39:16.290 --> 00:39:18.490
+ein Klassiker der KI Ethik.
+
+1095
+00:39:19.050 --> 00:39:22.090
+Die zentrale wenn Ziele für
+
+1096
+00:39:22.090 --> 00:39:23.610
+KI Systeme nicht durch
+
+1097
+00:39:23.610 --> 00:39:25.090
+ethische Leitplanken und
+
+1098
+00:39:25.090 --> 00:39:26.410
+Kontext eingeschränkt werden,
+
+1099
+00:39:27.120 --> 00:39:28.480
+können sie zu unerwünschten
+
+1100
+00:39:28.480 --> 00:39:30.160
+Ergebnissen führen.
+
+1101
+00:39:30.160 --> 00:39:31.800
+Auch im schulischen Alltag
+
+1102
+00:39:31.800 --> 00:39:33.200
+zeigt dieses Beispiel,
+
+1103
+00:39:33.200 --> 00:39:36.040
+wie wichtig es ist, KI Anweisungen
+
+1104
+00:39:36.040 --> 00:39:37.600
+klar, konkret und
+
+1105
+00:39:37.600 --> 00:39:40.000
+verantwortungsvoll zu formulieren.
+
+1106
+00:39:40.000 --> 00:39:42.640
+KI braucht klare Rahmenbedingungen,
+
+1107
+00:39:42.640 --> 00:39:44.840
+nicht nur, gute Antworten zu
+
+1108
+00:39:44.840 --> 00:39:47.240
+liefern, sondern auch, damit wir
+
+1109
+00:39:47.240 --> 00:39:48.600
+nicht versehentlich eine Welt
+
+1110
+00:39:48.600 --> 00:39:50.320
+voller Büroklammern erschaffen.
