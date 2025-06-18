@@ -42,7 +42,7 @@ Für die erfolgreiche Teilnahme sind grundlegende Computerkenntnisse sowie ein a
 ## Bestandteile des Angebots
 
 - Texte
-- ppt
+- [Präsentation](https://speicher.nibis.de/s/3XgZQRDngL6eest)
 - Audiospur
 - Transkript
 - Beipackzettel für Fortbildende

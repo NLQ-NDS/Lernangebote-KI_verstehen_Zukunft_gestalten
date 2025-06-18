@@ -44,7 +44,7 @@ Die Bereitschaft zur Auseinandersetzung mit neuen Technologien und zur Reflexion
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentationen
+- [Präsentationen](https://speicher.nibis.de/s/P7paQaSZ9wGMKW6)
 - Audiospur der Videos
 - Transkripte
 - Beipackzettel für Fortbildende
