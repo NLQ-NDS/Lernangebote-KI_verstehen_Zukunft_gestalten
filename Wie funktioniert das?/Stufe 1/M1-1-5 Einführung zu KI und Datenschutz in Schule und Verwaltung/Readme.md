@@ -35,9 +35,6 @@ Für Personen ohne Vorerfahrung im Bereich KI wird die vorherige Bearbeitung der
 
 Erste praktische Erfahrungen mit KI-Tools können die Bearbeitung erleichtern, sind aber keine Voraussetzung. Entscheidend ist die Bereitschaft, sich mit datenschutzrechtlichen Fragestellungen auseinanderzusetzen und die eigene Medienpraxis kritisch zu reflektieren. Aspekte des Urheberrechts sind nicht Gegenstand dieses Angebots. Informationen hierzu finden Sie im Angebot M1.1 {KI und Urheberrecht}.
 
-
-
-
 ## Bestandteile des Angebots
 
 - Texte
@@ -46,6 +43,13 @@ Erste praktische Erfahrungen mit KI-Tools können die Bearbeitung erleichtern, s
 - Transkripte
 - Beipackzettel für Fortbildende
 
+## Kursdurchführung im NLC
+
+Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCenter (NLC) absolviert werden. Eine Anmeldung bzw. eine einmalige Registrierung im NLC ist hierfür erforderlich.
+
+Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
+
+**[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/49259)**
 
 ## Contribution
 

@@ -34,6 +34,13 @@ Das Lernangebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich
 - Transkripte
 - Beipackzettel für Fortbildende
 
+## Kursdurchführung im NLC
+
+Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCenter (NLC) absolviert werden. Eine Anmeldung bzw. eine einmalige Registrierung im NLC ist hierfür erforderlich.
+
+Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
+
+**[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/49280)**
 
 ## Contribution
 

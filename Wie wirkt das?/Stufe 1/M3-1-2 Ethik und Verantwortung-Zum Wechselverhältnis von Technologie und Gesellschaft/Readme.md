@@ -38,10 +38,7 @@ Es handelt sich um ein reines Selbstlernangebot. Nach erfolgreicher Anmeldung st
 Es sind keine spezifischen Vorkenntnisse im Bereich Informatik oder KI erforderlich. Grundlegende digitale Kompetenzen und die Bereitschaft zur kritischen Auseinandersetzung mit technischen, rechtlichen und gesellschaftlichen Fragestellungen sind hilfreich. Zur Vorbereitung oder Ergänzung werden die Lernangebote 
 
 - M1.1 Einführung: Künstliche Intelligenz in Schule und Unterricht – Funktionsweise, Chancen und Herausforderungen und 
-- M1.1 Einführung zu KI und Datenschutz in Schule und Verwaltung 
-
-empfohlen.
-
+- M1.1 Einführung zu KI und Datenschutz in Schule und Verwaltung empfohlen.
 
 ## Bestandteile des Angebots
 
@@ -51,6 +48,13 @@ empfohlen.
 - Transkripte
 - Beipackzettel für Fortbildende
 
+## Kursdurchführung im NLC
+
+Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCenter (NLC) absolviert werden. Eine Anmeldung bzw. eine einmalige Registrierung im NLC ist hierfür erforderlich.
+
+Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
+
+**[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/49269)**
 
 ## Contribution
 
