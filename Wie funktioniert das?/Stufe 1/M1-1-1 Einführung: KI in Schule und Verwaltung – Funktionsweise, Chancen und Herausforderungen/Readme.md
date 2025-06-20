@@ -43,6 +43,7 @@ Für die erfolgreiche Teilnahme sind grundlegende Computerkenntnisse sowie ein a
 
 - Texte
 - [Präsentation](https://speicher.nibis.de/s/3XgZQRDngL6eest)
+- [Video](https://speicher.nibis.de/s/LHJBxijmmkLNSiq)
 - Audiospur
 - Transkript
 - Beipackzettel für Fortbildende
