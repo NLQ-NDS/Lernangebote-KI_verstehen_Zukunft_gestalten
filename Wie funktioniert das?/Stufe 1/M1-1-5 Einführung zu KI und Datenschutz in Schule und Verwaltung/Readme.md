@@ -39,9 +39,9 @@ Erste praktische Erfahrungen mit KI-Tools können die Bearbeitung erleichtern, s
 
 - Texte
 - Präsentationen
+- [Video](https://speicher.nibis.de/s/LHJBxijmmkLNSiq)
 - Audiospur der Videos
 - Transkripte
-- Beipackzettel für Fortbildende
 
 ## Kursdurchführung im NLC
 
