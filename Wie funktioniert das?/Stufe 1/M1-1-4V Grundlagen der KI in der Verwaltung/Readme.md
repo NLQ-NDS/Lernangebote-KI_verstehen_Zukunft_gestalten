@@ -47,6 +47,7 @@ Für eine vertiefte Auseinandersetzung mit rechtlichen Fragen, insbesondere zum 
 
 - Texte
 - Präsentationen
+- [Video](https://speicher.nibis.de/s/TBd5GRXaTr59wW5)
 - Audiospur der Videos
 - Transkripte
 - Beipackzettel für Fortbildende

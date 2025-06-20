@@ -39,7 +39,7 @@ Erste praktische Erfahrungen mit KI-Tools können die Bearbeitung erleichtern, s
 
 - Texte
 - Präsentationen
-- [Video]()
+- [Video](https://speicher.nibis.de/s/G2sgCJf6JamETww)
 - Audiospur der Videos
 - Transkripte
 

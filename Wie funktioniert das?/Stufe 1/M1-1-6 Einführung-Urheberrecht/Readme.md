@@ -40,6 +40,7 @@ Die vorherige Bearbeitung der Einführungsmodule M1.1 Einführung: Künstliche I
 
 - Texte
 - Präsentationen
+- [Video](https://speicher.nibis.de/s/ZqjSAdd38EQcxKi)
 - Audiospur der Videos
 - Transkripte
 - Beipackzettel für Fortbildende

@@ -44,6 +44,7 @@ Es sind keine spezifischen Vorkenntnisse im Bereich Informatik oder KI erforderl
 
 - Texte
 - Präsentationen
+- [Video](https://speicher.nibis.de/s/gL7t5esrx4gsb2y)
 - Audiospur der Videos
 - Transkripte
 - Beipackzettel für Fortbildende

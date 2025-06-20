@@ -38,6 +38,7 @@ wird empfohlen, ist aber nicht obligatorisch. Entscheidend ist die Bereitschaft 
 
 - Texte
 - Präsentationen
+- [Video](https://speicher.nibis.de/s/3SKoEs689HyXdBJ)
 - Audiospur der Videos
 - Transkripte
 - Beipackzettel für Fortbildende

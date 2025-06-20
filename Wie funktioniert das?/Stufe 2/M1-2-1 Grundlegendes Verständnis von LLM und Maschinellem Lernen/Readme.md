@@ -29,6 +29,7 @@ Dieses Lernangebot richtet sich an Mitarbeitende von Behörden im Geschäftsbere
 
 - Texte
 - Präsentationen
+- [Video](https://speicher.nibis.de/s/c7cMqjrwYrNjx2n) 
 - Audiospur der Videos
 - Transkripte
 - Beipackzettel für Fortbildende

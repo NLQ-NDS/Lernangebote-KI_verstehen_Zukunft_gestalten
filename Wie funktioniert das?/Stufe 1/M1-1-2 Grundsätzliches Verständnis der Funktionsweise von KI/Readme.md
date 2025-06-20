@@ -30,7 +30,8 @@ Dieses Lernangebot richtet sich primär an Mitarbeitende von Behörden im Gesch�
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentationen
+- [Präsentationen](https://speicher.nibis.de/s/asp5KKEoot5zrqx)
+- [Video](https://speicher.nibis.de/s/z3my6tXreZfPSH6)
 - Audiospur der Videos
 - Transkripte
 - Beipackzettel für Fortbildende

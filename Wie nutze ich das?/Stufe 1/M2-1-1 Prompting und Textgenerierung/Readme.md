@@ -36,6 +36,7 @@ Für die Teilnahme an diesem Modul sind keine spezifischen technischen Vorkenntn
 
 - Texte
 - Präsentationen
+- [Video](https://speicher.nibis.de/s/wFXtcjbtti4xxgR)
 - Audiospur der Videos
 - Transkripte
 - Beipackzettel für Fortbildende

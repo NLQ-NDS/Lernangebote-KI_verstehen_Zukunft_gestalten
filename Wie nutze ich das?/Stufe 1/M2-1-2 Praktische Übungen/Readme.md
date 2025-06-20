@@ -45,6 +45,7 @@ Die Bereitschaft zur Auseinandersetzung mit neuen Technologien und zur Reflexion
 
 - Texte
 - [Präsentationen](https://speicher.nibis.de/s/P7paQaSZ9wGMKW6)
+- [Video](https://speicher.nibis.de/s/HGsQpdXb4JgxzWb)
 - Audiospur der Videos
 - Transkripte
 - Beipackzettel für Fortbildende

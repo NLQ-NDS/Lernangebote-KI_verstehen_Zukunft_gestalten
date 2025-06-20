@@ -30,6 +30,7 @@ Für diesen Kurs wird ein erstes Wissen über Künstliche Intelligenz und Large 
 
 - Texte
 - Präsentationen
+- [Video](https://speicher.nibis.de/s/Sy9jytM3eAJKPXC) 
 - Audiospur der Videos
 - Transkripte
 - Beipackzettel für Fortbildende
