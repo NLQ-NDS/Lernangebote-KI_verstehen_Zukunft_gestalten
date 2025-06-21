@@ -6,7 +6,7 @@ In diesem Repository finden Sie die definierten Lernangebote. Erstellte Lernange
 
 ## Kompetenzstufe 1:
 
-* [M2.1-1 Prompting und Textgenerierung](<Wie nutze ich das?/Stufe 1/M2-1-1 Prompting und Textgenerierung>)  
+* [M2.1-1 Prompting und Textgenerierung](<Stufe 1/M2-1-1 Prompting und Textgenerierung>)  
   Zielsetzung: Einführung in die Erstellung von Prompts für KI-gestützte Textgenerierung.
 
 * [M2.1-2 Anwendung des Gelernten durch praktische Übungen]()  
