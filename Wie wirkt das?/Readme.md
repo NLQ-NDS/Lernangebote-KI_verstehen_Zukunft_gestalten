@@ -5,10 +5,10 @@
 In diesem Repository finden Sie die definierten Lernangebote. Erstellte Lernangebote sind in der folgenden Liste verlinkt:
 
 ## Kompetenzstufe 1:
-* [M3.1-1 KI und Ethik: Chancen und Risiken der KI-Nutzung]()  
+* [M3.1-1 KI und Ethik: Chancen und Risiken der KI-Nutzung](<Stufe 1/M3-1-1 KI und Ethik-Chancen und Risiken der KI-Nutzung/>)  
   Zielsetzung: Die Teilnehmenden entwickeln ein kritisches Bewusstsein für die ethischen Chancen und Risiken von KI in Schule und Verwaltung. Sie stärken ihre Kompetenz, ethische Maßstäbe anzuwenden, ihr eigenes Handeln zu reflektieren und KI verantwortungsvoll einzusetzen.
 
-* [M3.1-2 Ethik und Verantwortung: Zum Wechselverhältnis von Technologie und Gesellschaft]()  
+* [M3.1-2 Ethik und Verantwortung: Zum Wechselverhältnis von Technologie und Gesellschaft](<Stufe 1/M3-1-2 Ethik und Verantwortung-Zum Wechselverhältnis von Technologie und Gesellschaft/>)  
   Zielsetzung: Die Teilnehmenden analysieren die gesellschaftlichen und ethischen Auswirkungen von KI auf Bildung sowie Verwaltung und reflektieren deren Einfluss auf das eigene Handeln und gesellschaftliche Prozesse, um einen verantwortungsbewussten Umgang zu entwickeln.
 
 * [M3.1-3 Auswirkungen von KI auf den eigenen Lernprozess]()  
