@@ -9,7 +9,7 @@ In diesem Repository finden Sie die definierten Lernangebote. Erstellte Lernange
 * [M2.1-1 Prompting und Textgenerierung](<Stufe 1/M2-1-1 Prompting und Textgenerierung>)  
   Zielsetzung: Einführung in die Erstellung von Prompts für KI-gestützte Textgenerierung.
 
-* [M2.1-2 Anwendung des Gelernten durch praktische Übungen]()  
+* [M2.1-2 Anwendung des Gelernten durch praktische Übungen](<Stufe 1/M2-1-2 Praktische Übungen>)  
   Zielsetzung: Anwendung des Gelernten durch praktische Übungen.
 
 * [M2.1-3 Anwendungsbeispiele in unterschiedlichen Fächern und Komplexitätsgraden]()  
