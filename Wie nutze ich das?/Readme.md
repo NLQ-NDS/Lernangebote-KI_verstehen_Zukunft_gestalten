@@ -6,7 +6,7 @@ In diesem Repository finden Sie die definierten Lernangebote. Erstellte Lernange
 
 ## Kompetenzstufe 1:
 
-* [M2.1-1 Prompting und Textgenerierung]()  
+* [M2.1-1 Prompting und Textgenerierung](<Wie nutze ich das?/Stufe 1/M2-1-1 Prompting und Textgenerierung>)  
   Zielsetzung: Einführung in die Erstellung von Prompts für KI-gestützte Textgenerierung.
 
 * [M2.1-2 Anwendung des Gelernten durch praktische Übungen]()  
@@ -33,7 +33,7 @@ In diesem Repository finden Sie die definierten Lernangebote. Erstellte Lernange
 * [M2.2-5 Projektbasiertes Arbeiten mit KI]()  
   Zielsetzung: Lehrkräfte sollen praktische Erfahrungen in der Anleitung von Schülern bei der Nutzung von KI für fächerübergreifende Projekte sammeln.
 
-* [M2.2-6 Differenzierung mit KI](Wie nutze ich das?/Stufe 2/M2-2-6 Differenzierung mit KI)  
+* [M2.2-6 Differenzierung mit KI](<Wie nutze ich das?/Stufe 2/M2-2-6 Differenzierung mit KI>)  
   Zielsetzung: Die Teilnehmenden entwickeln ein grundlegendes Verständnis für den Einsatz von KI zur Unterrichtsdifferenzierung und können konkrete, KI-gestützte Anwendungen benennen sowie deren Potenziale kritisch reflektieren. Darauf aufbauend sind sie befähigt, eigene differenzierende Unterrichtskonzepte und -materialien unter Einbeziehung von KI-Technologien zu entwerfen.
 
 * [M2.2-7 KI als Planungsbuddy: KI als Ideengeber für Unterrichtsplanung]()  
