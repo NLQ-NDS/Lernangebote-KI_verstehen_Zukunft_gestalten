@@ -33,7 +33,7 @@ In diesem Repository finden Sie die definierten Lernangebote. Erstellte Lernange
 * [M2.2-5 Projektbasiertes Arbeiten mit KI]()  
   Zielsetzung: Lehrkräfte sollen praktische Erfahrungen in der Anleitung von Schülern bei der Nutzung von KI für fächerübergreifende Projekte sammeln.
 
-* [M2.2-6 Differenzierung mit KI](/Wie%20nutze%20ich%20das?/Stufe%202/M2-2-6%20Differenzierung%20mit%20KI/Readme.md)  
+* [M2.2-6 Differenzierung mit KI](Wie nutze ich das?/Stufe 2/M2-2-6 Differenzierung mit KI)  
   Zielsetzung: Die Teilnehmenden entwickeln ein grundlegendes Verständnis für den Einsatz von KI zur Unterrichtsdifferenzierung und können konkrete, KI-gestützte Anwendungen benennen sowie deren Potenziale kritisch reflektieren. Darauf aufbauend sind sie befähigt, eigene differenzierende Unterrichtskonzepte und -materialien unter Einbeziehung von KI-Technologien zu entwerfen.
 
 * [M2.2-7 KI als Planungsbuddy: KI als Ideengeber für Unterrichtsplanung]()  
