@@ -47,7 +47,7 @@ Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCent
 
 Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
 
-**[Direkt zum Kurs im NLC]()**
+**Direkt zum Kurs im NLC**
 
 ## Contribution
 
