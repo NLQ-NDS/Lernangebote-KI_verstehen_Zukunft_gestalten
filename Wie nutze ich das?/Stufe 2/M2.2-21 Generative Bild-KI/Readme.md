@@ -1,7 +1,7 @@
 # 
 Angebotskennung: 
 
-## Inhaltiche Gestaltung
+## Inhaltliche Gestaltung
 
 Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“. Es handelt sich um einen Selbstlernkurs, der nach der Anmeldung unmittelbar verfügbar ist und direkt bearbeitet werden kann. Die geschätzte Bearbeitungszeit beträgt maximal ca. 60 Minuten. Der Kurs wird auf Moodle bereitgestellt und kann selbstgesteuert in Ihrem eigenen Tempo bearbeitet werden. Sie erwartet ein abwechslungsreicher Mix aus Videos, Lesetexten und Audiodateien, der unterschiedliche Lernzugänge ermöglicht.
 
