@@ -28,17 +28,20 @@ In diesem Repository finden Sie die definierten Lernangebote. Erstellte Lernange
 
 ## Kompetenzstufe 2:
 
-- M1.2-1 Grundlegendes Verständnis von LLM und maschinellem Lernen
+- [M1.2-1 Grundlegendes Verständnis von LLM und maschinellem Lernen](<Stufe 2/M1-2-1 Grundlegendes Verständnis von LLM und Maschinellem Lernen>)
 Zielsetzung: Einführung in die Konzepte von Large Language Models und maschinellem Lernen.
 
-- M1.2-2 Funktionsweise von KI
+- [M1.2-2 Funktionsweise von KI](<Stufe 2/M1-2-2 Funktionsweise von KI>)
 Zielsetzung: Vertiefung des Verständnisses der technologischen Grundlagen hinter KI-Systemen.
 
 - M1.2-3 Datenqualität und KI-Anwendungen:
 Zielsetzung: Die Teilnehmenden verstehen, wie Datenqualität die Ergebnisse von KI-Systemen beeinflusst, und lernen Maßnahmen zur Verbesserung kennen. 
 
 - M1.2-4 Trainingsdaten und Bias in der Verwaltung
-Zielsetzung: Sensibilisierung für Bias in KI-Systemen und Entwicklung von Strategien zur Bias-Reduktion. 
+Zielsetzung: Sensibilisierung für Bias in KI-Systemen und Entwicklung von Strategien zur Bias-Reduktion.
+
+- [M1-2-5 Grundlagen zu BIAS in KI](<Stufe 2/M1.2-5 Grundlagen zu BIAS in KI>)
+Zielsetzung: 
 
 ## Kompetenzstufe 3: 
 
