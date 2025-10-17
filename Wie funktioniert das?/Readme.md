@@ -29,33 +29,33 @@ In diesem Repository finden Sie die definierten Lernangebote. Erstellte Lernange
 ## Kompetenzstufe 2:
 
 - [M1.2-1 Grundlegendes Verständnis von LLM und maschinellem Lernen](<Stufe 2/M1-2-1 Grundlegendes Verständnis von LLM und Maschinellem Lernen>)
-Zielsetzung: Einführung in die Konzepte von Large Language Models und maschinellem Lernen.
+   - Zielsetzung: Einführung in die Konzepte von Large Language Models und maschinellem Lernen.
 
 - [M1.2-2 Funktionsweise von KI](<Stufe 2/M1-2-2 Funktionsweise von KI>)
-Zielsetzung: Vertiefung des Verständnisses der technologischen Grundlagen hinter KI-Systemen.
+   - Zielsetzung: Vertiefung des Verständnisses der technologischen Grundlagen hinter KI-Systemen.
 
 - M1.2-3 Datenqualität und KI-Anwendungen:
-Zielsetzung: Die Teilnehmenden verstehen, wie Datenqualität die Ergebnisse von KI-Systemen beeinflusst, und lernen Maßnahmen zur Verbesserung kennen. 
+   - Zielsetzung: Die Teilnehmenden verstehen, wie Datenqualität die Ergebnisse von KI-Systemen beeinflusst, und lernen Maßnahmen zur Verbesserung kennen. 
 
 - M1.2-4 Trainingsdaten und Bias in der Verwaltung
-Zielsetzung: Sensibilisierung für Bias in KI-Systemen und Entwicklung von Strategien zur Bias-Reduktion.
+   - Zielsetzung: Sensibilisierung für Bias in KI-Systemen und Entwicklung von Strategien zur Bias-Reduktion.
 
 - [M1-2-5 Grundlagen zu BIAS in KI](<Stufe 2/M1.2-5 Grundlagen zu BIAS in KI>)
-Zielsetzung: 
+   - Zielsetzung: 
 
 ## Kompetenzstufe 3: 
 
 - M1.3-1 Advanced KI-Technologien: LLM und LMM
-Zielsetzung: Vertiefendes Verständnis von Large Language Models (LLM) und Learning Management Models (LMM) sowie deren Integration in schulische Systeme.
+   - Zielsetzung: Vertiefendes Verständnis von Large Language Models (LLM) und Learning Management Models (LMM) sowie deren Integration in schulische Systeme.
 
 - M1.3-2 Fortgeschrittene KI-Konzepte
-Zielsetzung: Umfassendes Verständnis fortgeschrittener KI-Konzepte wie Deep Learning, maschinelles Lernen, Reinforcement Learning, Natural Language Processing (NLP) und generative Modelle.
+   - Zielsetzung: Umfassendes Verständnis fortgeschrittener KI-Konzepte wie Deep Learning, maschinelles Lernen, Reinforcement Learning, Natural Language Processing (NLP) und generative Modelle.
 
 - M1.3-3 Mathematische Grundlagen und Heuristik
-Zielsetzung: Vermittlung eines grundlegenden Verständnisses der mathematischen Prinzipien hinter KI, ohne die Notwendigkeit eines Masterniveaus, sowie Einführung in das Konzept der Heuristik.
+   - Zielsetzung: Vermittlung eines grundlegenden Verständnisses der mathematischen Prinzipien hinter KI, ohne die Notwendigkeit eines Masterniveaus, sowie Einführung in das Konzept der Heuristik.
 
 - M1.3-34 Erkennung und Umgang mit Schwachstellen
-Zielsetzung: Fähigkeit zur Identifikation und zum Umgang mit Schwachstellen in KI-Systemen, inklusive Jailbreak-Prompts und Prompt-Injektion.
+   - Zielsetzung: Fähigkeit zur Identifikation und zum Umgang mit Schwachstellen in KI-Systemen, inklusive Jailbreak-Prompts und Prompt-Injektion.
 
 - M1.3-5 Basale Coding Skills
-Zielsetzung: Vermittlung grundlegender Programmierkenntnisse, die für die Arbeit mit KI-Technologien notwendig sind.
+   - Zielsetzung: Vermittlung grundlegender Programmierkenntnisse, die für die Arbeit mit KI-Technologien notwendig sind.
