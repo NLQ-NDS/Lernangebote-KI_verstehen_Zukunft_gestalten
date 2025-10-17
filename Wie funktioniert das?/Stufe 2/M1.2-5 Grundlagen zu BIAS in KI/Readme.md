@@ -1,4 +1,4 @@
-# FGrundlagen zu BIAS in KI
+# Grundlagen zu BIAS in KI
 Angebotskennung: M1.2-5
 
 ## Inhaltiche Gestaltung
