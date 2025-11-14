@@ -24,6 +24,7 @@ Dieses Repository dient als zentrale Anlaufstelle für alle Materialien. Wir lad
 ## Grundlegende Dokumente
 
 - [Handreichung zur Fortbildungssystematisierung](https://github.com/NLQ-NDS/Lernangebote-zu-KI-verstehen.-Zukunft-gestalten./releases/tag/V5.2)
+- [Learndesign Styleguide zur Gestaltung der Lernangebote](/Assets/2025-11_Learndesign%20Styleguide-V2.pdf)
 
 ## Angebote für Multiplizierende (Fortbildende)
 
@@ -35,7 +36,7 @@ In diesem Bereich finden Sie spezielle Ressourcen und Materialien, die Sie als M
 
 ### Handreichung zur Fortbildungssystematisierung
 
-Dieses Dokument ist im Rahmen der Arbeitsgruppe KI entstanden:
+Dieses Dokument ist im Rahmen der Arbeitsgruppe KI der LKM entstanden:
 
 Entwicklung: Christian Haake (NLQ)
 
