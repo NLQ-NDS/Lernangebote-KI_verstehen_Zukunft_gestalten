@@ -1,3 +1,5 @@
+# MODULARISIERUNG DER KI QUALIFIZIERUNG FÜR DAS PERSONAL IM BILDUNGSSEKTOR
+
 Willkommen bei den Lernangeboten "KI VERSTEHEN. ZUKUNFT GESTALTEN." In diesem GitHub-Repository finden Sie alle Lernangebote zur Kompetenzentwicklung im Bereich Künstliche Intelligenz (KI) für Lehrkräfte und Bildungspersonal, zentral gesammelt und strukturiert. Unser Ziel ist es, ein vielseitiges und flexibles Fortbildungssystem anzubieten, das Sie dabei unterstützt, Ihre Kompetenzen im Umgang mit KI gezielt zu erweitern und nachhaltig zu vertiefen. Die Angebote sind nach einem modularen Kompetenzraster aufgebaut, das sich an drei Perspektiven orientiert: 
 - Wie funktioniert KI? (Grundlagen), 
 - Wie nutze ich KI? (Anwendung) und 

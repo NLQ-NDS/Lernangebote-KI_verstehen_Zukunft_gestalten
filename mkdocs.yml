@@ -1,0 +1,124 @@
+site_name: 'KI verstehen. Zukunft gestalten.'
+site_description: 'Lernangebote zur Kompetenzentwicklung im Bereich Künstliche Intelligenz (KI) für Lehrkräfte und Bildungspersonal'
+site_author: 'NLQ Niedersachsen'
+site_url: 'https://jtuttas.github.io/Lernangebote-KI_verstehen_Zukunft_gestalten/'
+
+repo_name: 'jtuttas/Lernangebote-KI_verstehen_Zukunft_gestalten'
+repo_url: 'https://github.com/jtuttas/Lernangebote-KI_verstehen_Zukunft_gestalten'
+
+theme:
+  name: material
+  language: de
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search:
+      lang: de
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - md_in_html
+
+nav:
+  - 'Startseite': 'index.md'
+  - 'Wie funktioniert das?':
+    - 'Übersicht': 'Wie funktioniert das?/index.md'
+    - 'Stufe 1':
+      - 'Übersicht': 'Wie funktioniert das?/Stufe 1/index.md'
+      - 'M1-1-1 Einführung: KI in Schule und Verwaltung': 'Wie funktioniert das?/Stufe 1/M1-1-1 Einführung: KI in Schule und Verwaltung – Funktionsweise, Chancen und Herausforderungen/Readme.md'
+      - 'M1-1-2 Grundsätzliches Verständnis der Funktionsweise von KI': 'Wie funktioniert das?/Stufe 1/M1-1-2 Grundsätzliches Verständnis der Funktionsweise von KI/Readme.md'
+      - 'M1.1-3 Kenntnisse verschiedener Arten von Chatbots und KI-Anwendungen': 'Wie funktioniert das?/Stufe 1/M1.1-3 Kenntnisse verschiedener Arten von Chatbots und KI-Anwendungen im Bildungswesen/Readme.md'
+      - 'M1-1-4V Grundlagen der KI in der Verwaltung': 'Wie funktioniert das?/Stufe 1/M1-1-4V Grundlagen der KI in der Verwaltung/Readme.md'
+      - 'M1-1-5 Einführung zu KI und Datenschutz': 'Wie funktioniert das?/Stufe 1/M1-1-5 Einführung zu KI und Datenschutz in Schule und Verwaltung/Readme.md'
+      - 'M1-1-6 Einführung Urheberrecht': 'Wie funktioniert das?/Stufe 1/M1-1-6 Einführung-Urheberrecht/Readme.md'
+    - 'Stufe 2':
+      - 'Übersicht': 'Wie funktioniert das?/Stufe 2/index.md'
+      - 'M1-2-1 Grundlegendes Verständnis von LLM und Maschinellem Lernen': 'Wie funktioniert das?/Stufe 2/M1-2-1 Grundlegendes Verständnis von LLM und Maschinellem Lernen/Readme.md'
+      - 'M1-2-2 Funktionsweise von KI': 'Wie funktioniert das?/Stufe 2/M1-2-2 Funktionsweise von KI/Readme.md'
+      - 'M1.2-5 Grundlagen zu BIAS in KI': 'Wie funktioniert das?/Stufe 2/M1.2-5 Grundlagen zu BIAS in KI/Readme.md'
+  - 'Wie nutze ich das?':
+    - 'Übersicht': 'Wie nutze ich das?/Readme.md'
+    - 'Stufe 1':
+      - 'Übersicht': 'Wie nutze ich das?/Stufe 1/index.md'
+      - 'M2-1-1 Prompting und Textgenerierung': 'Wie nutze ich das?/Stufe 1/M2-1-1 Prompting und Textgenerierung/Readme.md'
+      - 'M2-1-2 Praktische Übungen': 'Wie nutze ich das?/Stufe 1/M2-1-2 Praktische Übungen/Readme.md'
+      - 'M2.1-3 Anwendungsbeispiele in unterschiedlichen Fächer': 'Wie nutze ich das?/Stufe 1/M2.1-3 Anwendungsbeispiele in unterschiedlichen Fächer und Komplexitätsgraden/Readme.md'
+    - 'Stufe 2':
+      - 'Übersicht': 'Wie nutze ich das?/Stufe 2/index.md'
+      - 'M2.2-1 KI als kreatives und kognitives Werkzeug': 'Wie nutze ich das?/Stufe 2/M2.2-1 KI als kreatives und kognitives Werkzeug/Readme.md'
+      - 'M2.2-2 Integration von KI in den Unterricht': 'Wie nutze ich das?/Stufe 2/M2.2-2 Integration von KI in den Unterricht (Unterrichtswerkstatt)/Readme.md'
+      - 'M2.2-3 Reflexion und Leistungsbewertung durch KI': 'Wie nutze ich das?/Stufe 2/M2.2-3 Reflexion und Leistungsbewertung durch KI/Readme.md'
+      - 'M2.2-4 Kommunikation über KI': 'Wie nutze ich das?/Stufe 2/M2.2-4 Kommunikation über KI/Readme.md'
+      - 'M2.2-5 Projektbasiertes Arbeiten mit KI': 'Wie nutze ich das?/Stufe 2/M2.2-5 Projektbasiertes Arbeiten mit KI/Readme.md'
+      - 'M2.2-6 Differenzierung mit KI': 'Wie nutze ich das?/Stufe 2/M2-2-6 Differenzierung mit KI/Readme.md'
+      - 'M2.2-7 KI als Planungsbuddy': 'Wie nutze ich das?/Stufe 2/M2.2-7 KI als Planungsbuddy -  KI als Ideengeber für Unterrichtsplanung/Readme.md'
+      - 'M2.2-09 Nutzung einfacher KI-Tools in der Verwaltung': 'Wie nutze ich das?/Stufe 2/M2.2-09 Nutzung einfacher KI-Tools in der Verwaltung/Readme.md'
+      - 'M2.2-14 Große Sprachmodelle (LLMs) lokal installieren': 'Wie nutze ich das?/Stufe 2/M2.2-14 Große Sprachmodelle (LLMs) auf dem eigenen Laptop installieren, verwenden und gemeinsam mit Schülern einsetzen/Readme.md'
+      - 'M2.2-15 Grundlagen des Ai-Leadership': 'Wie nutze ich das?/Stufe 2/M2.2-15 Grundlagen des Ai-Leadership im Bildungswesen/Readme.md'
+      - 'M2.2-19 KI im Sprachenunterricht': 'Wie nutze ich das?/Stufe 2/M2.2-19 KI im Sprachenunterricht/Readme.md'
+      - 'M2.2-20 Generative Sprach-KI': 'Wie nutze ich das?/Stufe 2/M2.2-20 Generative Sprach-KI/Readme.md'
+      - 'M2.2-21 Generative Bild-KI': 'Wie nutze ich das?/Stufe 2/M2.2-21 Generative Bild-KI/Readme.md'
+      - 'M2.2-22 Bewertung von Schülerleistungen im KI-Zeitalter': 'Wie nutze ich das?/Stufe 2/M2.2-22 Bewertung von Schülerleistungen im Zeitalter von KI/Readme.md'
+      - 'M2.2-24 Schulweite KI-Policy & AI-Literacy Rollout': 'Wie nutze ich das?/Stufe 2/M2.2-24 Schulweite KI-Policy & AI-Literacy Rollout/Readme.md'
+  - 'Wie wirkt das?':
+    - 'Übersicht': 'Wie wirkt das?/index.md'
+    - 'Stufe 1':
+      - 'Übersicht': 'Wie wirkt das?/Stufe 1/index.md'
+      - 'M3-1-1 KI und Ethik': 'Wie wirkt das?/Stufe 1/M3-1-1 KI und Ethik-Chancen und Risiken der KI-Nutzung/Readme.md'
+      - 'M3-1-2 Ethik und Verantwortung': 'Wie wirkt das?/Stufe 1/M3-1-2 Ethik und Verantwortung-Zum Wechselverhältnis von Technologie und Gesellschaft/Readme.md'
+      - 'M3.1-3 Auswirkungen von KI auf den eigenen Lernprozess': 'Wie wirkt das?/Stufe 1/M3.1-3 Auswirkungen von KI auf den eigenen Lernprozess/Readme.md'
+      - 'M3.1-4 Öffentlichkeit und Informationssteuerung': 'Wie wirkt das?/Stufe 1/M3.1-4 - Ethik und Verantwortung: Öffentlichkeit und Informationssteuerung/Readme.md'
+    - 'Stufe 2':
+      - 'Übersicht': 'Wie wirkt das?/Stufe 2/index.md'
+      - 'M3.2-1 Diskussion über ethische Grenzen und Potenziale': 'Wie wirkt das?/Stufe 2/M3.2-1 Diskussion über ethische Grenzen und Potenziale/Readme.md'
+      - 'M3.2-7 KI-Bias in sozialen Medien': 'Wie wirkt das?/Stufe 2/M3.2-7 KI-Bias - Erkennung und Mechanismen in sozialen Medien/Readme.md'
+      - 'M3.2-9 KI-gestützte Desinformation': 'Wie wirkt das?/Stufe 2/M3.2-9 Techniken, Akteure und Manipulationspotenziale Ki-gestützter Desinformation/Readme.md'
+      - 'M3.2-11 Computational Propaganda': 'Wie wirkt das?/Stufe 2/M3.2-11 Computational Propaganda - Definition, Mechanismen und Akteure/Readme.md'
+      - 'M3.2-13 KI und die globale "Ai Divide"': 'Wie wirkt das?/Stufe 2/M3.2-13 KI und die globale "Ai Divide"/Readme.md'
+      - 'M3.2-14 KI-Verhalten': 'Wie wirkt das?/Stufe 2/M3.2-14 KI-Verhalten/Readme.md'
+  - 'Fortbildungsreihen':
+    - 'Fortbildungsreihen/index.md'
+  - 'Multiplizierende':
+    - 'Multiplizierende/Readme.md'
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jtuttas/Lernangebote-KI_verstehen_Zukunft_gestalten
+
+copyright: |
+  &copy; 2024 NLQ Niedersachsen - 
+  <a href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY 4.0</a>

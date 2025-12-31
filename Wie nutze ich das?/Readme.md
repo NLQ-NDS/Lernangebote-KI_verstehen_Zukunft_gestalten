@@ -6,37 +6,37 @@ In diesem Repository finden Sie die definierten Lernangebote. Erstellte Lernange
 
 ## Kompetenzstufe 1:
 
-* [M2.1-1 Prompting und Textgenerierung](<Stufe 1/M2-1-1 Prompting und Textgenerierung>)  
+* [M2.1-1 Prompting und Textgenerierung](<Stufe 1/M2-1-1 Prompting und Textgenerierung/Readme.md>)  
   Zielsetzung: Einführung in die Erstellung von Prompts für KI-gestützte Textgenerierung.
 
-* [M2.1-2 Anwendung des Gelernten durch praktische Übungen](<Stufe 1/M2-1-2 Praktische Übungen>)  
+* [M2.1-2 Anwendung des Gelernten durch praktische Übungen](<Stufe 1/M2-1-2 Praktische Übungen/Readme.md>)  
   Zielsetzung: Anwendung des Gelernten durch praktische Übungen.
 
-* [M2.1-3 Anwendungsbeispiele in unterschiedlichen Fächern und Komplexitätsgraden](<Stufe 1/M2.1-3 Anwendungsbeispiele in unterschiedlichen Fächern und Komplexitätsgraden>)  
+* [M2.1-3 Anwendungsbeispiele in unterschiedlichen Fächern und Komplexitätsgraden](<Stufe 1/M2.1-3 Anwendungsbeispiele in unterschiedlichen Fächer und Komplexitätsgraden/Readme.md>)  
   Zielsetzung: Demonstration der Vielfalt der Möglichkeiten in der praktischen Anwendung von KI im Alltag und
   im Bildungsbereich.
 
 ## Kompetenzstufe 2:
 
-* [M2.2-1 KI als kreatives und kognitives Werkzeug](<Stufe 2/M2.2-1 KI als kreatives und kognitives Werkzeug>)  
+* [M2.2-1 KI als kreatives und kognitives Werkzeug](<Stufe 2/M2.2-1 KI als kreatives und kognitives Werkzeug/Readme.md>)  
   Zielsetzung: Lehrkräfte sollen verstehen, wie KI zur Förderung kreativer Prozesse und als Unterstützung für das eigene Denken eingesetzt werden kann.
 
-* [M2.2-2 Integration von KI in den Unterricht (Unterrichtswerkstatt)](<Stufe 2/M2.2-2 Integration von KI in den Unterricht (Unterrichtswerkstatt>)  
+* [M2.2-2 Integration von KI in den Unterricht (Unterrichtswerkstatt)](<Stufe 2/M2.2-2 Integration von KI in den Unterricht (Unterrichtswerkstatt)/Readme.md>)  
   Zielsetzung: Lehrkräfte sollen in der Lage sein, KI-Technologien gezielt in ihren Unterricht zu integrieren, um den Lernprozess zu optimieren und zu individualisieren.
 
-* [M2.2-3 Reflexion und Leistungsbewertung](Stufe 2/M2.2-3 Reflexion und Leistungsbewertung)  
+* [M2.2-3 Reflexion und Leistungsbewertung](<Stufe 2/M2.2-3 Reflexion und Leistungsbewertung durch KI/Readme.md>)  
   Zielsetzung: Lehrkräfte sollen den Einsatz von KI in der Bildung kritisch reflektieren können, insbesondere hinsichtlich der Leistungsbewertung
 
-* [M2.2-4 Kommunikation über KI](<Stufe 2/M2.2-4 Kommunikation über KI>)  
+* [M2.2-4 Kommunikation über KI](<Stufe 2/M2.2-4 Kommunikation über KI/Readme.md>)  
   Zielsetzung: Lehrkräfte sollen befähigt werden, effektiv mit Schülern über KI-Technologien zu kommunizieren und deren Verständnis zu fördern.
 
-* [M2.2-5 Projektbasiertes Arbeiten mit KI](<Stufe 2/M2.2-5 Projektbasiertes Arbeiten mit KI>)  
+* [M2.2-5 Projektbasiertes Arbeiten mit KI](<Stufe 2/M2.2-5 Projektbasiertes Arbeiten mit KI/Readme.md>)  
   Zielsetzung: Lehrkräfte sollen praktische Erfahrungen in der Anleitung von Schülern bei der Nutzung von KI für fächerübergreifende Projekte sammeln.
 
-* [M2.2-6 Differenzierung mit KI](<Stufe 2/M2-2-6 Differenzierung mit KI>)  
+* [M2.2-6 Differenzierung mit KI](<Stufe 2/M2-2-6 Differenzierung mit KI/Readme.md>)  
   Zielsetzung: Die Teilnehmenden entwickeln ein grundlegendes Verständnis für den Einsatz von KI zur Unterrichtsdifferenzierung und können konkrete, KI-gestützte Anwendungen benennen sowie deren Potenziale kritisch reflektieren. Darauf aufbauend sind sie befähigt, eigene differenzierende Unterrichtskonzepte und -materialien unter Einbeziehung von KI-Technologien zu entwerfen.
 
-* [M2.2-7 KI als Planungsbuddy: KI als Ideengeber für Unterrichtsplanung](<Stufe 2/M2.2-7 KI als Planungsbuddy: KI als Ideengeber für Unterrichtsplanung>)  
+* [M2.2-7 KI als Planungsbuddy: KI als Ideengeber für Unterrichtsplanung](<Stufe 2/M2.2-7 KI als Planungsbuddy -  KI als Ideengeber für Unterrichtsplanung/Readme.md>)  
   Zielsetzung: Die Teilnehmenden lernen, wie textgenerierende KI-Tools als Unterstützung bei der Unterrichtsplanung eingesetzt werden können. Sie erfahren, wie die Tools als Ideengeber, Strukturhilfe und Inspirationsquelle genutzt werden können, um kreative und effektive Unterrichtseinheiten zu gestalten.
 
 * [M2.2-8 Einführung in Chatbots für die Verwaltung & effektive Kommunikation mit Chatbots]()  
@@ -57,10 +57,10 @@ In diesem Repository finden Sie die definierten Lernangebote. Erstellte Lernange
 * [M2.2-13 tba (UDL mit KI)]()  
   Zielsetzung: tba
 
-* [M2.2-14 Große Sprachmodelle (LLMs) auf dem eigenen Laptop installieren, verwenden und gemeinsam mit Schülern einsetzen](<Stufe 2/M2.2-14 Große Sprachmodelle (LLMs) auf dem eigenen Laptop installieren, verwenden und gemeinsam mit Schülern einsetzen>)  
+* [M2.2-14 Große Sprachmodelle (LLMs) auf dem eigenen Laptop installieren, verwenden und gemeinsam mit Schülern einsetzen](<Stufe 2/M2.2-14 Große Sprachmodelle (LLMs) auf dem eigenen Laptop installieren, verwenden und gemeinsam mit Schülern einsetzen/Readme.md>)  
   Zielsetzung: Die Teilnehmenden lernen, wie sie lokale Sprachmodelle wie jan.ai einrichten und gezielt im Unterricht einsetzen. Sie erwerben Grundlagen zu Prompting, technischen Voraussetzungen und dem Umgang mit Halluzinationen. Anhand konkreter Beispiele reflektieren sie Potenziale und Herausforderungen KI-gestützten Lernens – ohne Vorkenntnisse in KI oder Programmierung.
 
-* [M2.2-15 Grundlagen des AI-Leadership im Bildungswesen](<Stufe 2/M2.2-15 Grundlagen des AI-Leadership im Bildungswesen>)  
+* [M2.2-15 Grundlagen des AI-Leadership im Bildungswesen](<Stufe 2/M2.2-15 Grundlagen des Ai-Leadership im Bildungswesen/Readme.md>)  
   Zielsetzung: Dieses Lernangebot vermittelt Führungskräften ein grundlegendes Verständnis der Notwendigkeit und der Kernaspekte von AI-Leadership im Kontext der aktuellen KI-Entwicklungen an Schulen.
 
 * [M2.2-16 Strategische KI-Implementierung und Schulentwicklung]()  
@@ -72,10 +72,10 @@ In diesem Repository finden Sie die definierten Lernangebote. Erstellte Lernange
 * [M2.2-18 KI-Werkzeuge zur Individualisierung]()  
   Zielsetzung: Grundlagen von KI und ihre Anwendungen zur Individualisierung im inklusiven Kontext.
 
-* [M2.2-19 KI im Sprachenunterricht](<Stufe 2/M2.2-19 KI im Sprachenunterricht>)  
+* [M2.2-19 KI im Sprachenunterricht](<Stufe 2/M2.2-19 KI im Sprachenunterricht/Readme.md>)  
   Zielsetzung: Die Teilnehmenden verstehen grundlegende Einsatzmöglichkeiten von Künstlicher Intelligenz (KI) im Sprachenunterricht. Sie können ausgewählte KI-Werkzeuge und -Methoden nutzen, um die Perspektive der KI für die Gestaltung von Lernangeboten und die Förderung sprachlicher Kompetenzen (Lesen, Schreiben, Hören, Sprechen, Mediation) nutzbar zu machen.
 
-* [M2.2-24 Schulweite KI-Policy & AI-Literacy Rollout](<Stufe 2/M2.2-24 Schulweite KI-Policy & AI-Literacy Rollout>)  
+* [M2.2-24 Schulweite KI-Policy & AI-Literacy Rollout](<Stufe 2/M2.2-24 Schulweite KI-Policy & AI-Literacy Rollout/Readme.md>)  
   Zielsetzung: Lehrkräfte sollen praktische Erfahrungen in der Anleitung von Schülern bei der Nutzung von KI für fächerübergreifende Projekte sammeln.
 
 ## Kompetenzstufe 3:
