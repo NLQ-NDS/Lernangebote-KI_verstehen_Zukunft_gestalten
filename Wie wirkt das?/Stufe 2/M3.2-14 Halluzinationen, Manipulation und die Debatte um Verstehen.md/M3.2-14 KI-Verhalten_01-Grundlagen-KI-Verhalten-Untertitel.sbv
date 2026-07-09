@@ -1,0 +1,186 @@
+0:00:12.800,0:00:15.120
+Wir beginnen mit einer kurzen Wiederholung.
+
+0:00:15.640,0:00:21.440
+Generative KI Modelle, wie Sie 
+etwa in ChatGPT von Open AI,
+
+0:00:21.440,0:00:28.000
+Claude, Gemini von Google oder anderen großen 
+Sprachmodellen eingesetzt werden, beruhen auf der
+
+0:00:28.000,0:00:37.480
+Verarbeitung sehr großer Datenmengen. Sie erkennt 
+sprachliche Muster und erzeugt daraus neue Texte.
+
+0:00:39.120,0:00:43.840
+Dabei hat sie kein Bewusstsein, keine 
+Absichten, keine eigenen Erfahrungen im
+
+0:00:43.840,0:00:49.480
+menschlichen Sinne. Auch wenn die Interaktion 
+oft menschlich wirkt, bleibt das System stets
+
+0:00:49.480,0:00:54.440
+ein statistisches Vorhersagemodell. 
+Die grundlegenden Funktionsweisen,
+
+0:00:54.440,0:00:59.480
+ethischen Prinzipien und gesellschaftlichen 
+Auswirkungen generativer KI haben wir in
+
+0:00:59.480,0:01:05.480
+den vorangegangenen Modulen bereits ausführlich 
+behandelt. Dort ging es um Chancen und Risiken,
+
+0:01:05.480,0:01:12.440
+Datenschutz, Fairness, Bias und die Frage, wie 
+KI in Schule und Verwaltung sinnvoll eingesetzt
+
+0:01:12.440,0:01:17.680
+werden kann. Deshalb wiederholen wir diese 
+Grundlagen hier nicht, sondern knüpfen daran
+
+0:01:17.680,0:01:24.200
+an und erweitern die Perspektive speziell um 
+das Verhalten von KI im Dialog mit Menschen.
+
+0:01:24.200,0:01:29.720
+Entscheidend ist zu verstehen, dass KI keine 
+Bedeutungen erfasst. Sie erzeugt Antworten,
+
+0:01:29.720,0:01:36.160
+indem sie statistische Wahrscheinlichkeiten nutzt. 
+nicht, indem sie Inhalte versteht. Das erklärt,
+
+0:01:36.160,0:01:43.200
+warum KI oft richtig, manchmal beeindruckend und 
+gelegentlich völlig daneben liegt. Vor allem dort,
+
+0:01:43.200,0:01:49.360
+wo Informationen fehlen oder mehrdeutig sind, 
+entstehen typische Muster wie Halluzinationen
+
+0:01:49.360,0:01:55.160
+oder übermäßig selbstsichere Formulierungen. 
+Gleichzeitig zeigt sich ein gesellschaftliches
+
+0:01:55.160,0:02:01.200
+Phänomen. Menschen schreiben technischen 
+Systemen, besonders neuen Dialogtechnologien,
+
+0:02:01.200,0:02:09.200
+schnell subjektive Eigenschaften zu. Ein 
+klassisches Beispiel ist Eliza aus dem Jahr 1966.
+
+0:02:09.200,0:02:14.920
+Das war ein früher Chatbot, der lediglich 
+einfache Gesprächsmuster spiegelte. Trotz der sehr
+
+0:02:14.920,0:02:20.800
+einfachen Technik berichteten viele Nutzende von 
+dem Eindruck, verstanden zu werden und reagierten
+
+0:02:20.800,0:02:28.480
+emotional, als sei ein echtes Gegenüber beteiligt. 
+Das zeigt, der Eindruck von Verstehen kann schon
+
+0:02:28.480,0:02:35.200
+durch Sprachmuster entstehen, auch ohne irgendeine 
+innere Bedeutungsebene im System. Dieses Verhalten
+
+0:02:35.200,0:02:41.080
+nennt man Anthropomorphisierung. Es ist ein 
+typisches Muster bei interaktiven Medien und
+
+0:02:41.080,0:02:48.880
+technischen Geräten. Menschen schreiben Technik, 
+Absichten, Sympathie oder Verstehen zu, wenn sie
+
+0:02:48.880,0:02:55.680
+Nähe oder Beziehung simuliert. Ein frühes Beispiel 
+sind Radioprogramme, die durch direkte Ansprache
+
+0:02:55.680,0:03:01.680
+Wir sind für dich da und wiederkehrende Rituale 
+ein Gefühl sozialer Verbundenheit erzeugen,
+
+0:03:01.680,0:03:06.840
+obwohl kein echtes Gegenüber existiert. Ein 
+vergleichbares Prinzip zeigt sich später
+
+0:03:06.840,0:03:13.160
+bei digitalen Spielzeugen wie dem Tamagotchi. 
+Das Gerät reagiert scheinbar auf Zuwendung,
+
+0:03:13.160,0:03:19.520
+fordert Aufmerksamkeit ein und löst emotionale 
+Fürsorge aus. In beiden Fällen wird Technik
+
+0:03:19.520,0:03:24.920
+vermenschlicht, weil sie Muster sozialer 
+Beziehung nachahmt, nicht weil sie versteht.
+
+0:03:25.440,0:03:30.600
+Auch heutige KI-Systeme knüpfen daran an, 
+indem sie Höflichkeits- und Gesprächsmuster
+
+0:03:30.600,0:03:36.000
+aus menschlicher Kommunikation verwenden. Für 
+viele Menschen gewinnt KI dadurch eine Rolle,
+
+0:03:36.000,0:03:42.800
+die über reine Informationsausgabe hinausgeht. 
+Manche beschreiben KI als Orientierungshilfe
+
+0:03:42.800,0:03:49.200
+oder als psychologischen Partner. Die Antworten 
+wirken verständnisvoll und zugewandt, obwohl sie
+
+0:03:49.200,0:03:55.160
+statistische Muster nutzen und kombinieren. 
+Diese Nutzung ist subjektiv nachvollziehbar,
+
+0:03:55.160,0:04:01.560
+aber pädagogisch bedeutsam. Lernende bringen 
+solche Alltagserfahrungen mit in die Schule.
+
+0:04:01.560,0:04:07.760
+Für Schule und Unterricht bedeutet das, Lernende 
+müssen zwischen (A) freundlich zugewandt klingender
+
+0:04:07.760,0:04:14.720
+Sprache, (B) richtig wirkenden Antworten und (C) 
+tatsächlichem Bedeutungsverstehen unterscheiden
+
+0:04:14.720,0:04:22.040
+können. Sie brauchen klare Orientierung, um KI- 
+Antworten sachlich einzuordnen und Fehlmuster zu
+
+0:04:22.040,0:04:29.520
+erkennen. Ziel ist eine kritische reflektierte 
+Haltung. KI ist ein hilfreiches Werkzeug, aber
+
+0:04:29.520,0:04:36.000
+keines, das fühlt, versteht oder Entscheidungen 
+treffen kann. Zum Abschluss halten wir fest,
+
+0:04:36.000,0:04:42.440
+KI erzeugt Antworten, aber sie versteht sie 
+nicht. Sie kann freundlich oder zugewandt klingen,
+
+0:04:42.440,0:04:47.200
+das ist Stil und Trainingsmuster 
+und teils auch zufällige Variation,
+
+0:04:47.200,0:04:54.760
+nicht Sympathie oder echtes Mitfühlen. Sie wirkt 
+sicher, obwohl Fehler systembedingt auftreten und
+
+0:04:54.760,0:04:59.160
+sie kann wie ein vertrauter Gesprächspartner 
+erscheinen, obwohl sie Wahrscheinlichkeiten
+
+0:04:59.160,0:05:03.400
+kombiniert. Diese Erkenntnisse 
+begleiten uns durch den gesamten Kurs.

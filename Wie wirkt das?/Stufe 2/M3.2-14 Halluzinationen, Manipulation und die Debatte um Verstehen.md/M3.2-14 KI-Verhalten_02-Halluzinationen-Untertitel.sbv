@@ -1,0 +1,179 @@
+0:00:12.920,0:00:17.880
+Stellen Sie sich vor, eine Schülerin oder ein 
+Schüler hält eine kurze Präsentation zum Thema
+
+0:00:17.880,0:00:23.480
+Städte im Mittelalter. Die Folien sind sauber 
+gestaltet, die Erklärungen wirken schlüssig
+
+0:00:23.480,0:00:28.440
+und ein besonders spannender Fakt bleibt 
+sofort im Gedächtnis. Laut der Chronik des
+
+0:00:28.440,0:00:35.600
+"Magisters L" sei die Stadtmauer einer bedeutenden 
+Handelsstadt im Jahr 1213 eingestürzt. Der Titel
+
+0:00:35.600,0:00:41.360
+der angeblichen Quelle klingt glaubwürdig. Die 
+Jahreszahl scheint historisch plausibel. Doch
+
+0:00:41.360,0:00:47.440
+bei genauerer Überprüfung zeigt sich, diese Quelle 
+existiert überhaupt nicht. Sie wurde vollständig
+
+0:00:47.440,0:00:53.880
+von einer KI erfunden. Solche Situationen eignen 
+sich hervorragend, um mit Lernenden zu verstehen,
+
+0:00:53.880,0:01:00.760
+wie generative KI funktioniert. Denn viele Modelle 
+erzeugen Texte, indem sie Muster fortsetzen und
+
+0:01:00.760,0:01:06.680
+Lücken füllen. Dabei entstehen Aussagen, die 
+sehr überzeugend wirken, aber keinerlei reale
+
+0:01:06.680,0:01:13.280
+Grundlage haben. Halluzinationen aus unserer 
+menschlichen Perspektive bezeichnen Ausgaben,
+
+0:01:13.280,0:01:19.760
+die plausibel klingen, aber faktisch falsch oder 
+unbelegt sind. Sie entstehen nicht, weil die KI
+
+0:01:19.760,0:01:26.560
+aktiv prüft und dann scheitert, sondern weil das 
+Modell auf Basis statistischer Muster arbeitet und
+
+0:01:26.560,0:01:32.760
+dabei fehlende oder mehrdeutige Informationen 
+mit plausiblen Textbausteinen ergänzt. Für das
+
+0:01:32.760,0:01:37.800
+System ist das kein Sonderfall. Es ist ein 
+Ergebnis wie jedes andere, nur aus Sicht
+
+0:01:37.800,0:01:43.680
+der Nutzenden problematisch. Halluzinationen 
+entstehen nicht nur durch Trainingsdaten. Auch
+
+0:01:43.680,0:01:49.560
+höhere Netzwerkschichten können solche Inhalte 
+verstärken. Etwa wenn Modelle durch Safety Layer,
+
+0:01:49.560,0:01:55.480
+Alignment-Mechanismen oder Outputregulation so 
+gesteuert werden, dass sie besonders flüssige
+
+0:01:55.480,0:02:00.640
+oder eindeutig klingende Antworten bevorzugen. 
+In der Forschung wird das unter anderem bei der
+
+0:02:00.640,0:02:07.040
+Falschdarstellung von CO2-Emissionen diskutiert, 
+wenn generierte Texte systematisch beschönigend
+
+0:02:07.040,0:02:12.800
+formuliert erscheinen. Typische Halluzinationen 
+finden wir in vielen schulischen Fächern. 
+
+0:02:12.800,0:02:19.080
+In Hausarbeiten tauchen erfundene Quellen, Zitate 
+oder Jahreszahlen auf. In naturwissenschaftlichen
+
+0:02:19.080,0:02:25.000
+Erklärungen entstehen falsche Kausalitäten 
+wie: "Krebs entsteht durch WLAN, wie 2019
+
+0:02:25.000,0:02:30.840
+bewiesen." In sprachlichen Fächern erscheinen 
+authentisch klingende idiomatische Wendungen,
+
+0:02:30.840,0:02:37.360
+die es gar nicht gibt. Diese Beispiele zeigen: 
+Glaubwürdigkeit sagt nichts über Richtigkeit aus.
+
+0:02:37.880,0:02:44.160
+Besonders auffällig ist die Überkonfidenz. KI 
+formuliert häufig mit großer Selbstsicherheit,
+
+0:02:44.160,0:02:51.440
+etwa mit Phrasen wie definitiv ist oder es 
+ist bekannt, dass diese Sicherheit entsteht
+
+0:02:51.440,0:02:56.880
+nicht aus fachlicher Überzeugung, sondern aus 
+Wahrscheinlichkeiten. Solche Formulierungen
+
+0:02:56.880,0:03:06.080
+kommen in überzeugenden Texten besonders häufig 
+vor. Die KI klingt sicher, ohne sicher zu sein.
+
+0:03:06.080,0:03:12.320
+Emotional gefärbte oder suggestive Antwortmuster 
+entstehen, wenn das Modell Tonfall, Haltung oder
+
+0:03:12.320,0:03:19.040
+Perspektive der Eingabe spiegelt und verstärkt. 
+Das wirkt manchmal manipulativ, suggeriert aber
+
+0:03:19.040,0:03:24.640
+leicht eine Absicht, die das System nicht hat. 
+Technisch ist es vor allem Promtspiegelung.
+
+0:03:24.640,0:03:30.120
+Einseitige, suggestive oder emotional formulierte 
+Prompts führen mit hoher Wahrscheinlichkeit
+
+0:03:30.120,0:03:35.640
+zu entsprechend gefärbten Antworten. Sogar 
+leichtwertende Begriffe können eine KI-Antwort
+
+0:03:35.640,0:03:43.440
+stark beeinflussen. Wird gefragt: "Warum ist diese 
+Theorie überholt?", liefert KI passende Argumente,
+
+0:03:43.440,0:03:50.080
+auch wenn sie fachlich nicht zutreffen. Das Modell 
+folgt der Struktur der Frage, nicht der Evidenz.
+
+0:03:50.080,0:03:55.080
+Dadurch entstehen überzeugende, aber verzerrte 
+Antworten, die in Lernkontexten besonders
+
+0:03:55.080,0:03:59.680
+kritisch betrachtet werden müssen. Für den 
+Unterricht eignen sich diese Phänomene vor
+
+0:03:59.680,0:04:07.240
+allem als Ausgangspunkt für die Reflexion über 
+das Verstehen von KI. Lernende sollen erkennen,
+
+0:04:07.240,0:04:13.600
+KI formuliert überzeugend, weil sie Muster 
+fortsetzt, nicht weil sie Inhalte verstanden hat.
+
+0:04:13.600,0:04:19.240
+Genau diese Einsicht öffnet den Raum für kritische 
+Fragen. Welche Belege braucht eine Aussage?
+
+0:04:19.920,0:04:26.320
+Was bedeutet eine Quelle? Was unterscheidet 
+plausibel von begründet? Gerade jüngere
+
+0:04:26.320,0:04:32.840
+Jahrgänge sind besonders gefährdet. Ihnen fehlen 
+oft Quellenkritik, epistemische Wachsamkeit und
+
+0:04:32.840,0:04:39.680
+digitale Bewertungskompetenz. Falsche KI-Inhalte 
+können daher leicht in Prüfungen, Referaten
+
+0:04:39.680,0:04:45.680
+oder Gruppenarbeiten übernommen werden. Die 
+Oberstufe kann meist kritischer mit KI umgehen.
+
+0:04:45.680,0:04:50.880
+Dennoch bleibt die Gefahr bestehen, überzeugend 
+klingenden, aber falschen Ausgaben zu vertrauen.
