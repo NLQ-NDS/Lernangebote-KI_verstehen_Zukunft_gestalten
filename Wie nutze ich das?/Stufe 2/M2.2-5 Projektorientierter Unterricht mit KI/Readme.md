@@ -7,17 +7,21 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+Projektorientierter Unterricht (POU) verbindet strukturierte Unterrichtsplanung mit projektartigen Arbeitsformen und realitätsnahen Produkten. In diesem Modul steht die Frage im Mittelpunkt, wie Lehrkräfte projektorientierte Lernsettings professionell planen und weiterentwickeln können, indem sie Künstliche Intelligenz (KI) gezielt als dialogischen Planungs- und Reflexionspartner einsetzen. Der Fokus liegt auf der Nutzung von KI als Werkzeug zur Ideenentwicklung, Strukturierung, Überprüfung und Reflexion, bei dem die pädagogische Verantwortung stets bei der Lehrkraft verbleibt.
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* Ü
+* Projektorientierte Unterrichtsplanung als dialogischer Prozess (Dialogische Szenarioplanung)
+* Quellenrecherche & -prüfung – KI als Recherche- und Reflexionspartner (Vier-Schritt-Quellenprüfung)
+* Output-Planung – Material- und Produktentwicklung (inkl. OER-Konformität, Strukturierung und Variantenbildung)
+* Feedback- & Bewertungsrahmen (Prozess, Ergebnis, Eigenleistung & KI-Nutzung)
+* Prozessdokumentation der Projektentwicklung für Lehrkräfte und Schülerinnen und Schüler (Projektjournal und Prompt-Protokoll)
   
 **Lernziele**
 
-
+Lehrkräfte sollen praktische Erfahrungen in der Anleitung von Schülern bei der Nutzung von KI für fächerübergreifende Projekte sammeln.
 
 **Format**
 
@@ -25,17 +29,17 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums (Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal, Bildungsadministratorinnen und -administratoren). Das Angebot richtet sich speziell an Lehrkräfte aller Schulformen, die projektorientierte Lernsettings gestalten und KI transparent, OER-konform und reflexiv einsetzen wollen.
 
 **Voraussetzungen und Hinweise**
 
-
+Grundkenntnisse in KI & Prompting sowie die Bereitschaft für eine reflektierte Auseinandersetzung mit neuen Planungs- und Arbeitsweisen im Kontext einer Kultur der Digitalität.
 
 ## Bestandteile des Angebots
 
 - Texte
 - Skript
-- [Videos](xxxx)
+- [Videos](https://speicher.nibis.de/s/CPe5apK3GMTo6Wm)
 - Audiospur
 - Transkript
 
@@ -45,12 +49,11 @@ Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCent
 
 Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
 
-**[Direkt zum Kurs im NLC](xxx)**
+**[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/52863)**
 
 ## Contribution
 
 - Verantwortlich seitens des NLQ: Christian Haake und Jörg Steinemann 
-
 
 ## Lizenzbestimmungen
 
