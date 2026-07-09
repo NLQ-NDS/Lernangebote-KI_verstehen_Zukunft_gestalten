@@ -7,17 +7,26 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+Das Modul widmet sich der Frage, wie der Einsatz Künstlicher Intelligenz (KI) in Schule systematisch, rechtssicher und pädagogisch verantwortungsvoll gestaltet werden kann. Es nimmt in den Blick, wie Schulen verbindliche Leitplanken für den Umgang mit KI entwickeln können und welche Rolle dabei Organisations-, Unterrichts- und Personalentwicklung spielen. Das Modul unterstützt dabei, die Ausgangslage zu klären, erste Strukturentscheidungen vorzubereiten und die Erstellung einer schulspezifischen Roadmap fundiert anzustoßen.
 
 **Inhalte**
 
-Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
+Das Modul vermittelt Kenntnisse zu folgenden Themen:
 
-* Ü
+* Integrierte Schulentwicklung: Zusammenspiel von Organisationsentwicklung (OE), Unterrichtsentwicklung (UE) und Personalentwicklung (PE)
+* Rechtsrahmen und Prinzipien: DSGVO, EU AI Act, "Human-in-the-Loop" und Kennzeichnungsregeln
+* Organisationsentwicklung: Governance, Gremien, Schulträgerkooperation und ein am PDCA-Zyklus orientierter Tool-Freigabeprozess (inkl. RACI-Modell)
+* Unterrichtsentwicklung: Didaktische Leitplanken, fachbezogenes Testing und Kennzeichnungs- bzw. Transparenzregeln (u. a. Ampelregeln) in Unterricht und Prüfung
+* Personalentwicklung: Strukturierter KI-Kompetenzaufbau auf Basis des Dagstuhl-Dreiecks (KI-Kompetenzraster) sowie Fortbildungskonzepte und Onboarding
+* Querschnittsmaßnahmen: Monitoring-Strukturen (Risiko-/Maßnahmenlog, Reifegrad-Check) und Quick-Wins zur Förderung der Akzeptanz (z. B. KI-Buddy-Stunden)
+* Transfer: Erstellung einer schulspezifischen Mini-Roadmap (Scope, Meilensteine, Rollen, Quick-Wins)
   
 **Lernziele**
 
-
+Ich kann …
+* die Kernelemente einer schulweiten KI-Richtlinie und deren Einbettung in Organisationsentwicklung (OE), Unterrichtsentwicklung (UE) und Personalentwicklung (PE) erklären (Geltungsbereich, Leitplanken, Rollen/Gremien, Tool-Freigabeprozess, Human-in-the-Loop, PDCA).
+* Kennzeichnungs- und Transparenzregeln für KI-gestützte Leistungen in Unterricht und Prüfung ableiten und schulweit kommunizierbar machen.
+* einen pragmatischen Entwurf für einen Implementierungs- und Kompetenzaufbau-Plan (KI-Kompetenz-Plan, Fortbildung/Onboarding, Monitoring, Quick-Wins) als Mini-Roadmap skizzieren.
 
 **Format**
 
@@ -25,17 +34,17 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums (Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal, Bildungsadministratorinnen und -administratoren). Es spricht insbesondere Schulleitungen, Steuergruppen, KI-AGs, Medienbildungsteams und Lehrkräfte an, die sich mit der strategischen Implementierung von KI an ihrer Schule befassen.
 
 **Voraussetzungen und Hinweise**
 
-
+Für die Teilnahme an diesem Modul werden keine technischen Spezialkenntnisse vorausgesetzt. Erste Erfahrungen mit KI-Anwendungen in Schule oder Unterricht sowie das Basismodul „Einführung KI“ sind hilfreich, aber nicht zwingend erforderlich.
 
 ## Bestandteile des Angebots
 
 - Texte
 - Skript
-- [Videos](xxxx)
+- [Videos](https://speicher.nibis.de/s/NQfF5s249B95kyq)
 - Audiospur
 - Transkript
 
@@ -45,7 +54,7 @@ Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCent
 
 Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
 
-**[Direkt zum Kurs im NLC](xxx)**
+**[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/52868)**
 
 ## Contribution
 
@@ -54,7 +63,7 @@ Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verf�
 
 ## Lizenzbestimmungen
 
-Dieser Onlinekurs ist frei lizenziert und im Sinne von Open Educational Resources (OER) offen zur weiteren Verwendung, Veränderung, Weitergabe etc. Als Gesamtwerk steht er unter der Lizenz CC BY 4.0. Details zu dieser Lizenz finden Sie hier in Kurzform und hier ausführlich. Als Namensnennung im Sinne der Lizenz ist vorgesehen: „xxxxx im Auftrag des Niedersächsischen Landesinstituts für schulische Qualitätsentwicklung (NLQ Hildesheim)“.
+Dieser Onlinekurs ist frei lizenziert und im Sinne von Open Educational Resources (OER) offen zur weiteren Verwendung, Veränderung, Weitergabe etc. Als Gesamtwerk steht er unter der Lizenz CC BY 4.0. Details zu dieser Lizenz finden Sie hier in Kurzform und hier ausführlich. Als Namensnennung im Sinne der Lizenz ist vorgesehen: „mobile.schule Campus GmbH im Auftrag des Niedersächsischen Landesinstituts für schulische Qualitätsentwicklung (NLQ Hildesheim)“.
 
 Einzelne Elemente des Kurses, zum Beispiel Abbildungen, Videos, Texte, können eigenständig unter anderen Lizenzbedingungen freigegeben sein, auch durch Dritte. In diesen Fällen ist dies im oder am jeweiligen Element angeben.
 
